@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-12T12:20:48+01:00
+
+====== Home ======
+Created piątek 12 styczeń 2018
+
+$  ("selektor").akcja(function() {
+	 działaania;
+});
+
+$- od tego sie zaczyna 
+W jQuery pierwszym sposobe,m selekcji jest jest selekcja elementu z indetyfikatorem
+W jQ należy pamiętac o ()!!!
+
+===== Dołączanie jQ do strony =====
+1)Dołączanie za pomocą CDN - biblioteka (forma linku)
+2)Dołączanie lokalne
+Metody
+.hide(),  ukryj
+.show(), pookaż
+.fadeIn(), 
+.fadeOut()
+.toggle()
