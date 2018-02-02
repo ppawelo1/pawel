@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-02T12:15:21+01:00
+
+====== Klient-Serwer ======
+Created piątek 02 luty 2018
+
+**Serwer- "komputer" udstepniający zasoby**
+udostepnia USUGI (ang.services.lista:/etc/services0
+
+1. DNS - Domain Name System, port 53, zamiana nazw hostów na adres IP,polecenie ping
+2. HTTP -  Hyper Text Transfer Protocal, komunikacja w zakresie stron WWW, port 80
+3. FTP  - File Transfer  Protocol, port 20,21
+4. SSh  - Secure Shell, port 22
+
+**klient  - ** 'komputer'korzystający z usług udostepnianych przez serwer
+**Protokół  - ;** język'  porozumiewania się klienta z serwerem, protokoły definiowane są w dokumencie RFC
+Adres Ip, np. publiczne 221.34.2.10
+**Port**  -   liczba naturalna identyfikująca usługe na serwarze, well know ports 0-1024, zob./etc/services
+
+
+**Lokalny serwe HTTP**
+1. pythom -m [[SimpleHTTPServer]]
+2. python3 -m http.server
+
+php-S [[localhost:8000]]
+==========================
+**Domyslna nazwa serwera:port**
+localhost: 8000
+==========================
+**Metoda GET = nietajne!!!!!!!!!!!**
+
+URI => URL
+http://lo1.sandomierz.pl/szukaj?words=parnas&search=
+
+http:// -  protokół
+l[[ttp://lo1.sandomierz.pl/szukaj?words=parnas&search=|o1.sandomierz.pl]] - (pełnodomenowa) nazwa serwera
+[[/szukaj]] -  zasób/ plik    na serwarze
+? - początek listy parametrów
+[[ttp://lo1.sandomierz.pl/szukaj?words=parnas&search=|words=parnas]] - parametr w formacie nazwa = wartość
+& - znak służący do rozdzielania parametrów
+[[ttp://lo1.sandomierz.pl/szukaj?words=parnas&search=|search=]] - paramet, który ma nazwe ale nie ma wartości
+
+
+
+**Metoda POS**
+
+http:// -  HTTP + SSL
+Podobnie  jak w metodzie GET
+
+**dołącz do zajęć!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
+
+
