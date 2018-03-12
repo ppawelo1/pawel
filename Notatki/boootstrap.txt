@@ -32,3 +32,7 @@ Created piątek 02 marzec 2018
 **Wejdz na dokumentacje Bootsrapa**
 
 **float-left**- oblewanie  obrazka przez tło
+
+===== Pseudoelementy css =====
+-before
+-after

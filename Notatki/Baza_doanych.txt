@@ -23,13 +23,13 @@ skałda sie z wielu tabel połączonych relacjami
 
 **Programy:**
 Microssof Access  (.accdb)
-[[LibreOffice]] Base (.odp)
-[[SQLiteStudio]] (.db,.sqlite)
+LibreOffice Base (.odp)
+SQLiteStudio (.db,.sqlite)
 
 **System baz danych (silnik danych):**
 [[MySQL]]
-[[MariaDB]]
-[[PostgreSQL]]
+MariaDB
+PostgreSQL
 Oracle
 SQLite
 Nie używamy znaków polskich, spacja=_

@@ -23,7 +23,7 @@ Adres Ip, np. publiczne 221.34.2.10
 1. pythom -m [[SimpleHTTPServer]]
 2. python3 -m http.server
 
-php-S [[localhost:8000]]
+php-S localhost:8000
 ==========================
 **Domyslna nazwa serwera:port**
 localhost: 8000
