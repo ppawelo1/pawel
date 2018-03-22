@@ -1,0 +1,31 @@
+body{
+  background-image: url('tlo.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+html {
+  font-size: 1rem;
+}
+
+@include media-breakpoint-up(sm) {
+  html {
+    font-size: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 1.6rem;
+  }
+}
+figure {
+  margin-left: 5px;
+  margin-right: 5px;
+}
