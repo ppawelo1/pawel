@@ -36,3 +36,5 @@ Created piątek 02 marzec 2018
 ===== Pseudoelementy css =====
 -before
 -after
+
+https://html.spec.whatwg.org/multipage/

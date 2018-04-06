@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-23T12:31:51+01:00
+
+====== webmaster ======
+Created piątek 23 marzec 2018
+
+ collapse- chowanie i rozkładanie na stronie (np.:zdjecia)
+ navbar-toggler-
