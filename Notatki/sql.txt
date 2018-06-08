@@ -19,3 +19,10 @@ sglite3.exe
  sqlite3.exe szkola.db < szkola
 .schema    -  pokaż pola danych
 .quit             -  wyjdz
+
+08.06.2018r.
+**Kwerendy**
+BETWEEN ZAKRES OBUSTRONNIE DOMKNIETY <>
+ZAKRES TEKSTOWY NIE JEST ZWRACANA, LEWOSTRONNIE DOMKNIETY ,A PRAWOSTRONNIE OTWRTY; <)
+
+klauzura limit
