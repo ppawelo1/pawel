@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-06T08:07:54+02:00
+
+====== kody maszynowe ======
+Created czwartek 06 września 2018
+ Maszyna zapamietuje kod binarny
+**Asemblery**- pierwszy jezyk kodowania niskiego poziomu. Jest on bardzo długim i skomplikowaym jezykiem.
+
+**Języki programowania wysokiego poziomu**
+-stworzone na bazie asemblerów
+-Lata 70 XX w. powstały dwa jezyki- język C ( C++ w 1983) w 1971 r. oraz język  Pascal w 1970 r. jego zadanieniem jest uczenie programowania. 
+
+**Kompilator** język, który analizuje składnie poleceń i tworzy na ich podstawie nowy porogram, sprawdza poprawnośc,tworzy obiekt posredni zawierający instrukcje  do kodu maszynowego.
+**Biblioteka gotowch funkcji **wspomaga programowanie
+**Linker** -	
+
+Kod  zródłowy jest interpretowany (JavaScript, Java)
+**Algorytm** posługiwanie sie okreslonymi funkcjami, aby otrzymac dany efekt (mównie komputerowi co ma robic)
+Def. algorytmów
+Skończony ciag czynności, przekształcający zbiór danych wejściowych na zbiór danych wyjściowych, wykonuja one działania matematyczne na danych liczbowych, kolejnośc czyności zawsze jest taka sama.
+
+===== Schematy blokowe: =====
+**graniczny-** poczatek algorytmu
+**operacyjny** operacja zmienjająca wartośc zmniennych
+**wyjscia/wejścia**- operacja wprowadzania i wyprowadzania danych(zazwyczaj sie go uzywa na poczatku)
+**decyzyjny**- wybór jednej z dwóch mozliwych dróg działania
+**graniczny**- koniec algorytmu
+
+
+
+
+
+
+
+
