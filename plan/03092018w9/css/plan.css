@@ -1,0 +1,66 @@
+body{
+	background-color:#ffffff;
+	color:#000000;
+	font:11px verdana,sans-serif;
+	overflow:auto;
+	margin:0}
+.tabtytul{ /* tabelka z grafik� (nag��wek) */
+	background-color:#80c2ab;
+	border-bottom:2px solid #808080}
+.tytul{ /* kom�rka z tytu�em */
+	background-color:#FF0000;
+	color:#ffffff;
+	height:80px;
+	font:bold 36px verdana,sans-serif;
+	font-family: 'Noto Serif KR', sans-serif;
+	font-size: 44px;
+	border-bottom:2px solid #c0c0c0;
+	text-align:center}
+.tytulnapis{ /* tytu� strony z cieniem (tylko IE) */
+	padding-left:10px;width:400px;height:60px;filter:Shadow(Color=#666666,Direction=150)}
+.tabela{ /* tabela z planem */
+	border-color:#c0c0c0}
+td{
+	font-size:12px
+	font-family: 'Noto Serif KR', sans-serif;
+	font-size: 11px;}
+th{
+	background-color:#FF0000;
+	color:#000000;
+	font-size:13px}
+td.g{ /* godzina */
+	background-color:#F0F8FF;
+	color:#000099;
+	font-weight:bold;
+	font-family: 'Noto Serif KR', sans-serif;
+	font-size: 11px;
+	vertical-align:top;
+	text-align:center;
+	white-space:nowrap}
+td.nr{ /* numer lekcji */
+	background-color:#FF0000;
+	color:#000099;
+	font-weight:bold;
+		font-family: 'Noto Serif KR', sans-serif;
+			font-size: 11px;
+	text-align:center;
+	vertical-align:top}
+td.l{ /* lekcja */
+	background-color:#ffffff;
+	color:#000000;
+	vertical-align:top}
+a.n{ /* nauczyciel */
+	color:#000099}
+a.s{ /* sala */
+	color:#000099}
+a.k{ /* klasa */
+	color:#000099}
+.p{ /* przedmiot */
+	color:#000000;
+	font-weight:bold}
+.op{ /* napis */
+	font:10px verdana,sans-serif}
+@media print{
+.tabtytul{ /* nag��wek do druku */
+	display:none}
+}
