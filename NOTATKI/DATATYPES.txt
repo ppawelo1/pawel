@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-01T07:33:02+02:00
+
+====== DATATYPES ======
+Created poniedziałek 01 października 2018
+
+**NULL**
+**INTEGER**
+**REAL- **uzywane z liczbami zmiennoprzecinkowymi
+**REST**
+**BLOB**
+
+**CHAR**(20)'zagwsk'
+**VARCHAR(**20)'zagwsk'
+**KODOWANIE** = UTF8
+**BOOLEAN(0 **- False**,1- **True**)**
+
+===== Date and Time datatypes =====
+TEXT
+REAL
+INTEGER

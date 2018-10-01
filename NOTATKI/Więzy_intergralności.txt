@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-01T07:15:16+02:00
+
+====== Więzy intergralności ======
+Created poniedziałek 01 października 2018
+
+
+ **id INTEGER PRIMARY KEY -** 
+**AUTONUMERIC** - POLE NUMEROWANe AUTOMATYCZNIE
+1
+2
+
+4
+5
+6
+
+**UNIQUE-**  unikalnośc wartości w kolumnie
+**NOT NULL-**  nie dopuszczenie pustych wartości
+**FOREIGN KEY**- definicja klucza obcego
+**DEFAULT**- wartośc domyslna
+nazwa_pole **REFERENCES** tabela (INNE POLE)
+**CHECK**  num1 > num2 - testowanie wartości
+**ON DELETE CASADE**-  
+razem z wierszem tabebeli nadrzdnej zostą usuniete wszystkie wiersze tabeli podrzędnej, w których wartości kluxcza obcego wskazuja na usuwany wiersz ( pod warunkem, że usuniecie tych wierszy jest mozliwe bez naruszenia innych więzów referencyjnych)
+**ON DELETE SET NULL/ SET DEFAULT**

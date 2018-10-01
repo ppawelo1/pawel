@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS oceny;
 DROP TABLE IF EXISTS dane;
 
 CREATE TABLE uczniowie(
-	id INTEGER  PRIMARY KEY,
+	id INTEGER  PRIMARY KEY NOT NULL,
   numer ucznia TEXT(16),
   nazwisko TEXT(20),
 	imie TEXT(16),
@@ -11,7 +11,7 @@ CREATE TABLE uczniowie(
 );
 
 CREATE TABLE dane(
-  id INTEGER  PRIMARY KEY,
+  id INTEGER  PRIMARY KEY NOT NULL,
   numer ucznia TEXT(16),
   dzien INTEGER(2),
   miesiac INTEGER(1),
@@ -22,7 +22,7 @@ CREATE TABLE dane(
  );
 
 CREATE TABLE oceny (
-  id INTEGER  PRIMARY KEY,
+  id INTEGER  PRIMARY KEY NOT NULL,
   Zach TEXT(20),
   Rel INTEGER(1) DEFAULT "",
   Ety INTEGER(1) DEFAULT "",
