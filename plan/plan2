@@ -1,0 +1,25 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="pl">
+<meta name="description" content=" I Liceum Ogólnokształcące Collegium Gostomianum . Plan lekcji utworzony za pomocą programu Plan lekcji Optivum firmy VULCAN">
+<title> I Liceum Ogólnokształcące Collegium Gostomianum . Plan lekcji</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<!-- Open Sans Condensed  font -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet">
+</head>
+<frameset cols="160,*">
+<frame name="list" target="plan" src="lista.html" marginwidth="0" marginheight="0" scrolling="auto">
+<frame name="plan" src="plany/o1.html" marginwidth="0" marginheight="0" scrolling="auto">
+<noframes>
+<body>
+<p>Ta strona używa ramek, których Twoja przeglądarka nie obsługuje!
+ Możesz skorzystać ze <a href="lista.html">strony nawigacyjnej</a>.</p>
+</body>
+</noframes>
+</frameset>
+</html>
