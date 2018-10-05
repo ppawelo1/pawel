@@ -5,27 +5,37 @@
 #  Program drukuje wypełniony prostokat o bokach podanych przez uzytkownika za pomoca podanego znaku.
 
 def prostokat1(a, b, c):
+    
     for i in range (a):
         for j in range (b):
             print(c, end='')
         print()
         
 def prostokat2(a, b, c):
+    
      for i in range (a):
         for j in range (b):
-            if i 
-            if j == 0 or b - 1:
+            if j == 0 or j == b - 1 or i == 0 or i == a - 1:
                 print(c, end='')
             else:
-                print("", end='')
+                print(" ", end='')
         print()
-    
+        
+def choinka(h, c):
+
+    for i in range(h):
+        for j in range(b):
+           
+           print()
+   
 def main(args):
     a = int(input("Podaj 1 bok: "))
     b = int(input("Podaj 2 bok: "))
     c = input("Wypełnienie prostokata: ")
+    h = int(input("Podaj wysokośc choinki: "))
     
-    print(prostokat1(a, b, c))
+    
+    print(prostokat2(a, b, c))
     
     return 0
 
