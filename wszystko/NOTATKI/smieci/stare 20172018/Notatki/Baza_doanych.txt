@@ -1,0 +1,54 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-22T09:55:42+01:00
+
+====== Baza doanych ======
+Created poniedziałek 22 styczeń 2018
+**Projekt bazy danych:**
+tabela
+pola, tryb danych, czyli liczby i tekst
+rekord=zbiór  pól w obrebie jednej tabeli
+
+Język SQL- strukturalny język zapytań stosowanych w bazie danych
+
+Baza powinna zajmować minimum pamięci. Dzięki temu możemy szybciej je analizować
+
+**3 warunki dobrej bazy danych:**
+minimum miejsca
+spójnośc 
+wydajność
+
+**Relacyjna baza danych**
+skałda sie z wielu tabel połączonych relacjami
+
+**Programy:**
+Microssof Access  (.accdb)
+LibreOffice Base (.odp)
+SQLiteStudio (.db,.sqlite)
+
+**System baz danych (silnik danych):**
+[[MySQL]]
+MariaDB
+PostgreSQL
+Oracle
+SQLite
+Nie używamy znaków polskich, spacja=_
+
+**Typy danych:**
+__1.liczbowe__
+-integer - liczby całkowite
+-float, real, decimal- liczby zmiennoprzecinkowe
+__2.tekstowe__
+-text[20], varchar[20]
+-string
+__3.data i czas:__
+Date - data, np. w formacie ISO, np. 2015-01-16
+[[DateTime]] - data i czas
+
+
+autoinkrementacja
+**klucz główny (ang. primary key**)- pole, którego wartośc jest unikalna w obrębie tabeli, tzn. ze klucz główny jednoznacznie identyfikuje rekord tabeli
+**klucz obcy(ang. secondary key, REFERENSES tabrlr_name)** klucz obcy pobiera wartości z klucza głównego, łączy tabelem zależne z tabelą główną.
+
+**TYPY relacji**
+relacja jeden-do-wielu

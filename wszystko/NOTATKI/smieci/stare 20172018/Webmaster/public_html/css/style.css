@@ -1,0 +1,75 @@
+/*
+    font-family: arial, tahoma, sans-serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.15em;
+*/
+
+body {
+    font: normal normal 12pt/1.3 arial, tahoma, sans-serif; 
+}
+#header {
+    padding:  40px 20px 10px 5px;
+    border-bottom: 30px 5px 15px 50px;
+    margin: 10px dotted blue;
+}
+#header img {
+    border: 10px solid yellow;
+}
+.header {
+    padding: 20px;
+    border-bottom: 10px solid red;
+    margin: 30px;
+}
+
+.header img {
+    display: block;
+    float:  none;
+    
+}
+
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 250%;
+}
+
+p {
+    font-size: 14pt;
+    line-height; 1.5em;
+}
+
+.czerwony {
+    color: red;
+}
+
+.pogrubiony {
+    font-weight: bold;
+}
+
+.pochylony {
+    font-style: italic;
+}
+
+.wyrozniony {
+    color: #EDAA0F;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p.srodek {
+    clear: both;
+    text-align: center;
+}
+
+img {
+    float: right;
+    border: 18px yellow;
+}
+
+
+

@@ -1,0 +1,222 @@
+Nr_ucz. Nazwisko Imie1 Imie2
+9201 Adamczuk Agata 
+9802 Adamiuk Marta 
+9202 Adamowicz Izabela 
+9804 Anchimiuk Anna Bogumiła
+9805 Andrejczuk Zofia 
+9806 Andrusiewicz Agata 
+9810 Bagińska Anna Anna
+9811 Bajena Magdalena 
+9504 Bańska Marianna 
+9812 Baranowski Marceli Piotr
+9211 Bielecka  Anna 
+9818 Bieluczyk Magdalena 
+9819 Biernacka  Marta 
+9824 Boguski Marcin 
+9217 Bojanowska Joanna 
+9829 Boryś Dorota 
+9830 Branicka Katarzyna 
+9224 Bruszewska Agnieszka 
+9831 Brzostowski Dominik 
+9832 Brzozowska Agata 
+9833 Brzozowski Zdzisław 
+10132 Buza Patrycja 
+9836 Choromański Grzegorz 
+9231 Chudecka  Dominika 
+9233 Ciereszko Agnieszka 
+9840 Cybulko Paweł 
+9234 Cylwik Edyta 
+9842 Czajkowska Katarzyna 
+9845 Czerniawska Zuzanna 
+9844 Czerniawski Maciej 
+10142 Dawidowicz Justyn 
+9848 Dąbrowska Agnieszka 
+9241 Dojlidko Emilia 
+9852 Doktór Marta 
+9854 Drabik  Robert 
+9856 Duda  Aleksandra  
+9858 Dudzińska Iwona 
+9826 Dworak Urszula 
+9859 Dworakowski Maciej 
+9860 Dziakowska Marta 
+9870 Ejsmont Monika 
+9867 Fidziukiewicz Marta 
+9248 Fraind Łukasz 
+9871 Gawecka Agnieszka 
+9873 Gawryluk Izabela 
+9551 Gągoliński Andrzej 
+9876 Gedroyć Małgorzata Janina
+9877 German Dariusz 
+9254 Glebowicz Aneta 
+9878 Godlewska Aleksandra Karolina
+9257 Gołębiewska Marta 
+9825 Górska Sylwia 
+9562 Górski Karol Paweł
+9883 Gryczon Agata 
+9884 Grygieńć Michał Kamil
+9885 Gryko Marta 
+9887 Grynasz Adam 
+9888 Guziejko Anita 
+9566 Halicki Jan 
+9889 Hałuszczak Rafał 
+9567 Harasimczuk Eliza 
+9568 Herbuś Jacek 
+9265 Hryniewicz Magdalena 
+9891 Husar Urszula 
+9575 Instyńska Justyna 
+9892 Iwaniuk Krzysztof 
+9893 Iwaszczuk  Agata 
+9894 Iwaszko  Paweł 
+9899 Jarząbek Katarzyna 
+9901 Jefimiuk Izabela 
+9802 Jegorow Krzysztof 
+9903 Jurak Karol 
+9905 Kalinowski Tomasz 
+9907 Kanadys Monika 
+9909 Karłuk Justyna 
+9925 Karolczuk Karina 
+9910 Karpińska Iwona 
+9911 Karpowicz Michał 
+9291 Karwowska Marianna 
+9912 Karwowski Zenon 
+9928 Kasacki Maciej 
+9593 Kasperuk Barbara 
+9913 Kasprzak Mariusz 
+9595 Kawałko Eliza 
+9916 Kirycki Mateusz 
+9918 Klima  Karol Maciej
+9299 Kobeszko Monika 
+9920 Kochańska  Ewa 
+9924 Konończuk Karolina Marta
+9605 Konopka Małgorzata 
+9607 Konopko Paweł 
+9929 Kosicki Paweł 
+9930 Kostro Katarzyna 
+9932 Kowerda Magdalena 
+9934 Kozaczuk Karolina Anna
+9937 Kozakiewicz Kamila Agnieszka
+9611 Kozioł Sylwia 
+9940 Kozlowska Paula 
+9311 Kozłowska Agnieszka 
+10133 Krętowska Ewa Magdalena
+9941 Krętowski  Piotr 
+9943 Krupowicz Tomasz 
+9614 Kruszewska Monika 
+9945 Kukowska Katarzyna 
+9621 Kulikowska Emilia 
+9327 Kuryga  Katarzyna 
+9956 Kurzątkowska Zofia 
+9958 Kużelewska Aneta 
+9961 Ledowicka Anna 
+9962 Leszczyński Daruisz 
+9963 Lewończuk Jacek 
+9494 Linowski Krzysztof 
+9966 Łapińska Joanna Katarzyna
+9967 Łapiński Wojciech 
+9988 Malinowska Agnieszka 
+9643 Małaszewicz Anna 
+9644 Mancewicz Agnieszka 
+9645 Marchelowicz Michał 
+9974 Marchiel Izabela 
+9343 Masłowska Magda Anna
+9649 Matulewicz Karolina 
+9651 Mazurczyk Urszula 
+9982 Mierzyński Paweł 
+9353 Milewski Jakub Józef
+9984 Mojsik Ewa 
+9985 Monieta Kamil 
+9987 Niemyńska Karolina 
+9988 Nieścieruk  Paweł 
+9989 Nijaki Karol 
+9990 Nowacka Agata 
+9991 Nowik Ewa 
+9998 Olszyńska Justyna 
+9370 Ołdyńska Eliza 
+10000 Pancewicz Marta 
+9682 Perkowska Iwona 
+10003 Perkowska Agnieszka 
+10002 Perkowski Andrzej 
+9386 Pogorzelska Magda 
+10006 Popławski Marek 
+10007 Popławski Marianna 
+9699 Puciłowska Beata 
+10013 Puciłowski Michał Maria
+10015 Raczkowski Tomasz 
+10016 Radulska  Anna 
+10140 Rakowski Łukasz Jakub
+10017 Redyk Ewa 
+9705 Roman Monika 
+10018 Romaniuk Błażej Paweł
+9708 Roszkowska Agnieszka 
+10019 Roszkowska Anna 
+10020 Rozmysłowska Marianna Karolina
+10021 Rozwadowski Jakub 
+10022 Rudnicki Jarosław Maciej
+9710 Rutkowska Manuela 
+10024 Rutkowska Karolina 
+10025 Rutkowska Emilia 
+10026 Rybczyńska Ilona 
+10029 Rydzewska Justyna 
+9714 Sacharczuk Joanna 
+10032 Sadowski Monika 
+9716 Sakowia Alina 
+9416 Sawicka Joanna 
+10035 Semeniuk  Monika 
+10067 Siemiończyk Bartosz 
+9421 Sienkiewicz Elżbieta 
+10037 Sienkiewicz Adrianna 
+10238 Skiepko Maciej 
+10043 Skotnicki Michał Zenon
+10044 Sobolewska Emilia 
+10045 Sobolewska Maciej Magdalena
+9430 Socha Anna 
+10047 Spiczko Katarzyna 
+10050 Stefanowicz Adam 
+10053 Stypułkowska Karolina 
+9437 Suchocka Justyna 
+10054 Sulewska Iwona 
+10057 Szczebiot Beata 
+10060 Szklanko Irena 
+10061 Szoka Katarzyna 
+9745 Szymańska Agnieszka 
+10064 Szymański Łukasz 
+10068 Śledziewski Piotr Kamil
+10074 Talarczyk Konrad 
+10076 Toczyńska Anna 
+9749 Tomaszewska Joanna 
+10077 Trajgiel Diana 
+9751 Tuchliński Anna 
+10080 Tugeman Tomasz Andrzej
+10081 Tyra Katarzyna Magdalena
+9754 Urban Przemysław 
+10085 Uściłowski Grzegorz 
+10088 Walesiuk Adrian 
+9457 Walińska Małgorzata 
+10089 Wasiak Daniel 
+10082 Werpachowska Olga 
+10093 Wieczorek Anna 
+10094 Więcko Katarzyna 
+10096 Wiśniwska  Urszula 
+10097 Witkowska Anna Maria
+10099 Wojda Zenon Wojciech
+9473 Wołoszyn Marta 
+9770 Wypychowski Michał 
+10103 Wysocki Grzegorz 
+10105 Zagórecki Piotr 
+10106 Zakrzewska Urszula Sylwia
+9779 Zalewska Aneta 
+10109 Zaniewska Emila 
+10110 Zaniewska  Anita 
+9478 Zawada  Kamila 
+10112 Zawadzka Justyna 
+10114 Zawadzka Ewa 
+10115 Zawadzka Anna Danuta
+10116 Zdrodowski Wojciech 
+10117 Zielik Zofia Janusz
+9788 Zientara Rafał 
+10118 Zieziula Iwona 
+10119 Znaczko Izabela 
+9481 Żakiewicz Anna 
+9483 Żemojda Adam 
+9486 Żukowska Joanna 
+10120 Żukowska Ewelina 

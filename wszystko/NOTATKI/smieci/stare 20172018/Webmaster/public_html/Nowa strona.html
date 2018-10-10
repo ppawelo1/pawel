@@ -1,0 +1,66 @@
+<!--
+   Nowa strona.html
+   
+   Copyright 2017  <>
+   
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2 of the License, or
+   (at your option) any later version.
+   
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+   
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+   MA 02110-1301, USA.
+   
+   
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title>bez nazwy</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="generator" content="Geany 1.29" />
+   <style>h1 { background-color: green;}
+   </style> 
+</head>
+
+<body>
+	<h1>Witaj na kursie</h1>
+<p> Zaczniemy od pól tekstowych</p>
+<label for="liczba1">Liczba 1:</label>
+<input type="text" id="liczba1">
+<label for="liczba2">Liczba 2: </label>
+<input type="text" id="liczba2">
+ <button onclick="dodaj();">Dodaj</button> 
+ <button onclick="odjąć();">Odjąć</button> 
+
+</body>
+<script>
+    function  dodaj(){
+  var liczba1 = document.getElementById("liczba1").value;
+  var liczba2 = document.getElementById("liczba2").value;
+  
+  alert("Suma: " + (parseInt(liczba1)+parseInt(liczba2)));
+}
+function  Odjąć(){
+  var liczba1 = document.getelementById("liczba1").value
+  alert;
+  var liczba1 = document.getelementById("liczba2").value
+  alert("Różnica: " + (parseInt(liczba1)-parseInt(liczba2)));
+  
+  if (parseInt(liczba2) == 0){
+    alert("Nie wolno dzielić przez ZERO!!");
+    liczba2 = 1
+  }
+}
+</script>
+</html>
