@@ -34,6 +34,8 @@ def choinka2(h, c):
         for j in range(h - i):
             print(c, end="")
         print()
+        
+def trojkat()
    
 def main(args):
     #a = int(input("Podaj 1 bok: "))
