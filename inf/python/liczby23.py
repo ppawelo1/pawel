@@ -20,23 +20,22 @@ def liczby2():
     return ile
     
     def liczby3():
-    """
-    Funkacja drukuje wszystkie liczby 3-cyfrowe, w których cyfry nie powtarzaja się. Funkcja zwraca ich liczbę.
-    Wykluczone liczby: 111, 222, 333 itd.
-    """
-    ile = 0 #licznik
+    
+    #Funkacja drukuje wszystkie liczby 3-cyfrowe, w których cyfry nie powtarzaja się. Funkcja zwraca ich liczbę. Wykluczone liczby: 111, 222, 333 itd.
+    
+    ile = 0 
     for i in range (1,  10):
          for j in range (10):
 			 for k in range (10):
-             if i != j and j!=k and i!=k:
-                 print(i*100+j*10+k,end=" ")
-                 ile = ile + 1
-     print()
+                 if i != j and j != k and i != k:
+                     print("{}{}{} ".format(i, j, k), end='')
+                     ile = ile + 1
+    print()
     return ile
 
 def main(args):
     print("\n\nLiczb 2-cyfrowych:", liczby2())
-    print("Liczb 3 cyfrowych", liczby3())
+    print("\n\nLiczb 3 cyfrowych", liczby3())
     return 0
 
 if __name__ == '__main__':
