@@ -13,6 +13,7 @@ def nwd_klasyczny(a, b):
         #print(a)
     return a
     
+def 
         
 def main(args):
     a = int(input("Podaj 1 liczbę: "))
@@ -22,7 +23,6 @@ def main(args):
                                     b,
                                     nwd_klasyczny(a, b)
                                     ))
-   
     return 0
 
 if __name__ == '__main__':
