@@ -1,0 +1,29 @@
+tabela uczniowie:
+id, 
+imie
+nazwisko
+plec
+id_klasa
+egz_hum
+egz_mat
+egz_jez
+
+tabela klasy:
+id
+klasa
+rok_naboru
+rok_matury
+
+tabela przedmioty:
+id
+przedmiot
+imie_naucz
+nazwisko_naucz
+plec_naucz
+
+tabela oceny:
+id
+datad
+id_uczen
+id_przedmiot
+ocena
