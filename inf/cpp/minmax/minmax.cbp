@@ -7,8 +7,8 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Release">
-				<Option output="bin/Release/minmax" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Release/" />
+				<Option output="minmax.exe" prefix_auto="1" extension_auto="0" />
+				<Option object_output="/home/kl2ag2/pawel/inf/cpp/minmax/.objs" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
