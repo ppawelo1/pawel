@@ -18,11 +18,13 @@ void licz_znaki(char tb[], int roz) {
     biale = inter = reszta = 0;
     while (tb[i] != '\0') {
         if (tb[i] == ' ' || tb[i] == '\t') biale++;  //or = ||
-        else id (tb[i] == ',' || '.') inter++'
+        else id (tb[i] == ',' || '.') inter++;
         else reszta++;
         i++;
     }
-    cout << "Białych: " << biale <<
+    cout << "Białych: " << biale << endl;
+    cout << "interpu: " << inter << endl;
+    cout << "Reszta: " << reszta << endl;
 }
 
 int main(int argc, char **argv)

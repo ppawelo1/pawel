@@ -27,6 +27,14 @@ def dane_z_pliku(nazwa_pliku, separator=','):
     return dane
 
 
+def kwerenda_1(cur):
+     cur.execute("""
+         SELECT * FROM magazyn
+                 """)
+     wyniki = cur.fetchall()
+     for row in wyniki:
+        print(tuple(row))
+
 def ile_kolumn(cur, tab):
     """ Funkcja sprawdza i zwraca liczbę kolumn w podanej tabeli """
     licznik = 0
@@ -70,6 +78,7 @@ def main(args):
         cur.executemany('INSERT INTO ' + tab +
             ' VALUES(' + ','.join(['?'] * ile) + ')', dane)
 
+    print(dane)
     con.commit()  # zatwierdzenie zmian w bazie
     con.close()  # zamknięcie połączenia z bazą
     return 0
