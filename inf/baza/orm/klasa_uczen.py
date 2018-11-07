@@ -28,6 +28,7 @@ class Wynik(BazaModel):
     egz_hum = decimalField(default=0)
     egz_mat = decimalField(default=0)
     egz_jez = decimalField(default=0)
+    uczen = ForeignKeyField(Uczen, related_name='wyniki')
 
 def main(args):
     if os.path.exists(baza_plik):
