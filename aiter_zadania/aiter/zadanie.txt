@@ -1,0 +1,4 @@
+W oparciu o podane kody źródłowe przygotuj schemat blokowy.
+Schemat zapisz w pliku o nazwie "nazwisko_schemat.roz".
+Dopuszczalne rozszerzenia: odg, png, pdf.
+Plik wgraj na serwer.
