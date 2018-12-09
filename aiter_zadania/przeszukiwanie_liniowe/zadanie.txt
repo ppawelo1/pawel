@@ -1,5 +1,0 @@
-Na podstawie dołączonego schematu blokowego napisz program w języku C++ lub Python
-sprawdzający, czy podana przez użytkownika liczba znajduje się
-w tablicy zawierającej min. 10 liczb losowanych z zakresu <0;50>.
-Kod zapisz w pliku o nazwie "nazwisko_przeszukiwanie.roz".
-Rozszerzenie dopasuj do języka. Plik wgraj na serwer.

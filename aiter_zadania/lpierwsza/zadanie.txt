@@ -1,3 +1,0 @@
-W oparciu o podany schemat blokowy napisz program w języku C++ lub Python.
-Kod zapisz w pliku o nazwie "nazwisko_lpierwsza.roz".
-Rozszerzenie dopasuj do języka. Plik wgraj na serwer.
