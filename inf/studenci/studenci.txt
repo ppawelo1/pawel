@@ -1,0 +1,1617 @@
+Id_studenta;Imie;Nazwisko;Uczelnia;Miejsce_zam;Rok_studiow;Dochod_na_osobe
+1;Jadwiga;Baranowska;Uniwersytet Krolewski;Aleksandrow Kujawski;I;2382
+2;Zofia;Chorzowska;Akademia Sztuk Pieknych;Aleksandrow Kujawski;I;1549
+3;Katarzyna;Bilska;Uniwersytet Krolewski;Aleksandrow Kujawski;I;3037
+4;Michal;Rada;Politechnika Krolewska;Alwernia;I;1712
+5;Pawel;Milek;Politechnika Informatyczno-Elektroniczna;Alwernia;I;1459
+6;Marcin;Biernat;Politechnika Krolewska;Alwernia;I;931
+7;Gracja;Bijakowska;Politechnika Informatyczno-Elektroniczna;Alwernia;I;1482
+8;Wojciech;Zaluski;Politechnika Krolewska;Alwernia;II;2141
+9;Martyn;Kowalski;Uniwersytet Krolewski;Alwernia;II;2713
+10;Jolanta;Ochala;Uniwersytet Krolewski;Alwernia;I;3332
+11;Przemyslaw;Planeta;Akademia Sztuk Pieknych;Alwernia;II;444
+12;Barbara;Michalska;Politechnika Krolewska;Baborow;II;2368
+13;Kamil;Berakacz;Politechnika Informatyczno-Elektroniczna;Baborow;IV;1765
+14;Teresa;Kuc;Uniwersytet Krolewski;Baborow;III;2602
+15;Matylda;Zielinska;Uniwersytet Sportu i Turystyki;Barlinek;I;2949
+16;Wieslawa;Babiarz;Uniwersytet Krolewski;Barwinek;IV;1576
+17;Natalia;Barton;Wyzsza Szko�a Techniczna;Barwinek;V;409
+18;Alojzy;Wolak;Uniwersytet Sportu i Turystyki;Bedzin;V;1767
+19;Daniel;Lisiecki;Uniwersytet Krolewski;Bedzin;II;1867
+20;Adam;Bzinkowski;Politechnika Krolewska;Bedzin;V;782
+21;Andrzej;Tokarski;Uniwersytet Krolewski;Bedzin;I;2580
+22;Gabriela;Kolska;Uniwersytet Krolewski;Bedzin;V;1111
+23;Bogumila;Kolodziej;Uniwersytet Krolewski;Bedzin;III;630
+24;Augustyna;Swierkowska;Uniwersytet Sportu i Turystyki;Bedzin;I;1489
+25;Tomasz;Tutaj;Politechnika Informatyczno-Elektroniczna;Bedzin;III;3079
+26;Sylwester;Jarecki;Uniwersytet Muzyczny;Bedzin;I;3222
+27;Antoni;Banakiewicz;Politechnika Krolewska;Bedzin;I;1003
+28;Piotr;Skiba;Politechnika Krolewska;Bedzin;I;2917
+29;Lidia;Kazdron;Politechnika Krolewska;Bedzin;II;2646
+30;Karol;Krol;Uniwersytet Pedagogiczny;Bedzin;I;365
+31;Beata;Kotlarska;Politechnika Krolewska;Bedzin;I;1638
+32;Jan;Tyranowski;Uniwersytet Krolewski;Bedzin;I;3333
+33;Celina;Koral;Politechnika Krolewska;Bedzin;V;1242
+34;Jacek;Witebski;Uniwersytet Krolewski;Bedzin;I;1168
+35;Karol;Kedzierski;Politechnika Krolewska;Bezledy;II;1374
+36;Bartosz;Samek;Politechnika Informatyczno-Elektroniczna;Bezledy;I;543
+37;Natalia;Goral;Politechnika Krolewska;Bezledy;II;1947
+38;Janusz;Figielski;Uniwersytet Krolewski;Bezledy;II;2223
+39;Henryk;Klosinski;Uniwersytet Muzyczny;Biala Podlaska;IV;1611
+40;Krzysztof;Dyszy;Uniwersytet Ekonomiczny;Biala Podlaska;III;2898
+41;Barbara;Szelest;Uniwersytet Krolewski;Biala Podlaska;III;1666
+42;Monika;Chojecka;Uniwersytet Krolewski;Bialaszewo;I;2124
+43;Elzbieta;Jandura;Uniwersytet Krolewski;Bialaszewo;I;1552
+44;Roman;Aron;Uniwersytet Krolewski;Bialaszewo;I;997
+45;Joanna;Lodziarz;Uniwersytet Krolewski;Bialystok;II;602
+46;Martyna;Bobrowska;Politechnika Krolewska;Bialystok;I;1263
+47;Dominik;Zagajewski;Politechnika Informatyczno-Elektroniczna;Bialystok;I;448
+48;Marianna;Lyszkowska;Politechnika Krolewska;Bialystok;II;2334
+49;Anna;Tabor;Politechnika Informatyczno-Elektroniczna;Bielsk Podlaski;I;1777
+50;Marek;Frymarkiewicz;Politechnika Informatyczno-Elektroniczna;Bielsk Podlaski;I;1712
+51;Gerard;Graczynski;Uniwersytet Pedagogiczny;Bielsk Podlaski;I;1573
+52;Stefan;Skoczkowski;Uniwersytet Krolewski;Bielsko - Biala;V;2279
+53;Gabriela;Kawka;Uniwersytet Sportu i Turystyki;Bielsko - Biala;II;2273
+54;Klementyna;Bobkowicz;Uniwersytet Krolewski;Bielsko - Biala;I;3056
+55;Artur;Bartoszewicz;Uniwersytet Sportu i Turystyki;Bielsko - Biala;IV;2177
+56;Michal;Grzesiak;Politechnika Informatyczno-Elektroniczna;Bielsko - Biala;I;2239
+57;Ewelina;Korpet;Uniwersytet Krolewski;Bielsko - Biala;II;2204
+58;Radomila;Bojka;Uniwersytet Sportu i Turystyki;Bielsko - Biala;I;1403
+59;Maciej;Drozdzik;Politechnika Informatyczno-Elektroniczna;Bielsko - Biala;II;1142
+60;Jerzy;Przybylski;Uniwersytet Sportu i Turystyki;Bielsko - Biala;I;979
+61;Hanna;Baron;Politechnika Krolewska;Bielsko - Biala;I;2509
+62;Teresa;Bajerska;Uniwersytet Sportu i Turystyki;Bielsko - Biala;II;3010
+63;Danuta;Bednar;Politechnika Krolewska;Bielsko - Biala;I;1933
+64;Boguslawa;Keta;Politechnika Krolewska;Bielsko - Biala;II;3013
+65;Beata;Grabowska;Politechnika Informatyczno-Elektroniczna;Bielsko - Biala;IV;2838
+66;Stefania;Zakrzewska;Politechnika Informatyczno-Elektroniczna;Bielsko - Biala;I;420
+67;Anna;Barcikowska;Politechnika Informatyczno-Elektroniczna;Bielsko - Biala;I;3099
+68;Tadeusz;Holski;Politechnika Krolewska;Bielsko - Biala;II;1945
+69;Aleksandra;Drabicka;Uniwersytet Krolewski;Bielsko - Biala;I;2163
+70;Igor;Krynicki;Politechnika Informatyczno-Elektroniczna;Bielsko - Biala;I;1248
+71;Boleslaw;Ludziejewski;Politechnika Informatyczno-Elektroniczna;Bielsko - Biala;I;2979
+72;Danuta;Wojciechowska;Uniwersytet Krolewski;Bielsko - Biala;V;1298
+73;Katarzyna;Kausek;Uniwersytet Pedagogiczny;Bielsko - Biala;IV;847
+74;Maria;Swoboda;Politechnika Krolewska;Bielsko - Biala;II;1032
+75;Witold;Basik;Politechnika Informatyczno-Elektroniczna;Bochnia;II;2428
+76;Brygida;Mika;Politechnika Krolewska;Bochnia;II;562
+77;Mariola;Barszczon;Uniwersytet Pedagogiczny;Bochnia;I;2664
+78;Karina;Wozniak;Politechnika Informatyczno-Elektroniczna;Bochnia;V;2485
+79;Michal;Kostrzewa;Politechnika Informatyczno-Elektroniczna;Bochnia;I;2267
+80;Artur;Duszczyk;Politechnika Informatyczno-Elektroniczna;Bochnia;III;715
+81;Nikodem;Nowicki;Uniwersytet Sportu i Turystyki;Bochnia;I;1703
+82;Jadwiga;Borek;Uniwersytet Krolewski;Bozewo;II;1634
+83;Jaroslaw;Firek;Uniwersytet Rolniczy;Bozewo;IV;2697
+84;Grzegorz;Podsiadly;Uniwersytet Sportu i Turystyki;Bozewo;IV;1454
+85;Wawrzyniec;Kalinowski;Uniwersytet Krolewski;Bransk;IV;875
+86;Boleslaw;Drozdz;Uniwersytet Krolewski;Bransk;IV;1233
+87;Korneliusz;Gajos;Politechnika Krolewska;Bransk;I;1517
+88;Agnieszka;Muszynska;Uniwersytet Krolewski;Bransk;I;795
+89;Alicja;Bankowska;Uniwersytet Krolewski;Brzeg Dolny;IV;2913
+90;Barbara;Boronowska;Akademia Sztuk Pieknych;Brzeg Dolny;III;874
+91;Ireneusz;Pazdziernik;Politechnika Krolewska;Brzesko;I;2759
+92;Maciej;Golec;Politechnika Informatyczno-Elektroniczna;Brzesko;I;1906
+93;Maciej;Slomczynski;Uniwersytet Krolewski;Brzesko;V;710
+94;Tymon;Czarna;Politechnika Krolewska;Brzesko;V;1051
+95;Janina;Lina;Politechnika Informatyczno-Elektroniczna;Brzesko;IV;2968
+96;Kaja;Kalwas;Uniwersytet Krolewski;Brzesko;I;1600
+97;Anna;Pulka;Uniwersytet Krolewski;Bydgoszcz;I;1600
+98;Waclawa;Kasperek;Politechnika Informatyczno-Elektroniczna;Bydgoszcz;V;2710
+99;Cezary;Karpowicz;Politechnika Informatyczno-Elektroniczna;Bydgoszcz;I;2993
+100;Malgorzata;Balcerzak;Politechnika Informatyczno-Elektroniczna;Bytom;I;748
+101;Kacper;Wosik;Politechnika Informatyczno-Elektroniczna;Bytom;I;2343
+102;Stefan;Biegajski;Politechnika Informatyczno-Elektroniczna;Bytom;II;1837
+103;Tomasz;Jasak;Uniwersytet Krolewski;Bytom;I;923
+104;Witold;Barylkiewicz;Uniwersytet Ekonomiczny;Bytom;III;632
+105;Michal;Bilski;Politechnika Informatyczno-Elektroniczna;Bytom;III;2807
+106;Kazimierz;Sycowski;Uniwersytet Rolniczy;Bytom;I;2331
+107;Marcin;Bacz;Uniwersytet Pedagogiczny;Bytom;II;2973
+108;Jolanta;Czubacka;Politechnika Informatyczno-Elektroniczna;Bytom;III;2385
+109;Andrzej;Jurkowski;Politechnika Informatyczno-Elektroniczna;Bytom;I;1487
+110;Ireneusz;Alotek;Politechnika Informatyczno-Elektroniczna;Bytom;I;3140
+111;Janusz;Judycki;Uniwersytet Ekonomiczny;Bytom;II;1361
+112;Grazyna;Pawlowska;Politechnika Krolewska;Chalupki;II;2799
+113;Adam;Sliz;Politechnika Krolewska;Chalupki;I;1077
+114;Damian;Bawicz;Politechnika Krolewska;Chalupki;III;1161
+115;Bronislawa;Wegrzyn;Politechnika Krolewska;Chalupki;II;2404
+116;Jaromir;Gonczyk;Politechnika Informatyczno-Elektroniczna;Chalupki;I;2523
+117;Amadeusz;Toborek;Politechnika Krolewska;Chalupki;III;2469
+118;Jakub;Socha;Uniwersytet Rolniczy;Chelm;IV;2025
+119;Katarzyna;Dwornik;Politechnika Informatyczno-Elektroniczna;Chelm;V;2745
+120;Celina;Wisniewska;Politechnika Informatyczno-Elektroniczna;Chelm;I;822
+121;Konstancja;Raszyn;Politechnika Informatyczno-Elektroniczna;Chelm;I;2946
+122;Edyta;Tomczyk;Uniwersytet Krolewski;Chelm;III;2384
+123;Jerzy;Semeniuk;Politechnika Krolewska;Chelm;II;1482
+124;Helena;Maczynska;Uniwersytet Krolewski;Chelm;IV;2171
+125;Jaroslaw;Bajda;Politechnika Informatyczno-Elektroniczna;Chorzow;V;1182
+126;Klemens;Rokosz;Politechnika Krolewska;Chorzow;I;667
+127;Jakub;Wtorek;Politechnika Krolewska;Chorzow;I;3263
+128;Adrianna;Brzezinska;Politechnika Krolewska;Chorzow;V;2913
+129;Karol;Binski;Politechnika Krolewska;Chorzow;I;2497
+130;Iwona;Nyska;Uniwersytet Krolewski;Chorzow;I;2169
+131;Cecylia;Czylok;Uniwersytet Krolewski;Chorzow;I;828
+132;Mateusz;Antoniak;Politechnika Krolewska;Chorzow;V;2699
+133;Adam;Kaleta;Uniwersytet Krolewski;Chorzow;I;1446
+134;Michal;Salacinski;Politechnika Informatyczno-Elektroniczna;Chorzow;I;1608
+135;Krzysztof;Krzesinski;Uniwersytet Rolniczy;Chorzow;I;2586
+136;Zofia;Gorajska;Politechnika Krolewska;Chorzow;IV;2428
+137;Janusz;Aleksandrowicz;Politechnika Informatyczno-Elektroniczna;Chorzow;I;2701
+138;Danuta;Zasada;Politechnika Informatyczno-Elektroniczna;Chorzow;V;525
+139;Aleksander;Rutkowski;Politechnika Informatyczno-Elektroniczna;Chorzow;I;560
+140;Karina;Mikolajczak;Politechnika Informatyczno-Elektroniczna;Chorzow;I;642
+141;Aleksy;Pobereznik;Politechnika Informatyczno-Elektroniczna;Chorzow;V;3152
+142;Beata;Domnicz;Politechnika Krolewska;Chorzow;I;3177
+143;Juliusz;Blazowski;Politechnika Informatyczno-Elektroniczna;Chyzne;II;3144
+144;Kacper;Stachowicz;Uniwersytet Krolewski;Chyzne;I;775
+145;Paulina;Lewinska;Uniwersytet Krolewski;Chyzne;I;714
+146;Krzysztof;Wroblewski;Politechnika Informatyczno-Elektroniczna;Chyzne;I;919
+147;Jan;Bieniek;Uniwersytet Krolewski;Chyzne;III;805
+148;Magdalena;Wawrzyn;Politechnika Informatyczno-Elektroniczna;Ciechanow;I;1189
+149;Marek;Bakucha;Akademia Sztuk Pieknych;Ciechanow;I;3313
+150;Teofil;Chudy;Politechnika Informatyczno-Elektroniczna;Ciechanow;I;2530
+151;Krzysztof;Rosiewicz;Politechnika Krolewska;Ciechanow;I;680
+152;Mikolaj;Jozwiak;Politechnika Krolewska;Ciechanow;I;1880
+153;Olga;Berus;Politechnika Informatyczno-Elektroniczna;Ciechocinek;I;2791
+154;Halina;Haczyk;Uniwersytet Krolewski;Ciechocinek;II;3243
+155;Sebastian;Lewandowski;Uniwersytet Ekonomiczny;Ciechocinek;I;1434
+156;Barbara;Kotwicka;Uniwersytet Krolewski;Ciechocinek;III;2308
+157;Jerzy;Bolkowicz;Politechnika Krolewska;Cieszyn;I;2451
+158;Michal;Wojciechowski;Politechnika Informatyczno-Elektroniczna;Cieszyn;IV;2423
+159;Inga;Barskacz;Politechnika Informatyczno-Elektroniczna;Cieszyn;I;2848
+160;Jerzy;Lubec;Politechnika Informatyczno-Elektroniczna;Cieszyn;I;1599
+161;Malgorzata;Szulim;Politechnika Informatyczno-Elektroniczna;Cieszyn;I;1899
+162;Marcin;Hebda;Politechnika Informatyczno-Elektroniczna;Cieszyn;V;2725
+163;Andrzej;Wieczorek;Politechnika Krolewska;Cieszyn;III;2555
+164;Jan;Babul;Uniwersytet Krolewski;Cieszyn;II;2720
+165;Kinga;Myszograj;Politechnika Krolewska;Cieszyn;II;2155
+166;Grazyna;Chrust;Politechnika Informatyczno-Elektroniczna;Cieszyn;V;792
+167;Dorota;Pietrowicz;Politechnika Informatyczno-Elektroniczna;Czestochowa;I;1071
+168;Hanna;Wrona;Politechnika Informatyczno-Elektroniczna;Czestochowa;I;1493
+169;Janusz;Wysocki;Uniwersytet Rolniczy;Czestochowa;I;1191
+170;Adam;Baryla;Politechnika Krolewska;Czestochowa;III;1347
+171;Szymon;Duda;Uniwersytet Krolewski;Czestochowa;I;1160
+172;Anna;Bialowas;Uniwersytet Pedagogiczny;Czestochowa;III;1544
+173;Grzegorz;Szlachcic;Politechnika Krolewska;Czestochowa;I;2675
+174;Kuba;Hauser;Politechnika Informatyczno-Elektroniczna;Czestochowa;III;2481
+175;Dariusz;Adamus;Politechnika Informatyczno-Elektroniczna;Czestochowa;I;813
+176;Franciszek;Bielanski;Politechnika Krolewska;Czestochowa;I;3125
+177;Adam;Konopka;Uniwersytet Krolewski;Dabrowa Gornicza;I;1489
+178;Monika;Lawrynowicz;Uniwersytet Krolewski;Dabrowa Gornicza;I;2835
+179;Kacper;Fastnacht;Politechnika Informatyczno-Elektroniczna;Dabrowa Gornicza;II;998
+180;Roman;Persinski;Politechnika Informatyczno-Elektroniczna;Dabrowa Gornicza;I;1431
+181;Piotr;Kuter;Uniwersytet Krolewski;Dabrowa Gornicza;I;738
+182;Wojciech;Kujdowicz;Uniwersytet Krolewski;Dabrowa Gornicza;I;2637
+183;Angelika;Merak;Politechnika Krolewska;Dabrowa Gornicza;III;415
+184;Anna;Owsianka;Politechnika Informatyczno-Elektroniczna;Dabrowa Gornicza;II;429
+185;Walery;Szurkowski;Uniwersytet Pedagogiczny;Dabrowa Gornicza;II;352
+186;Karol;Kopycki;Uniwersytet Krolewski;Dabrowa Gornicza;I;794
+187;Franciszek;Szombierski;Akademia Sztuk Pieknych;Daszyna;I;698
+188;Ewelia;Michaliska;Politechnika Informatyczno-Elektroniczna;Debica;II;2309
+189;Kacper;Slawinski;Uniwersytet Rolniczy;Debica;I;1901
+190;Ewelina;Hassan;Uniwersytet Krolewski;Debica;V;2767
+191;Arkadiusz;Godowski;Uniwersytet Krolewski;Debica;I;1845
+192;Tymon;Czarnecki;Politechnika Krolewska;Deblin;II;2025
+193;Alina;Batorek;Uniwersytet Rolniczy;Deblin;I;1309
+194;Michal;Prazuch;Politechnika Informatyczno-Elektroniczna;Deblin;V;2534
+195;Czeslaw;Kos;Uniwersytet Sportu i Turystyki;Deblin;I;1980
+196;Jan;Sikorski;Politechnika Informatyczno-Elektroniczna;Deblin;V;2217
+197;Teresa;Polaska;Politechnika Informatyczno-Elektroniczna;Deblin;I;2771
+198;Damian;Kulesza;Uniwersytet Krolewski;Deblin;III;2883
+199;Robert;Chochol;Uniwersytet Krolewski;Deblin;II;1680
+200;Anna;ocon;Politechnika Krolewska;Deblin;I;3019
+201;Maria;Wolczynska;Uniwersytet Krolewski;Debowiec;I;1862
+202;Piotr;Bros;Uniwersytet Krolewski;Debowiec;II;2849
+203;Arkadiusz;Bracki;Uniwersytet Ekonomiczny;Debowiec;I;2665
+204;Krzysztof;Checinski;Politechnika Krolewska;Debowiec;V;2484
+205;Wiktor;Gorecki;Politechnika Krolewska;Debrzno;I;3274
+206;Malgorzata;Stojecka;Akademia Sztuk Pieknych;Debrzno;I;2932
+207;Karolina;Anuszewska;Politechnika Krolewska;Debrzno;IV;1973
+208;Janusz;Chmielowski;Uniwersytet Sportu i Turystyki;Dlugopole-Zdroj;I;2349
+209;Zofia;Bujak;Uniwersytet Rolniczy;Dlugopole-Zdroj;II;2484
+210;Marek;Lichwa;Politechnika Informatyczno-Elektroniczna;Dlugopole-Zdroj;II;2321
+211;Bozena;Symanska;Uniwersytet Sportu i Turystyki;Dlugopole-Zdroj;I;873
+212;Zofia;Cedrowska;Uniwersytet Krolewski;Dobieszowice;II;805
+213;Beata;Kowalczyk;Politechnika Informatyczno-Elektroniczna;Dobieszowice;I;2191
+214;Bartlomiej;Stec;Uniwersytet Krolewski;Dobre Miasto;I;1453
+215;Katarzyna;Schmidt;Politechnika Informatyczno-Elektroniczna;Dobre Miasto;I;2151
+216;Stefania;Stolowska;Politechnika Krolewska;Dobre Miasto;I;2867
+217;Adam;Rabka;Uniwersytet Krolewski;Dobre Miasto;I;510
+218;Maciej;Mijak;Uniwersytet Rolniczy;Dobre Miasto;III;2408
+219;Piotr;Swiezy;Uniwersytet Krolewski;Dzierzoniow;V;558
+220;Adrianna;Gorska;Politechnika Informatyczno-Elektroniczna;Dzierzoniow;II;719
+221;Beata;Mikolajczyk;Uniwersytet Muzyczny;Elblag;IV;2862
+222;Maciej;Buzek;Uniwersytet Krolewski;Elblag;I;1311
+223;Katarzyna;Sokolowska;Uniwersytet Krolewski;Elblag;I;2656
+224;Jerzy;Kielski;Uniwersytet Krolewski;Elk;III;1258
+225;Roman;Dusza;Politechnika Krolewska;Elk;V;838
+226;Agnieszka;Korandy;Uniwersytet Ekonomiczny;Elk;I;3222
+227;Joanna;Dymna;Uniwersytet Sportu i Turystyki;Elk;I;2137
+228;Urszula;Legnicka;Politechnika Informatyczno-Elektroniczna;Elk;I;468
+229;Krystyna;Sekocinska;Uniwersytet Krolewski;Gdansk;I;979
+230;Aureliusz;Dabrowski ;Politechnika Informatyczno-Elektroniczna;Gdansk;IV;2910
+231;Jerzy;Bargiel;Politechnika Informatyczno-Elektroniczna;Gdansk;III;898
+232;Tomasz;Broniarz;Politechnika Informatyczno-Elektroniczna;Gdansk;I;1123
+233;Lucyna;Sokolowska;Uniwersytet Krolewski;Gdynia;I;2980
+234;Luiza;Pawlak;Politechnika Krolewska;Gdynia;II;1904
+235;Weronika;Stroka;Politechnika Krolewska;Gieblo;IV;2180
+236;Walenty;Kaczor;Uniwersytet Sportu i Turystyki;Gieblo;IV;520
+237;Szymon;Figurski;Uniwersytet Krolewski;Gieblo;I;1496
+238;Jadwiga;Grobelny;Politechnika Krolewska;Gieraltowice;V;2635
+239;Piotr;Nowicki;Politechnika Informatyczno-Elektroniczna;Gieraltowice;I;1121
+240;Franciszek;Bebenek;Uniwersytet Krolewski;Gieraltowice;I;2572
+241;Anna;Trzebnicka;Akademia Sztuk Pieknych;Gieraltowice;IV;1151
+242;Adam;Witczak;Uniwersytet Krolewski;Gieraltowice;II;735
+243;Natalia;Chlopecka;Politechnika Krolewska;Gieraltowice;I;2101
+244;Jacek;Andrzejewski;Uniwersytet Krolewski;Gieraltowice;III;2241
+245;Agnieszka;Malbolrska;Politechnika Krolewska;Gieraltowice;I;2814
+246;Karolina;Rosiak;Uniwersytet Krolewski;Gieraltowice;I;1417
+247;Aneta;Klucha;Uniwersytet Krolewski;Gieraltowice;I;1165
+248;Bartosz;Adamiec;Politechnika Krolewska;Gliwice;II;2668
+249;Piotr;Garncarz;Uniwersytet Krolewski;Gliwice;I;863
+250;Kamil;Dabrowski;Politechnika Informatyczno-Elektroniczna;Gliwice;V;749
+251;Marek;Majchrowicz;Politechnika Krolewska;Gliwice;I;2405
+252;Olgierd;Dudzinski;Uniwersytet Krolewski;Gliwice;I;3136
+253;Anna;Sawiciak;Uniwersytet Ekonomiczny;Gliwice;I;2285
+254;Paulina;Raszczyk;Uniwersytet Krolewski;Gliwice;II;2678
+255;Fryderyka;Slowik;Politechnika Informatyczno-Elektroniczna;Gliwice;I;438
+256;Mieszko;Cisna;Uniwersytet Krolewski;Gliwice;I;3313
+257;Janusz;Waz;Uniwersytet Ekonomiczny;Gliwice;IV;2917
+258;Wojciech;Bugaj;Politechnika Informatyczno-Elektroniczna;Gliwice;I;2657
+259;Marcin;Slomczynski;Uniwersytet Krolewski;Gliwice;III;1869
+260;Franciszek;Laczynski;Uniwersytet Krolewski;Gliwice;I;2881
+261;Korneliusz;Adamecki;Wyzsza Szko�a Techniczna;Gliwice;I;1726
+262;Wawrzyniec;Kozina;Politechnika Informatyczno-Elektroniczna;Gliwice;I;2700
+263;Pawel;Wojcicki;Uniwersytet Krolewski;Gliwice;II;1981
+264;Klemens;Radzik;Uniwersytet Krolewski;Gliwice;I;672
+265;Karol;Mazurowski;Uniwersytet Krolewski;Glubczyce;IV;719
+266;Krzysztof;Antczak;Uniwersytet Ekonomiczny;Glubczyce;V;2472
+267;Jerzy;Orowski;Politechnika Krolewska;Glubczyce;I;796
+268;Alicja;Kobus;Politechnika Informatyczno-Elektroniczna;Glubczyce;I;2409
+269;Adam;Michalak;Uniwersytet Pedagogiczny;Glubczyce;IV;1259
+270;Norbert;Boronski;Politechnika Informatyczno-Elektroniczna;Glubczyce;I;1317
+271;Seweryn;Wawa;Politechnika Informatyczno-Elektroniczna;Glucholazy;II;1309
+272;Renata;Kaluza;Uniwersytet Rolniczy;Glucholazy;IV;2790
+273;Ewa;Berak;Uniwersytet Krolewski;Glucholazy;II;2110
+274;Marcin;Bajdak;Politechnika Krolewska;Glucholazy;I;2485
+275;Iwona;Wegier;Politechnika Informatyczno-Elektroniczna;Glucholazy;V;1344
+276;Franciszek;Kusch;Uniwersytet Pedagogiczny;Glucholazy;I;1802
+277;Lukasz;Klos;Uniwersytet Krolewski;Glucholazy;I;2482
+278;Karolina;Weiss;Politechnika Informatyczno-Elektroniczna;Glucholazy;II;871
+279;Tadeusz;Regulski;Politechnika Informatyczno-Elektroniczna;Glucholazy;II;1075
+280;Beata;Jasinska;Uniwersytet Rolniczy;Gorki Male;II;968
+281;Aleksander;Ogonowski;Uniwersytet Rolniczy;Gorki Male;I;1229
+282;Eleonora;Kosa;Politechnika Informatyczno-Elektroniczna;Gorki Male;II;455
+283;Adrian;Baka;Politechnika Informatyczno-Elektroniczna;Gorki Male;I;3195
+284;Czeslawa;Bochenek;Politechnika Krolewska;Gorki Male;I;1883
+285;Tomasz;Leganowski;Politechnika Krolewska;Gorzow Wielkopolski;I;2018
+286;Sebastian;Adalewski;Akademia Sztuk Pieknych;Gorzow Wielkopolski;III;2821
+287;Bronislawa;Chmielewska;Uniwersytet Rolniczy;Gorzow Wielkopolski;I;2931
+288;Daria;Dyrbusz;Uniwersytet Krolewski;Gorzow Wielkopolski;I;1779
+289;Olga;Gonerska;Uniwersytet Krolewski;Gostyn;I;1990
+290;Radoslaw;Niedziela;Politechnika Krolewska;Gostyn;III;2283
+291;Arkadiusz;Sokolowski;Politechnika Krolewska;Gostyn;I;1964
+292;Zofia;Bylska;Akademia Sztuk Pieknych;Gostyn;III;1822
+293;Slawomir;Rojek;Uniwersytet Krolewski;Grudziadz;II;1093
+294;Robert;Pilski;Politechnika Informatyczno-Elektroniczna;Grudziadz;II;1756
+295;Janina;Bernacik;Uniwersytet Ekonomiczny;Grudziadz;I;2356
+296;Mateusz;Swierszczynski;Uniwersytet Rolniczy;Grudziadz;II;3080
+297;Tomasz;Wan;Uniwersytet Krolewski;Gryfice;I;1258
+298;Alicja;Miskowiec;Politechnika Informatyczno-Elektroniczna;Gryfice;II;2730
+299;Piotr;Piwnik;Politechnika Krolewska;Gryfice;V;1592
+300;Jan;Bator;Politechnika Krolewska;Gryfice;II;2738
+301;Eleonora;Mrowka;Politechnika Informatyczno-Elektroniczna;Gryfice;I;2064
+302;Andrzej;Beki;Politechnika Krolewska;Gubin;I;465
+303;Boleslawa;Kucharska;Uniwersytet Krolewski;Gubin;III;1291
+304;Wojciech;Fujarewicz;Politechnika Informatyczno-Elektroniczna;Gubin;I;2125
+305;Iwona;Grzybek;Politechnika Krolewska;Halinow;II;787
+306;Maria;Zwojec;Uniwersytet Krolewski;Halinow;V;2155
+307;Mateusz;Kandora;Uniwersytet Krolewski;Halinow;I;3218
+308;Daniel;Barszcz;Uniwersytet Krolewski;Hrebenne;V;2273
+309;Teresa;Grudzinska;Uniwersytet Krolewski;Hrebenne;II;1283
+310;Franciszka;Nowicka;Uniwersytet Krolewski;Hrebenne;I;1863
+311;Karolina;Bajerowicz;Uniwersytet Krolewski;Ilawa;III;1965
+312;Barbara;Wszedobyl;Uniwersytet Pedagogiczny;Ilawa;III;1182
+313;Izolda;Jaros;Politechnika Informatyczno-Elektroniczna;Inowroclaw;I;2207
+314;Grazyna;Gorska;Politechnika Krolewska;Istebna;I;1453
+315;Piotr;Kacprzak;Uniwersytet Krolewski;Istebna;IV;983
+316;Grzegorz;Balon;Politechnika Informatyczno-Elektroniczna;Istebna;II;917
+317;Zdzislawa;Modrzewska;Politechnika Krolewska;Istebna;III;2124
+318;Aleksander;Biborski;Politechnika Informatyczno-Elektroniczna;Istebna;II;3254
+319;Dominik;Felinski;Politechnika Informatyczno-Elektroniczna;Istebna;I;2842
+320;Arkadiusz;Maciejewski;Politechnika Informatyczno-Elektroniczna;Istebna;I;1879
+321;Milosz;Ostrowski;Uniwersytet Krolewski;Istebna;I;978
+322;Marzena;Skrzypek;Uniwersytet Sportu i Turystyki;Izbica Kujawska;I;2409
+323;Tomasz;Krawczyk;Politechnika Informatyczno-Elektroniczna;Izbica Kujawska;III;1655
+324;Andrzej;Knot;Uniwersytet Pedagogiczny;Jakuszyce;I;356
+325;Mateusz;Buczek;Politechnika Krolewska;Jaslo;I;2275
+326;Piotr;Tyborowski;Uniwersytet Krolewski;Jaslo;IV;2325
+327;Klaudia;Kotowicz;Politechnika Informatyczno-Elektroniczna;Jaslo;I;1950
+328;Mateusz;Bartoszewski;Politechnika Informatyczno-Elektroniczna;Jaslo;II;2149
+329;Michal;Antkowicz;Uniwersytet Krolewski;Jaslo;IV;2265
+330;Barbara;Bakan;Politechnika Informatyczno-Elektroniczna;Jaslo;I;1218
+331;Grzegorz;Styczen;Politechnika Krolewska;Jaslo;I;931
+332;Agata;Babulak;Politechnika Krolewska;Jaslo;IV;2170
+333;Ewelina;Kocharyan;Politechnika Informatyczno-Elektroniczna;Jaslo;I;1118
+334;Barbara;Solska;Uniwersytet Sportu i Turystyki;Jaslo;I;678
+335;Dominik;Kondratowicz;Uniwersytet Krolewski;Jaslo;V;2209
+336;Kacper;Wozniak;Uniwersytet Pedagogiczny;Jaslo;I;1897
+337;Jagna;Meller;Politechnika Informatyczno-Elektroniczna;Jastrzebie-Zdroj;I;3247
+338;Gabriela;Mroz;Uniwersytet Krolewski;Jastrzebie-Zdroj;I;1033
+339;Mateusz;Bernacki;Uniwersytet Krolewski;Jastrzebie-Zdroj;IV;846
+340;Anna;Cender;Uniwersytet Pedagogiczny;Jastrzebie-Zdroj;I;2190
+341;Ewa;Seweryn;Uniwersytet Krolewski;Jastrzebie-Zdroj;I;1206
+342;Roza;Biernaczyk;Politechnika Krolewska;Jastrzebie-Zdroj;I;378
+343;Andrzej;Pyza;Politechnika Krolewska;Jastrzebie-Zdroj;IV;788
+344;Henryk;Mordyan;Politechnika Informatyczno-Elektroniczna;Jaworzno;II;1126
+345;Oskar;Szanca;Politechnika Krolewska;Jaworzno;I;2257
+346;Jakub;Kucharski;Politechnika Krolewska;Jaworzno;III;2144
+347;Jan;Krzyzewski;Uniwersytet Rolniczy;Jaworzno;III;1379
+348;Jan;Dziekan;Politechnika Krolewska;Jaworzno;I;2815
+349;Zofia;Kajzer;Uniwersytet Rolniczy;Jaworzno;II;905
+350;Iwona;Pawlowska;Uniwersytet Ekonomiczny;Jaworzno;I;2942
+351;Oktawian;Kadej;Akademia Sztuk Pieknych;Jaworzynka;I;2668
+352;Jadwiga;Beben;Politechnika Informatyczno-Elektroniczna;Jaworzynka;I;2998
+353;Katarzyna;Czader;Politechnika Krolewska;Jaworzynka;I;353
+354;Zuzanna;Rutkowska;Politechnika Informatyczno-Elektroniczna;Jaworzynka;V;2320
+355;Franciszek;Mikulski;Politechnika Informatyczno-Elektroniczna;Jaworzynka;I;598
+356;Aleksander;Chinski;Politechnika Informatyczno-Elektroniczna;Jaworzynka;V;3251
+357;Bartlomiej;Kardys;Uniwersytet Krolewski;Jaworzynka;II;1646
+358;Katarzyna;Pakulska;Uniwersytet Krolewski;Jaworzynka;I;767
+359;Jakub;Piotrowski;Politechnika Informatyczno-Elektroniczna;Jedrzejow;II;513
+360;Irena;Fudecka;Politechnika Informatyczno-Elektroniczna;Jedrzejow;II;3215
+361;Krzysztof;Lis;Politechnika Informatyczno-Elektroniczna;Jedrzejow;I;2032
+362;Grazyna;Chojacka;Politechnika Informatyczno-Elektroniczna;Jedrzejow;I;2543
+363;Kamil;Tokarz;Uniwersytet Rolniczy;Jedrzejow;V;880
+364;Agnieszka;Nawrot;Politechnika Informatyczno-Elektroniczna;Jedrzejow;I;1142
+365;Ewa;Chiluta;Politechnika Krolewska;Jedrzejow;I;1924
+366;Joanna;Chodyra;Politechnika Krolewska;Jedrzejow;I;3225
+367;Jacek;Winogrodzki;Politechnika Informatyczno-Elektroniczna;Jedrzejow;V;1004
+368;Karol;Anarchista;Politechnika Informatyczno-Elektroniczna;Jejkowice;II;2716
+369;Walery;Latka;Politechnika Informatyczno-Elektroniczna;Jejkowice;V;1126
+370;Jaroslaw;Sierpien;Politechnika Informatyczno-Elektroniczna;Jejkowice;I;831
+371;Kaja;Karnawal;Politechnika Informatyczno-Elektroniczna;Jejkowice;I;2377
+372;Andrzej;Smietanka;Uniwersytet Krolewski;Jejkowice;II;1447
+373;Eustachy;Banaszek;Uniwersytet Krolewski;Jejkowice;IV;2407
+374;Barbara;Marczak;Politechnika Informatyczno-Elektroniczna;Jejkowice;I;1566
+375;Jaroslaw;Kata;Uniwersytet Ekonomiczny;Jejkowice;I;2437
+376;Urszula;Wawrzynczyk;Politechnika Informatyczno-Elektroniczna;Jejkowice;V;856
+377;Anita;Wiwatowicz;Politechnika Informatyczno-Elektroniczna;Jelenia Gora;II;399
+378;Weronika;Zawadzka;Uniwersytet Krolewski;Jelenia Gora;I;1859
+379;Wioletta;Kucharska;Politechnika Krolewska;Jezewo;II;1209
+380;Piotr;Banalow;Uniwersytet Sportu i Turystyki;Jezewo;III;1025
+381;Anna;Kaczmarek;Politechnika Informatyczno-Elektroniczna;Jezewo;I;2076
+382;Ewelina;Ewertowska;Politechnika Informatyczno-Elektroniczna;Jozefow;II;2601
+383;Slawomira;Czerwiec;Uniwersytet Krolewski;Jozefow;IV;2207
+384;Ewa;Skrzeliczka;Uniwersytet Sportu i Turystyki;Julianka;III;2312
+385;Martyna;Piotrkowska;Uniwersytet Krolewski;Julianka;I;1137
+386;Tomasz;Nawrot;Politechnika Informatyczno-Elektroniczna;Julianka;I;383
+387;Kamil;Kildarewicz;Uniwersytet Krolewski;Julianka;IV;1834
+388;Wlodzimierz;Komik;Politechnika Informatyczno-Elektroniczna;Kalisz;III;1032
+389;Bartlomiej;Wrzesien;Uniwersytet Krolewski;Kalisz;V;2639
+390;Emilia;Katanak;Politechnika Informatyczno-Elektroniczna;Karniewo;I;1422
+391;Bartosz;Pawlowski;Politechnika Informatyczno-Elektroniczna;Karniewo;II;1150
+392;Krzysztof;Nisiewicz;Uniwersytet Krolewski;Karniewo;I;1280
+393;Barbara;Mianowska;Politechnika Informatyczno-Elektroniczna;Katowice;III;486
+394;Adam;Loziczonek;Politechnika Informatyczno-Elektroniczna;Katowice;III;2100
+395;Karol;Antonowicz;Politechnika Informatyczno-Elektroniczna;Katowice;I;654
+396;Anna;Klemczak;Politechnika Informatyczno-Elektroniczna;Katowice;V;1814
+397;Mieczyslawa;Szymczyk;Politechnika Informatyczno-Elektroniczna;Katowice;I;1136
+398;Karol;Zalewski;Politechnika Informatyczno-Elektroniczna;Katowice;I;2978
+399;Seweryna;Kotek;Politechnika Informatyczno-Elektroniczna;Katowice;I;949
+400;Jowita;Adamska;Politechnika Informatyczno-Elektroniczna;Katowice;III;1771
+401;Tomasz;Niczyj;Politechnika Krolewska;Katowice;I;3295
+402;Maja;Mazurkiewicz;Politechnika Krolewska;Katowice;II;511
+403;Alicja;Fedoruk;Politechnika Krolewska;Katowice;I;2482
+404;Jan;Ciebiera;Politechnika Informatyczno-Elektroniczna;Katowice;II;2898
+405;Urszula;Sielecka;Uniwersytet Krolewski;Katowice;I;435
+406;Ewelina;Katowicka;Politechnika Informatyczno-Elektroniczna;Katowice;I;2357
+407;Kinga;Wronska;Politechnika Informatyczno-Elektroniczna;Katowice;I;3271
+408;Ewa;Gruszczynska;Wyzsza Szko�a Techniczna;Katowice;II;3337
+409;Jan;Urbanski;Wyzsza Szko�a Techniczna;Katowice;II;2124
+410;Leslaw;Pawlica;Politechnika Krolewska;Katowice;I;3258
+411;Barbara;Przybylek;Uniwersytet Sportu i Turystyki;Katowice;II;2187
+412;Roza;Szklarczyk;Politechnika Informatyczno-Elektroniczna;Katowice;II;2605
+413;Anastazja;Gruzin;Politechnika Informatyczno-Elektroniczna;Katowice;II;983
+414;Dawid;Trzebiatowski;Politechnika Informatyczno-Elektroniczna;Katowice;I;2037
+415;Roman;Hajtowicz;Uniwersytet Krolewski;Katowice;I;751
+416;Ewelia;Kolanko;Uniwersytet Krolewski;Katowice;III;3336
+417;Mateusz;Majewski;Politechnika Informatyczno-Elektroniczna;Katowice;III;2270
+418;Jaroslaw;Krema;Politechnika Informatyczno-Elektroniczna;Katowice;II;1777
+419;Lucyna;Arabas;Politechnika Krolewska;Katowice;IV;1000
+420;Mateusz;Orlicki;Politechnika Informatyczno-Elektroniczna;Katowice;II;2467
+421;Sebastian;Alot;Politechnika Informatyczno-Elektroniczna;Katowice;I;634
+422;Jadwiga;Bober;Uniwersytet Sportu i Turystyki;Katowice;II;3025
+423;Gracja;Kozlowska;Uniwersytet Krolewski;Katowice;III;3330
+424;Tomasz;Bronikowski;Politechnika Informatyczno-Elektroniczna;Katowice;II;1304
+425;Andrzej;Latacki;Uniwersytet Krolewski;Katowice;I;1518
+426;Kamil;Babula;Politechnika Informatyczno-Elektroniczna;Katowice;I;1058
+427;Czeslaw;Augustyneczek;Politechnika Krolewska;Katowice;I;524
+428;Anna;Hebda;Politechnika Informatyczno-Elektroniczna;Katowice;III;1070
+429;Bartosz;Bonkowski;Politechnika Informatyczno-Elektroniczna;Katowice;II;983
+430;Jozefa;Wysocka;Politechnika Informatyczno-Elektroniczna;Katowice;IV;2497
+431;Justyna;Firlej;Uniwersytet Rolniczy;Katowice;I;1919
+432;Jadwiga;Wawer;Uniwersytet Krolewski;Katowice;V;2672
+433;Michal;Klimisz;Politechnika Informatyczno-Elektroniczna;Katowice;I;3092
+434;Agnieszka;Bartkowiak;Politechnika Informatyczno-Elektroniczna;Katowice;I;3034
+435;Ryszard;Siennicki;Uniwersytet Ekonomiczny;Katowice;I;2978
+436;Marta;Gilowska;Politechnika Informatyczno-Elektroniczna;Katowice;I;1572
+437;Honorata;Caban;Politechnika Informatyczno-Elektroniczna;Katowice;II;689
+438;Franciszek;Szybinski;Politechnika Krolewska;Katowice;I;1776
+439;Emila;Nikiel;Uniwersytet Krolewski;Katowice;I;1849
+440;Jan;Jasinski;Politechnika Krolewska;Katowice;V;962
+441;Halina;Lakomska;Uniwersytet Krolewski;Katowice;V;863
+442;Teofil;Wina;Politechnika Krolewska;Katowice;IV;1963
+443;Teresa;Krzesaj;Politechnika Informatyczno-Elektroniczna;Katowice;II;2126
+444;Karol;Mroczek;Politechnika Informatyczno-Elektroniczna;Katowice;II;2947
+445;Jagna;Urban;Politechnika Krolewska;Katowice;I;1098
+446;Szymon;Maron;Politechnika Krolewska;Katowice;IV;2372
+447;Lucjusz;Tokarczyk;Politechnika Informatyczno-Elektroniczna;Katowice;I;985
+448;Krzysztof;Badura;Uniwersytet Ekonomiczny;Katowice;I;637
+449;Konstanty;Banasikowski;Politechnika Informatyczno-Elektroniczna;Katowice;I;2568
+450;Krzysztof;Lipinski;Uniwersytet Muzyczny;Kedzierzyn-Kozle;II;2635
+451;Anna;Dworecka;Politechnika Krolewska;Kedzierzyn-Kozle;I;2106
+452;Kinga;Celeborska;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;III;940
+453;Mateusz;Bednarek;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;V;507
+454;Stanislaw;Anczewski;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;V;2305
+455;Szymon;Wawron;Uniwersytet Krolewski;Kedzierzyn-Kozle;I;3312
+456;Danuta;Banaszczykiewicz;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;III;2423
+457;Tymon;Abacki;Uniwersytet Ekonomiczny;Kedzierzyn-Kozle;I;963
+458;Ewelina;Blada;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;I;1961
+459;Wieslawa;Bedynska;Uniwersytet Krolewski;Kedzierzyn-Kozle;II;593
+460;Bartosz;Dudek;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;I;2948
+461;Tomasz;Kaczmarek;Uniwersytet Ekonomiczny;Kedzierzyn-Kozle;IV;1140
+462;Aleksander;Adamczyk;Uniwersytet Rolniczy;Kedzierzyn-Kozle;IV;1260
+463;Kinga;Kawka;Uniwersytet Krolewski;Kedzierzyn-Kozle;II;2512
+464;Morfeusz;Grodecki;Akademia Sztuk Pieknych;Kedzierzyn-Kozle;II;1713
+465;Jerzy;Bodnarczyk;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;I;3260
+466;Paulina;Dykiel;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;I;1995
+467;Adam;Bednarczyk;Politechnika Informatyczno-Elektroniczna;Kedzierzyn-Kozle;I;1303
+468;Barbara;Olszewska;Uniwersytet Krolewski;Kedzierzyn-Kozle;I;1528
+469;Wieslawa;Barcisz;Politechnika Krolewska;Kedzierzyn-Kozle;IV;1278
+470;Pawel;Kowal;Uniwersytet Krolewski;Kepice;I;3125
+471;Monika;Rybicka;Uniwersytet Ekonomiczny;Kepice;III;1111
+472;Adam;Grabczak;Uniwersytet Rolniczy;Kepice;III;1116
+473;Jan;Kozak;Uniwersytet Pedagogiczny;Kepice;I;3021
+474;Wiera;Augustowska;Politechnika Informatyczno-Elektroniczna;Kepice;I;872
+475;Lew;Wiejski;Akademia Sztuk Pieknych;Kety;I;1787
+476;Boguslawa;Sobota;Politechnika Informatyczno-Elektroniczna;Kety;I;2866
+477;Miroslaw;Chochowski;Akademia Sztuk Pieknych;Kety;I;2625
+478;Halina;Kuchar;Politechnika Krolewska;Kety;I;859
+479;Zbigniew;Zajac;Uniwersytet Krolewski;Kielce;I;1589
+480;Edyta;Klan;Politechnika Krolewska;Kielce;I;1683
+481;Celina;Krotoszyn;Uniwersytet Krolewski;Kielce;V;3139
+482;Katarzyna;Skutnik;Politechnika Informatyczno-Elektroniczna;Kielce;I;3124
+483;Krzysztof;But;Politechnika Krolewska;Kielce;I;2273
+484;Bartosz;Zalecki;Politechnika Informatyczno-Elektroniczna;Kielce;I;1127
+485;Irena;Tarnowska;Uniwersytet Pedagogiczny;Kielce;III;2158
+486;Piotr;Murarz;Politechnika Krolewska;Kielce;II;2893
+487;Justyna;Biegaj;Politechnika Krolewska;Kielce;I;1770
+488;Bohdan;Mrozowski;Politechnika Informatyczno-Elektroniczna;Kielce;I;2851
+489;Karina;Kwiatkowska;Politechnika Informatyczno-Elektroniczna;Kielce;I;2751
+490;Katarzyna;Kruczek;Politechnika Informatyczno-Elektroniczna;Kielce;I;2107
+491;Anna;Barska;Politechnika Informatyczno-Elektroniczna;Kielce;I;1047
+492;Marek;Piec;Uniwersytet Krolewski;Kleszczow;V;3259
+493;Marek;Grzeszczak;Uniwersytet Krolewski;Kleszczow;II;508
+494;Leslaw;Bak;Politechnika Krolewska;Kleszczow;IV;2799
+495;Franciszka;Czemisow;Politechnika Informatyczno-Elektroniczna;Kleszczow;I;456
+496;Michal;Sawicki;Politechnika Informatyczno-Elektroniczna;Kleszczow;II;451
+497;Sabina;Balcerek;Uniwersytet Krolewski;Kleszczow;I;1840
+498;Aleksandra;Cichawacz;Politechnika Krolewska;Klomnice;I;3169
+499;Kinga;Mlynarczyk;Uniwersytet Krolewski;Klomnice;IV;2543
+500;Witold;Kupis;Uniwersytet Krolewski;Klomnice;II;1760
+501;Janusz;Bokowski;Uniwersytet Pedagogiczny;Klomnice;II;2891
+502;Elzbieta;Jaworska;Akademia Sztuk Pieknych;Klomnice;I;804
+503;Marzena;Por;Uniwersytet Krolewski;Klomnice;I;2715
+504;Beata;Wittek;Politechnika Informatyczno-Elektroniczna;Klomnice;V;1008
+505;Wojciech;Rydawski;Politechnika Krolewska;Kobylin;I;2711
+506;Nikodem;Dyzma;Politechnika Informatyczno-Elektroniczna;Kobylin-Borzymy;III;3079
+507;Wanda;Szalobryt;Politechnika Krolewska;Kobylin-Borzymy;I;701
+508;Andrzej;Okon;Politechnika Krolewska;Kobylin-Borzymy;IV;1556
+509;Anita;Chalbinska;Politechnika Informatyczno-Elektroniczna;Kogutek;I;1772
+510;Agnieszka;Badowska;Politechnika Krolewska;Kogutek;II;1372
+511;Tomasz;Kajdasiewicz;Politechnika Informatyczno-Elektroniczna;Kogutek;III;1486
+512;Piotr;Januszewski;Politechnika Krolewska;Kogutek;II;1613
+513;Edyta;Styczen;Uniwersytet Krolewski;Kogutek;IV;3105
+514;Iwona;Andrzejewska;Uniwersytet Krolewski;Kolbaskowo;I;2241
+515;Danuta;Kapusta;Politechnika Informatyczno-Elektroniczna;Kolbaskowo;V;2708
+516;Ruta;Sawa;Uniwersytet Krolewski;Koniakow;IV;2726
+517;Izabella;Cieslak;Uniwersytet Ekonomiczny;Koniakow;I;1100
+518;Tadeusz;Krason;Politechnika Informatyczno-Elektroniczna;Koniakow;I;1894
+519;Marcin;Gorgon;Politechnika Krolewska;Koniakow;I;2681
+520;Witold;Halama;Uniwersytet Krolewski;Koniakow;V;1557
+521;Teresa;Gryglak;Politechnika Informatyczno-Elektroniczna;Koniakow;V;3117
+522;Jolanta;Turlej;Politechnika Informatyczno-Elektroniczna;Koniakow;I;3344
+523;Kamil;Gruca;Uniwersytet Krolewski;Koniakow;II;3300
+524;Daniel;Filipek;Politechnika Informatyczno-Elektroniczna;Koniakow;I;2302
+525;Beata;Dabrowska;Politechnika Informatyczno-Elektroniczna;Koniakow;IV;2576
+526;Krzysztof;Cebula;Uniwersytet Krolewski;Koniakow;I;3155
+527;Anna;Horbacz;Politechnika Krolewska;Koniakow;II;1079
+528;Krzysztof;Barski;Uniwersytet Krolewski;Koniakow;II;1047
+529;Wanda;Pacula;Uniwersytet Rolniczy;Koniakow;II;2350
+530;Ewa;Barwicka;Uniwersytet Krolewski;Koniakow;I;600
+531;Katarzyna;Bartecka;Politechnika Krolewska;Koniakow;II;350
+532;Natalia;Pypno;Politechnika Informatyczno-Elektroniczna;Koniakow;II;1139
+533;Maciej;Knapik;Politechnika Informatyczno-Elektroniczna;Koniakow;I;1056
+534;Katarzyna;Ochocka;Uniwersytet Krolewski;Konin;I;750
+535;Agnieszka;Otwocka;Politechnika Informatyczno-Elektroniczna;Konin;I;3176
+536;Bozena;Chmielewska;Politechnika Informatyczno-Elektroniczna;Konin;II;1835
+537;Maria;Krasiczynska;Uniwersytet Krolewski;Koscian;II;1623
+538;Katarzyna;Budziak;Uniwersytet Krolewski;Koscian;II;1153
+539;Adam;Gumowski;Politechnika Informatyczno-Elektroniczna;Koscian;II;3059
+540;Alina;Charemska;Politechnika Informatyczno-Elektroniczna;Koscian;III;1847
+541;Zbigniew;Jaworski;Uniwersytet Krolewski;Kostrzyn;IV;3238
+542;Marcin;Grabysz;Uniwersytet Sportu i Turystyki;Koszalin;II;2125
+543;Jan;Chylak;Politechnika Informatyczno-Elektroniczna;Koszalin;I;1224
+544;Grzegorz;Sokolowski;Politechnika Krolewska;Krapkowice;I;606
+545;Anna;Smela;Politechnika Informatyczno-Elektroniczna;Krapkowice;I;1375
+546;Maria;Kolka;Uniwersytet Rolniczy;Krapkowice;I;790
+547;Krzysztof;Groza;Politechnika Krolewska;Krapkowice;II;2014
+548;Katarzyna;Friedek;Politechnika Krolewska;Krapkowice;IV;898
+549;Piotr;Szczerek;Uniwersytet Krolewski;Krasnik;I;2896
+550;Edward;Bebanek;Uniwersytet Krolewski;Krasnik;I;1580
+551;Grzegorz;Kinski;Politechnika Informatyczno-Elektroniczna;Krosno;I;3000
+552;Patryk;Brylok;Politechnika Informatyczno-Elektroniczna;Krosno;I;3007
+553;Ewa;Oszczudlowska;Uniwersytet Ekonomiczny;Krosno;III;1141
+554;Irma;Iwasiow;Politechnika Krolewska;Krosno;I;1201
+555;Tomasz;Muc;Uniwersytet Rolniczy;Krosno;I;1243
+556;Piotr;Cholewa;Uniwersytet Pedagogiczny;Krosno;II;2318
+557;Antoni;Chmielacz;Uniwersytet Rolniczy;Kruszwica;I;2952
+558;Agnieszka;Witas;Politechnika Krolewska;Kruszwica;I;1914
+559;Andrzej;Baran;Politechnika Informatyczno-Elektroniczna;Kruszwica;V;1390
+560;Feliks;Bawarski;Uniwersytet Krolewski;Kruszwica;I;433
+561;Kinga;Matuszyk;Politechnika Krolewska;Krzeszowice;V;562
+562;Grzegorz;Borutawski;Politechnika Krolewska;Krzeszowice;I;2859
+563;Wiktor;Basajski;Politechnika Krolewska;Krzeszowice;II;920
+564;Sylwester;Jasinski;Politechnika Informatyczno-Elektroniczna;Krzeszowice;I;1216
+565;Zofia;Ciechowska;Uniwersytet Krolewski;Krzeszowice;V;2652
+566;Adam;Bialczak;Politechnika Informatyczno-Elektroniczna;Krzyz Wielkopolski;I;1676
+567;Filip;Baczek;Akademia Sztuk Pieknych;Kudowa-Slone;II;459
+568;Felicja;Latas;Uniwersytet Krolewski;Kuznia Raciborska;II;592
+569;Aleksy;Dudek;Uniwersytet Pedagogiczny;Kuznia Raciborska;I;2544
+570;Krzysztof;Chorzyk;Politechnika Informatyczno-Elektroniczna;Kuznia Raciborska;V;1037
+571;Krzysztof;Kryszkiewicz;Uniwersytet Krolewski;Kuznia Raciborska;II;390
+572;Robert;Zielinski;Politechnika Krolewska;Kuznia Raciborska;IV;2538
+573;Zachariasz;Msciwujewski;Uniwersytet Krolewski;Kuznia Raciborska;IV;3044
+574;Jakub;Dukowski;Uniwersytet Krolewski;Kuznia Raciborska;I;2983
+575;Anastazja;Litwin;Uniwersytet Rolniczy;Kuznia Raciborska;III;889
+576;Tomasz;Gronus;Uniwersytet Krolewski;Kuznia Raciborska;I;389
+577;Zofia;Adamowicz;Uniwersytet Krolewski;Kuznia Raciborska;I;439
+578;Wislaw;Kowalski;Politechnika Informatyczno-Elektroniczna;Kuznia Raciborska;II;3208
+579;Konstantyn;Piatek;Uniwersytet Krolewski;Kuznia Raciborska;I;350
+580;Paulina;Uszek;Politechnika Krolewska;Kuznica Bialostocka;V;1937
+581;Andrzej;Kuras;Akademia Sztuk Pieknych;Kuznica Bialostocka;V;838
+582;Beata;Cagara;Politechnika Informatyczno-Elektroniczna;Lazy;V;1698
+583;Barbara;Balwierz;Uniwersytet Krolewski;Lazy;II;2746
+584;Anna;Antosiewicz;Uniwersytet Pedagogiczny;Leczyca;V;569
+585;Sara;Koterba;Uniwersytet Krolewski;Leczyca;I;1389
+586;Miroslawa;Krasuska;Politechnika Krolewska;Ledziny;I;3018
+587;Patrycja;Kochanska;Uniwersytet Krolewski;Ledziny;III;1111
+588;Tomasz;Ichniowski;Uniwersytet Krolewski;Ledziny;I;783
+589;Stanislaw;Bialkowski;Politechnika Krolewska;Ledziny;I;3244
+590;Piotr;Kalicinski;Uniwersytet Krolewski;Ledziny;I;1155
+591;Roman;Banasik;Uniwersytet Rolniczy;Ledziny;IV;2845
+592;Michal;Zawadzki;Politechnika Krolewska;Ledziny;I;1501
+593;Klaudia;Janecka;Akademia Sztuk Pieknych;Ledziny;I;1257
+594;Danuta;Chyza;Politechnika Informatyczno-Elektroniczna;Ledziny;II;1787
+595;Bartosz;Grzesik;Uniwersytet Krolewski;Ledziny;I;725
+596;Milosz;Michalski;Politechnika Informatyczno-Elektroniczna;Ledziny;I;493
+597;Michal;Baja;Uniwersytet Ekonomiczny;Ledziny;I;2916
+598;Marcin;Bielak;Uniwersytet Krolewski;Legionowo;I;1164
+599;Henryk;Chlopicki;Uniwersytet Krolewski;Legionowo;I;951
+600;Marcin;Jader;Politechnika Informatyczno-Elektroniczna;Legionowo;I;1074
+601;Elzbieta;Sikora;Politechnika Informatyczno-Elektroniczna;Legnica;V;2468
+602;Ewa;Barek;Uniwersytet Sportu i Turystyki;Legnica;I;2880
+603;Kinga;Kaszyca;Politechnika Informatyczno-Elektroniczna;Legnica;I;1299
+604;Piotr;Pszczola;Uniwersytet Ekonomiczny;Legnica;I;1048
+605;Barbara;Banowska;Politechnika Informatyczno-Elektroniczna;Leszno;I;2846
+606;Piotr;Jedruszczak;Uniwersytet Krolewski;Leszno;II;2995
+607;Zofia;Boska;Uniwersytet Krolewski;Leszno;I;3037
+608;Joanna;Para;Politechnika Krolewska;Limanowa;III;1930
+609;Kamila;Borowska;Politechnika Krolewska;Limanowa;I;2743
+610;Monika;Chrzanik;Politechnika Krolewska;Limanowa;I;2943
+611;Marek;Wypchlo;Uniwersytet Krolewski;Limanowa;IV;1041
+612;Michal;Lowik;Uniwersytet Krolewski;Limanowa;II;1437
+613;Wojciech;Janocha;Uniwersytet Pedagogiczny;Limanowa;I;3289
+614;Tomasz;Basinski;Politechnika Informatyczno-Elektroniczna;Limanowa;I;1032
+615;Klaudiusz;Ostrowski;Uniwersytet Krolewski;Limanowa;I;1555
+616;Danuta;Telejko;Politechnika Informatyczno-Elektroniczna;Limanowa;I;996
+617;Michal;Rokosz;Politechnika Informatyczno-Elektroniczna;Limanowa;I;751
+618;Piotr;Pienkowski;Politechnika Informatyczno-Elektroniczna;Limanowa;I;1425
+619;Jan;Razny;Akademia Sztuk Pieknych;Limanowa;I;1732
+620;Stefan;Wlodarczyk;Politechnika Krolewska;Limanowa;V;571
+621;Zofia;Kielbus;Uniwersytet Ekonomiczny;Limanowa;III;1384
+622;Celina;Dobrzanska;Uniwersytet Rolniczy;Lodz;II;3324
+623;Joanna;Letka;Politechnika Informatyczno-Elektroniczna;Lomza;III;2560
+624;Katarzyna;Oleksy;Uniwersytet Krolewski;Lomza;III;2117
+625;Jan;Trzmielewski;Politechnika Informatyczno-Elektroniczna;Lubaczow;I;2094
+626;Helena;Gawlicz;Uniwersytet Krolewski;Lubaczow;II;2349
+627;Tomasz;Mazurek;Politechnika Krolewska;Lubaczow;I;2409
+628;Roch;Lechowicz;Uniwersytet Krolewski;Lubaczow;V;2674
+629;Marek;Nosowski;Politechnika Informatyczno-Elektroniczna;Lublin;II;486
+630;Kamil;Kwiatkowski;Politechnika Informatyczno-Elektroniczna;Lublin;II;3318
+631;Adam;Banas;Politechnika Informatyczno-Elektroniczna;Lublin;V;1991
+632;Katarzyna;Jokiel;Akademia Sztuk Pieknych;Lublin;III;847
+633;Pawel;Jasiak;Wyzsza Szko�a Techniczna;Lublin;I;3277
+634;Wojciech;Musiol;Uniwersytet Krolewski;Lublin;V;2972
+635;Weronika;Kaczmarek;Politechnika Krolewska;Lublin;I;1140
+636;Pawel;Janowicz;Politechnika Informatyczno-Elektroniczna;Lublin;I;2133
+637;Miron;Sledziak;Politechnika Informatyczno-Elektroniczna;Lublin;II;2397
+638;Iwona;Kromolowska;Uniwersytet Krolewski;Lublin;I;2387
+639;Sylwester;Borkowski;Politechnika Krolewska;Lublin;III;1683
+640;Zuzanna;Wronska;Politechnika Informatyczno-Elektroniczna;Lubliniec;I;878
+641;Tomasz;Koscielny;Politechnika Informatyczno-Elektroniczna;Lubliniec;I;2245
+642;Ada;Drukarczyk;Politechnika Informatyczno-Elektroniczna;Lubliniec;II;2353
+643;Karol;Andrus;Politechnika Krolewska;Lubliniec;II;1775
+644;Alicja;Medynska;Politechnika Krolewska;Lubliniec;V;590
+645;Katarzyna;Kwiecien;Politechnika Informatyczno-Elektroniczna;Lubliniec;IV;772
+646;Felicja;Ostrowska;Uniwersytet Rolniczy;Lubliniec;I;2466
+647;Barbara;Przywarska;Politechnika Krolewska;Lubliniec;III;3020
+648;Malwina;Kabala;Politechnika Informatyczno-Elektroniczna;Lubliniec;I;2691
+649;Lucyna;Trzopek;Uniwersytet Krolewski;Lwowek Slaski;III;2758
+650;Kamil;Polkowski;Politechnika Krolewska;Lwowek Slaski;I;357
+651;Czeslawa;Kalinowska;Uniwersytet Krolewski;Lwowek Slaski;II;2752
+652;Emilia;Banach;Politechnika Informatyczno-Elektroniczna;Malbork;II;2695
+653;Wiktoria;Gorska;Politechnika Informatyczno-Elektroniczna;Medyka;I;391
+654;Dariusz;Hentelski;Uniwersytet Krolewski;Medyka;I;1750
+655;Pawel;Pawlowski;Politechnika Krolewska;Medyka;II;2802
+656;Krzysztof;Siemion;Uniwersytet Sportu i Turystyki;Miechow;I;2344
+657;Marcin;Bienkowski;Politechnika Informatyczno-Elektroniczna;Miechow;I;3025
+658;Artur;Dartcjan;Politechnika Informatyczno-Elektroniczna;Miechow;V;1008
+659;Felicja;Adamkowska;Uniwersytet Krolewski;Miechow;V;617
+660;Karolina;Naparstek;Politechnika Informatyczno-Elektroniczna;Miechow;II;2409
+661;Aleksandra;Wybraniec;Uniwersytet Krolewski;Miechow;I;764
+662;Michal;Otwinowski;Uniwersytet Krolewski;Miechow;I;2659
+663;Lechoslawa;Burcz;Uniwersytet Rolniczy;Miechow;I;2874
+664;Bozena;Sowa;Uniwersytet Pedagogiczny;Miechow;I;691
+665;Kacper;Luty;Uniwersytet Krolewski;Miechow;II;3201
+666;Wioletta;Pacula;Uniwersytet Krolewski;Miedzyrzecz;I;2742
+667;Szczepan;Sobczak;Uniwersytet Krolewski;Miedzyrzecze;II;902
+668;Kacper;Babinski;Uniwersytet Krolewski;Miedzyrzecze;III;831
+669;Alicja;Barczynska;Uniwersytet Krolewski;Mikolajki;III;2679
+670;Ewelina;Kobus;Politechnika Informatyczno-Elektroniczna;Mikolajki;II;811
+671;Agnieszka;Lencznarowicz;Uniwersytet Krolewski;Mikolajki;III;478
+672;Barbara;Barszczykiewicz;Politechnika Krolewska;Mikolajki;I;2827
+673;Klara;Lipiec;Politechnika Informatyczno-Elektroniczna;Mikolow;V;355
+674;Jacek;Zuchowicz;Politechnika Informatyczno-Elektroniczna;Mikolow;II;1668
+675;Andrzej;Wisniewski;Politechnika Krolewska;Mikolow;V;2322
+676;Oskar;Kolodziej;Politechnika Informatyczno-Elektroniczna;Mikolow;I;1535
+677;Jakub;Piotrowski;Politechnika Informatyczno-Elektroniczna;Mikolow;IV;2456
+678;Bogumila;Grubba;Uniwersytet Krolewski;Mikolow;I;858
+679;Sandra;Swiatek;Uniwersytet Sportu i Turystyki;Mikolow;I;2456
+680;Anna;Barciszewska;Uniwersytet Rolniczy;Mikolow;III;709
+681;Maryla;Ciechowicz;Uniwersytet Krolewski;Mikolow;I;2219
+682;Katarzyna;Garbacz;Uniwersytet Krolewski;Mikolow;II;2010
+683;Jaroslaw;Walewski;Politechnika Informatyczno-Elektroniczna;Mikolow;III;356
+684;Amadeusz;Bartosik;Uniwersytet Krolewski;Mikolow;I;607
+685;Marcin;Gorec;Politechnika Krolewska;Mikolow;I;2939
+686;Maciej;Poradisz;Politechnika Informatyczno-Elektroniczna;Mikolow;III;3037
+687;Jan;Barbucha;Uniwersytet Krolewski;Mikolow;V;3276
+688;Magdalena;Nadarzyn;Politechnika Informatyczno-Elektroniczna;Mikolow;II;1880
+689;Celina;Pietras;Politechnika Informatyczno-Elektroniczna;Mikolow;I;2872
+690;Wanda;Rossudowska;Uniwersytet Pedagogiczny;Mikolow;I;2554
+691;Karolina;Tomsza;Politechnika Informatyczno-Elektroniczna;Mikolow;III;767
+692;Bartosz;Ziolkowski;Uniwersytet Rolniczy;Mikolow;I;3056
+693;Kamil;Borysow;Politechnika Krolewska;Mikolow;I;421
+694;Irena;Ignaszewska;Uniwersytet Krolewski;Mikolow;I;1160
+695;Miroslawa;Grzesik;Uniwersytet Krolewski;Mikolow;I;788
+696;Krzysztof;Bladowicz;Politechnika Informatyczno-Elektroniczna;Mikolow;I;2004
+697;Maciej;Kula;Politechnika Informatyczno-Elektroniczna;Mikolow;V;2418
+698;Kamil;Wieczorek;Uniwersytet Krolewski;Mikolow;I;2065
+699;Ewa;Jurek;Politechnika Krolewska;Mirow;V;2101
+700;Zyta;Bugala;Uniwersytet Krolewski;Mlynarze;III;1958
+701;Beata;Stan;Politechnika Informatyczno-Elektroniczna;Mlynarze;IV;2033
+702;Juliusz;Wozniak;Uniwersytet Pedagogiczny;Mlynarze;V;1523
+703;Hanna;Okularczyk;Politechnika Informatyczno-Elektroniczna;Mlynarze;III;507
+704;Aleksy;Borkowski;Politechnika Informatyczno-Elektroniczna;Monki;IV;1035
+705;Dorota;Byra;Politechnika Krolewska;Monki;I;1233
+706;Gertruda;Rzasowska;Akademia Sztuk Pieknych;Mordy;I;2877
+707;Lukasz;Kostosz;Uniwersytet Krolewski;Myslowice;I;1060
+708;Pawel;Orczyk;Uniwersytet Krolewski;Myslowice;I;627
+709;Natasza;Konewka;Wyzsza Szko�a Techniczna;Myslowice;I;2056
+710;Alicja;Cygan;Uniwersytet Krolewski;Myslowice;I;2578
+711;Anna;Bugajska;Politechnika Informatyczno-Elektroniczna;Myslowice;I;412
+712;Antoni;Wojtyra;Politechnika Informatyczno-Elektroniczna;Myslowice;IV;2404
+713;Jan;Matczak;Uniwersytet Krolewski;Myslowice;IV;2042
+714;Michal;Kopernik;Uniwersytet Krolewski;Myslowice;II;499
+715;Andrzej;Kozlowski;Uniwersytet Krolewski;Myslowice;II;2133
+716;Adam;Jasiewicz;Uniwersytet Krolewski;Myslowice;I;1554
+717;Jan;Janosik;Uniwersytet Krolewski;Myslowice;III;736
+718;Adam;Bledowski;Politechnika Informatyczno-Elektroniczna;Myslowice;I;1956
+719;Klementyna;Mrozinska;Politechnika Informatyczno-Elektroniczna;Myslowice;II;1079
+720;Aleksander;Pawlak;Politechnika Krolewska;Myslowice;I;705
+721;Waclaw;Slaski;Politechnika Krolewska;Myslowice;II;2809
+722;Jakub;Kanciala;Politechnika Informatyczno-Elektroniczna;Myslowice;I;2021
+723;Julia;Pondo;Politechnika Informatyczno-Elektroniczna;Myslowice;V;1019
+724;Jozef;Biegar;Politechnika Krolewska;Myslowice;I;2878
+725;Pawel;Beryl;Politechnika Informatyczno-Elektroniczna;Myslowice;V;2101
+726;Paulina;Bulejska;Politechnika Informatyczno-Elektroniczna;Myslowice;III;1286
+727;Wiktoria;Dobosz;Uniwersytet Krolewski;Myslowice;I;2498
+728;Izabella;Bluza;Uniwersytet Krolewski;Myslowice;IV;3258
+729;Karol;Anyzkiewicz;Politechnika Krolewska;Myslowice;II;2274
+730;Ksenia;Kadziola;Uniwersytet Krolewski;Myslowice;IV;2742
+731;Lechoslaw;Nowakowicz;Uniwersytet Krolewski;Myslowice;I;1084
+732;Bronislawa;Michalska;Politechnika Informatyczno-Elektroniczna;Myslowice;III;3097
+733;Marta;Czerny;Uniwersytet Krolewski;Myslowice;III;394
+734;Helena;Kotlarz;Politechnika Informatyczno-Elektroniczna;Myslowice;I;559
+735;Michal;Galas;Politechnika Informatyczno-Elektroniczna;Myslowice;I;2461
+736;Robert;Tomaszewski;Politechnika Krolewska;Myszkow;III;1511
+737;Karol;Boran;Uniwersytet Krolewski;Myszkow;I;2190
+738;Agnieszka;Mordak;Uniwersytet Rolniczy;Myszkow;III;3292
+739;Tomasz;Suder;Uniwersytet Krolewski;Myszkow;I;2998
+740;Stefan;Polanicki;Uniwersytet Krolewski;Myszkow;III;770
+741;Roman;Kolek;Politechnika Informatyczno-Elektroniczna;Myszkow;III;674
+742;Magdalena;Peciak;Uniwersytet Ekonomiczny;Myszkow;I;2024
+743;Michal;Czajczyk;Politechnika Krolewska;Myszkow;V;3080
+744;Natasza;Rudnicka;Uniwersytet Krolewski;Myszkow;IV;1178
+745;Wojciech;Kwiecien;Uniwersytet Krolewski;Myszkow;III;956
+746;Michal;Kurtyka;Politechnika Informatyczno-Elektroniczna;Myszkow;I;1445
+747;Agnieszka;Dziernanowska;Politechnika Krolewska;Myszkow;II;2982
+748;Danuta;Bodnar;Politechnika Informatyczno-Elektroniczna;Naleczow;V;1543
+749;Bartosz;Gasior;Uniwersytet Ekonomiczny;Naleczow;I;2138
+750;Tadeusz;Staron;Politechnika Informatyczno-Elektroniczna;Naleczow;V;2198
+751;Andrzej;Kacperski;Politechnika Informatyczno-Elektroniczna;Naleczow;IV;2370
+752;Kinga;Krol;Politechnika Informatyczno-Elektroniczna;Naleczow;I;3262
+753;Katarzyna;Biedka;Politechnika Krolewska;Naleczow;IV;2705
+754;Alina;Wolowiec;Uniwersytet Rolniczy;Naleczow;I;2760
+755;Szymon;Boruta;Akademia Sztuk Pieknych;Naleczow;II;945
+756;Miroslawa;Prawy;Politechnika Informatyczno-Elektroniczna;Naleczow;II;3156
+757;Malgorzata;Bronislawska;Politechnika Krolewska;Naleczow;IV;735
+758;Szymon;Perczynski;Uniwersytet Ekonomiczny;Naleczow;I;1216
+759;Jowita;Farcik;Uniwersytet Krolewski;Naleczow;I;2443
+760;Agnieszka;Chmielarz;Politechnika Informatyczno-Elektroniczna;Naleczow;I;2139
+761;Artur;Chodyrak;Uniwersytet Krolewski;Naleczow;I;2338
+762;Piotr;Wojcik;Uniwersytet Krolewski;Nowy Sacz;II;1625
+763;Janusz;Gajda;Uniwersytet Krolewski;Nowy Sacz;I;2262
+764;Barbara;Chrzanowska;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;I;997
+765;Pawel;Janicki;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;I;1067
+766;Dariusz;Chrascik;Uniwersytet Krolewski;Nowy Sacz;I;3152
+767;Edyta;Kurdzielewicz;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;I;2710
+768;Roman;Listopad;Uniwersytet Krolewski;Nowy Sacz;I;2018
+769;Honorata;Milosz;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;I;761
+770;Zofia;Luszczyk;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;IV;2409
+771;Tomasz;Mieta;Uniwersytet Krolewski;Nowy Sacz;V;3329
+772;Miroslawa;Czarnoleska;Uniwersytet Pedagogiczny;Nowy Sacz;I;466
+773;Wawrzyniec;Surowka;Politechnika Krolewska;Nowy Sacz;I;1644
+774;Bohdan;Bielawski;Politechnika Krolewska;Nowy Sacz;III;2645
+775;Mateusz;Cisek;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;III;2376
+776;Kacper;Kujalowski;Politechnika Krolewska;Nowy Sacz;V;1195
+777;Michal;Piekarz;Politechnika Krolewska;Nowy Sacz;III;3142
+778;Sebastian;Kalicki;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;I;1441
+779;Adam;Tuszynski;Politechnika Informatyczno-Elektroniczna;Nowy Sacz;IV;2269
+780;Jerzy;Barczyk;Politechnika Krolewska;Nowy Sacz;I;3282
+781;Angelika;Koszka;Politechnika Krolewska;Nowy Sacz;III;3338
+782;Maciej;Pajak;Politechnika Krolewska;Nowy Targ;II;2558
+783;Kamil;Slimak;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;2585
+784;Magdalena;Batycka;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;819
+785;Wojciech;Chlebdanowski;Politechnika Krolewska;Nowy Targ;I;827
+786;Grzegorz;Wrzesinski;Politechnika Krolewska;Nowy Targ;I;1609
+787;Jolanta;Zarebska;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;885
+788;Waclawa;Zaba;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;2347
+789;Andrzej;Malek;Uniwersytet Krolewski;Nowy Targ;II;451
+790;Patryk;Gruszka;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;2625
+791;Fryderyka;Radecka;Politechnika Informatyczno-Elektroniczna;Nowy Targ;V;1004
+792;Boleslawa;Sarna;Uniwersytet Sportu i Turystyki;Nowy Targ;I;1915
+793;Marlena;Warszawska;Uniwersytet Krolewski;Nowy Targ;III;570
+794;Jan;Kozakowski;Politechnika Informatyczno-Elektroniczna;Nowy Targ;V;2539
+795;Angelika;Bartusiak;Uniwersytet Rolniczy;Nowy Targ;I;365
+796;Grzegorz;Sawicki;Uniwersytet Krolewski;Nowy Targ;III;2857
+797;Maciej;Boni;Uniwersytet Krolewski;Nowy Targ;II;2667
+798;Dorota;Blaszczyk;Politechnika Krolewska;Nowy Targ;V;1145
+799;Oliwia;Bogdal;Akademia Sztuk Pieknych;Nowy Targ;I;2021
+800;Patryk;Kopytko;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;3142
+801;Monika;Mielecka;Politechnika Informatyczno-Elektroniczna;Nowy Targ;III;669
+802;Andrzej;Stefanczyk;Uniwersytet Krolewski;Nowy Targ;I;1992
+803;Patryk;Fiszer;Politechnika Krolewska;Nowy Targ;II;1576
+804;Wislawa;Maciejewska;Uniwersytet Rolniczy;Nowy Targ;V;3031
+805;Jozef;Krosno;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;1102
+806;Maksym;Znojek;Uniwersytet Krolewski;Nowy Targ;II;1934
+807;Przemyslaw;Kaczmarek;Uniwersytet Krolewski;Nowy Targ;V;1140
+808;Zofia;Barszczewska;Politechnika Krolewska;Nowy Targ;III;957
+809;Artur;Binkowski;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;1149
+810;Adam;Jankowski;Politechnika Informatyczno-Elektroniczna;Nowy Targ;I;2449
+811;Adam;Skalny;Uniwersytet Rolniczy;Nysa;V;426
+812;Mariusz;Garlowski;Uniwersytet Krolewski;Nysa;III;2438
+813;Beata;Nowotarska;Politechnika Informatyczno-Elektroniczna;Nysa;I;443
+814;Maciej;Mojsanowicz;Politechnika Krolewska;Nysa;I;2736
+815;Anastazja;Majewska;Politechnika Informatyczno-Elektroniczna;Nysa;I;1476
+816;Dorota;Zybowska;Politechnika Informatyczno-Elektroniczna;Nysa;IV;1338
+817;Oskar;Kozlowski;Politechnika Informatyczno-Elektroniczna;Nysa;I;1767
+818;Pawel;Guzik;Uniwersytet Sportu i Turystyki;Nysa;V;596
+819;Roman;Jakubczyk;Politechnika Informatyczno-Elektroniczna;Nysa;I;1621
+820;Celina;Mieleszko;Politechnika Informatyczno-Elektroniczna;Nysa;I;667
+821;Joanna;Bycz;Uniwersytet Krolewski;Nysa;I;1555
+822;Marek;Walbiner;Uniwersytet Krolewski;Oborniki;I;2479
+823;Robert;Kasa;Wyzsza Szko�a Techniczna;Oborniki;I;2535
+824;Piotr;Hardy;Politechnika Informatyczno-Elektroniczna;Oborniki;I;2849
+825;Radoslawa;Poniedzialek;Politechnika Informatyczno-Elektroniczna;Ogrodniki;I;1720
+826;Dorota;Stachowska;Politechnika Krolewska;Ogrodniki;I;2242
+827;Iwona;Bardzio;Uniwersytet Krolewski;Ogrodniki;I;3124
+828;Zygmunt;Banachowicz;Politechnika Krolewska;Ogrodniki;I;3239
+829;Adam;Krakowski;Uniwersytet Krolewski;Ogrodzieniec;V;2391
+830;Teresa;Grabik;Politechnika Krolewska;Ogrodzieniec;V;3145
+831;Szymon;Czaja;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;I;912
+832;Cezar;Adamski;Akademia Sztuk Pieknych;Ogrodzieniec;I;1316
+833;Krystian;Dziwulski;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;IV;2368
+834;Joanna;Andrychowicz;Uniwersytet Krolewski;Ogrodzieniec;I;1032
+835;Filip;Balica;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;II;1617
+836;Patrycja;Kantor;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;V;534
+837;Oskar;Ryba;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;II;2275
+838;Miron;Raban;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;I;1362
+839;Przemyslaw;Choloniewski;Uniwersytet Ekonomiczny;Ogrodzieniec;I;2602
+840;Sebastian;Carek;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;II;2328
+841;Karol;Wlodek;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;I;2534
+842;Bogdan;Benedykt;Akademia Sztuk Pieknych;Ogrodzieniec;I;2228
+843;Brygida;Jakobik;Uniwersytet Krolewski;Ogrodzieniec;I;2648
+844;Paulina;Szeruga;Uniwersytet Krolewski;Ogrodzieniec;II;2077
+845;Jadwiga;Loch;Uniwersytet Krolewski;Ogrodzieniec;I;1676
+846;Ewa;Sosnowska;Uniwersytet Ekonomiczny;Ogrodzieniec;II;1151
+847;Roman;Aronowski;Uniwersytet Pedagogiczny;Ogrodzieniec;IV;1576
+848;Jaroslaw;Szczepanski;Uniwersytet Krolewski;Ogrodzieniec;I;2180
+849;Andrzej;Bilinski;Wyzsza Szko�a Techniczna;Ogrodzieniec;I;1048
+850;Jacek;Halemba;Uniwersytet Ekonomiczny;Ogrodzieniec;I;1165
+851;Tomasz;Wojtkiewicz;Politechnika Informatyczno-Elektroniczna;Ogrodzieniec;IV;2811
+852;Mateusz;Kojec;Politechnika Krolewska;Ogrodzieniec;I;1884
+853;Ewelina;Ambroziak;Politechnika Krolewska;Ogrodzieniec;I;2891
+854;Beata;Moskala;Politechnika Krolewska;Olkusz;II;972
+855;Kamil;Amanowicz;Politechnika Krolewska;Olkusz;II;535
+856;Jadwiga;Chodorowska;Uniwersytet Krolewski;Olkusz;I;2763
+857;Janina;Bawinek;Politechnika Krolewska;Olkusz;I;3327
+858;Eustachy;Kendziora;Uniwersytet Krolewski;Olkusz;I;2414
+859;Karolina;Bromska;Politechnika Informatyczno-Elektroniczna;Olkusz;II;2480
+860;Robert;Rurski;Politechnika Informatyczno-Elektroniczna;Olkusz;I;1955
+861;Andrzej;Koziol;Politechnika Informatyczno-Elektroniczna;Olkusz;II;1428
+862;Dominika;Maslon;Uniwersytet Ekonomiczny;Olkusz;IV;1175
+863;Martyn;Wisniewski;Politechnika Informatyczno-Elektroniczna;Olkusz;V;2380
+864;Elzbieta;Makalu;Uniwersytet Krolewski;Olkusz;I;2964
+865;Beata;Nowakowska;Uniwersytet Krolewski;Olkusz;I;3044
+866;Anna;Sawicka;Uniwersytet Krolewski;Olkusz;I;1134
+867;Elzbieta;Wieczorek;Politechnika Informatyczno-Elektroniczna;Olkusz;IV;3214
+868;Jerzy;Kaktus;Politechnika Informatyczno-Elektroniczna;Olkusz;I;2732
+869;Alicja;Cichocka;Uniwersytet Pedagogiczny;Olkusz;I;780
+870;Jolanta;Kukulska;Uniwersytet Rolniczy;Olkusz;II;2523
+871;Magdalena;Jackowska;Uniwersytet Krolewski;Olkusz;II;3178
+872;Dagmara;Szumska;Politechnika Informatyczno-Elektroniczna;Olsztyn;I;2039
+873;Aleksandra;Paluch;Uniwersytet Krolewski;Olszyna;II;2456
+874;Marek;Markiewicz;Politechnika Informatyczno-Elektroniczna;Olszyna;IV;620
+875;Roman;Arecki;Uniwersytet Krolewski;Opole;I;2086
+876;Mikolaj;Lisinski;Uniwersytet Krolewski;Opole;III;930
+877;Maria;Baron;Uniwersytet Krolewski;Ostroleka;II;1112
+878;Grzegorz;Jaworski;Uniwersytet Sportu i Turystyki;Oswiecim;II;2185
+879;Magdalena;Rysowicz;Politechnika Krolewska;Oswiecim;I;1731
+880;Dominik;Marek;Uniwersytet Krolewski;Oswiecim;I;519
+881;Franciszek;Kucharski;Politechnika Informatyczno-Elektroniczna;Oswiecim;I;2317
+882;Urszula;Czajka;Uniwersytet Krolewski;Oswiecim;II;1846
+883;Anna;Szyma;Politechnika Informatyczno-Elektroniczna;Oswiecim;II;753
+884;Radomil;Grudzien;Politechnika Krolewska;Oswiecim;V;2077
+885;Wladyslawa;Konwicka;Politechnika Informatyczno-Elektroniczna;Oswiecim;II;1259
+886;Jadwiga;Osinska;Politechnika Informatyczno-Elektroniczna;Oswiecim;IV;1004
+887;Stefan;Kalinowski;Uniwersytet Rolniczy;Oswiecim;IV;1932
+888;Karol;Myrcik;Politechnika Informatyczno-Elektroniczna;Oswiecim;I;2011
+889;Anna;Oman;Politechnika Informatyczno-Elektroniczna;Oswiecim;V;1445
+890;Piotr;Bajer;Politechnika Informatyczno-Elektroniczna;Oswiecim;I;2408
+891;Paulina;Wierzchowska;Politechnika Informatyczno-Elektroniczna;Otmuchow;II;1554
+892;Zofia;Chalupka;Uniwersytet Krolewski;Otmuchow;I;3255
+893;Celina;Mirow;Politechnika Informatyczno-Elektroniczna;Otmuchow;I;2732
+894;Tadeusz;Kotowicz;Politechnika Informatyczno-Elektroniczna;Piechowice;I;1950
+895;Elzbieta;Wielgus;Politechnika Krolewska;Piechowice;I;2581
+896;Elzbieta;Kwiatkowska;Uniwersytet Krolewski;Piechowice;V;1590
+897;Malgorzata;Pisarskiewicz;Politechnika Krolewska;Pila;V;3064
+898;Sobieslaw;Bulwan;Politechnika Krolewska;Pila;I;970
+899;Dorota;Marchewka;Akademia Sztuk Pieknych;Pilica;I;1632
+900;Patrycja;Metz;Uniwersytet Krolewski;Pilica;II;1547
+901;Zachariasz;Jakimow;Uniwersytet Krolewski;Pilica;V;527
+902;Jakub;Malarski;Politechnika Informatyczno-Elektroniczna;Pilica;I;2104
+903;Oskar;Rakowski;Uniwersytet Krolewski;Pilica;II;475
+904;Tomasz;Dudzinski;Politechnika Informatyczno-Elektroniczna;Piotrkow Trybunalski;I;744
+905;Jaromir;Szybki;Politechnika Informatyczno-Elektroniczna;Piotrkow Trybunalski;I;679
+906;Krzysztof;Linus;Uniwersytet Krolewski;Piotrkow Trybunalski;I;2232
+907;Andrzej;Inny;Uniwersytet Krolewski;Piotrkow Trybunalski;I;1525
+908;Wojciech;Batory;Akademia Sztuk Pieknych;Piwniczna-Zdroj;I;1442
+909;Monika;Drzewiecka;Politechnika Informatyczno-Elektroniczna;Piwniczna-Zdroj;I;1736
+910;Renata;Kalwas;Politechnika Informatyczno-Elektroniczna;Piwniczna-Zdroj;I;1252
+911;Jan;Sztonyk;Politechnika Informatyczno-Elektroniczna;Piwniczna-Zdroj;II;2533
+912;Kacper;Kita;Uniwersytet Krolewski;Piwniczna-Zdroj;I;2006
+913;Zofia;Kruszewska;Politechnika Informatyczno-Elektroniczna;Plock;III;1700
+914;Radzimierz;Wojciechowski;Uniwersytet Krolewski;Plock;V;555
+915;Wojciech;Augustowski;Politechnika Informatyczno-Elektroniczna;Plock;I;814
+916;Barbara;Chudzik;Uniwersytet Krolewski;Poraj;I;3011
+917;Wojtek;Trzconka;Uniwersytet Krolewski;Poraj;I;1913
+918;Aleksy;Wur;Politechnika Informatyczno-Elektroniczna;Poraj;I;1021
+919;Bogumila;Piotrowska;Politechnika Krolewska;Poznan;I;3306
+920;Natalia;Sikorska;Akademia Sztuk Pieknych;Poznan;I;2452
+921;Hanna;Pietrzyk;Uniwersytet Krolewski;Poznan;V;2589
+922;Malgorzata;Janowska;Politechnika Informatyczno-Elektroniczna;Prudnik;I;1464
+923;Danuta;Chmielewska;Politechnika Informatyczno-Elektroniczna;Prudnik;II;1936
+924;Pawel;Banasiak;Politechnika Informatyczno-Elektroniczna;Prudnik;I;3317
+925;Adam;Zareba;Politechnika Informatyczno-Elektroniczna;Prudnik;II;985
+926;Fryderyka;Krzyskow;Uniwersytet Krolewski;Prudnik;V;2117
+927;Ewa;Sochacka;Uniwersytet Muzyczny;Prudnik;I;2333
+928;Kacper;Starachowicz;Politechnika Krolewska;Prudnik;I;1802
+929;Renata;Banachowicz;Politechnika Informatyczno-Elektroniczna;Prudnik;V;464
+930;Donald;Bakowski;Akademia Sztuk Pieknych;Przasnysz;I;1410
+931;Roza;Labaziewicz;Uniwersytet Pedagogiczny;Przasnysz;I;2958
+932;Artur;Blotny;Uniwersytet Rolniczy;Przemysl;III;1641
+933;Adam;Paterek;Politechnika Krolewska;Przemysl;I;2559
+934;Magdalena;Kulig;Politechnika Informatyczno-Elektroniczna;Przemysl;I;715
+935;Pawel;Banasiewicz;Politechnika Informatyczno-Elektroniczna;Przemysl;I;579
+936;Wiktor;Buchta;Uniwersytet Rolniczy;Przemysl;I;1652
+937;Sobieslaw;Symanski;Uniwersytet Krolewski;Przemysl;II;983
+938;Dariusz;Kowalczyk;Uniwersytet Krolewski;Przemysl;I;2441
+939;Mieszko;Lewy;Politechnika Krolewska;Przemysl;I;1408
+940;Wiktoria;Gumienny;Politechnika Krolewska;Przemysl;II;855
+941;Sylwia;Filipowicz;Politechnika Informatyczno-Elektroniczna;Przemysl;IV;2693
+942;Zofia;Maciarz;Politechnika Krolewska;Przemysl;V;1299
+943;Frydryk;Alancki;Uniwersytet Sportu i Turystyki;Przemysl;I;2855
+944;Patrycja;Roman;Uniwersytet Krolewski;Przemysl;III;3345
+945;Jolanta;Chmiel;Uniwersytet Krolewski;Przemysl;I;1300
+946;Boleslaw;Bialowasicz;Politechnika Informatyczno-Elektroniczna;Pszczyna;V;2057
+947;Agnieszka;Stachowiak;Uniwersytet Pedagogiczny;Pszczyna;IV;3199
+948;Bronislawa;Ludwig;Uniwersytet Krolewski;Pszczyna;I;1400
+949;Wojciech;Iwanski;Uniwersytet Pedagogiczny;Pszczyna;V;2580
+950;Elzbieta;Zagorska;Politechnika Krolewska;Pszczyna;I;486
+951;Wielislaw;Watroba;Politechnika Informatyczno-Elektroniczna;Pszczyna;II;1035
+952;Kamil;Bartnik;Politechnika Informatyczno-Elektroniczna;Pszczyna;IV;1718
+953;Zygmunt;Grzmil;Politechnika Informatyczno-Elektroniczna;Pszczyna;V;1346
+954;Mateusz;Kawicki;Politechnika Informatyczno-Elektroniczna;Pszczyna;I;3253
+955;Mateusz;Mazurkiewicz;Politechnika Informatyczno-Elektroniczna;Pszczyna;III;3000
+956;Cecylia;Boguslawska;Politechnika Krolewska;Pulawy;II;1225
+957;Alicja;Urbanczyk;Uniwersytet Ekonomiczny;Pulawy;III;3022
+958;Jan;Kamyk;Uniwersytet Rolniczy;Pulawy;I;2899
+959;Anna;Pytka;Politechnika Krolewska;Pulawy;I;1146
+960;Ryszard;Grabowski;Politechnika Informatyczno-Elektroniczna;Pulawy;I;728
+961;Janusz;Smitkowski;Politechnika Krolewska;Pyrzowice;II;2238
+962;Jan;Karbowniczek;Politechnika Informatyczno-Elektroniczna;Pyrzowice;I;2865
+963;Teresa;Wozniak;Uniwersytet Krolewski;Pyrzowice;V;3094
+964;Mateusz;Chwalinski;Politechnika Krolewska;Pyrzowice;IV;1802
+965;Wojciech;Sobczak;Politechnika Krolewska;Pyrzowice;I;2626
+966;Zofia;Klein;Politechnika Krolewska;Pyrzowice;II;849
+967;Eustachy;Pustulka;Uniwersytet Krolewski;Pyrzowice;I;1080
+968;Lucyna;Sokolowska;Politechnika Krolewska;Pyrzowice;I;2284
+969;Rafal;Rybak;Politechnika Informatyczno-Elektroniczna;Pyrzowice;IV;1366
+970;Agnieszka;Baranowska;Uniwersytet Krolewski;Pyrzowice;II;772
+971;Anna;Szafranska;Politechnika Informatyczno-Elektroniczna;Pyrzowice;IV;1671
+972;Malgorzata;Koczorowska;Politechnika Informatyczno-Elektroniczna;Pyrzyce;II;431
+973;Gracja;Warecka;Politechnika Krolewska;Pyrzyce;I;3030
+974;Michal;Piechota;Uniwersytet Ekonomiczny;Pyrzyce;IV;1748
+975;Krystyna;Brylka;Politechnika Informatyczno-Elektroniczna;Rabka;I;2256
+976;Filip;Harazim;Uniwersytet Krolewski;Rabka;I;883
+977;Maria;Bakala;Uniwersytet Krolewski;Rabka;I;2293
+978;Piotr;Jablonski;Politechnika Informatyczno-Elektroniczna;Rabka;II;1185
+979;Michal;Powietrzynski;Uniwersytet Krolewski;Rabka;I;2260
+980;Adelajda;Sobczak;Politechnika Informatyczno-Elektroniczna;Rabka;I;1087
+981;Ryszard;Skrzypczyk;Politechnika Krolewska;Rabka;I;1049
+982;Marek;Marciniak;Uniwersytet Krolewski;Rabka;IV;827
+983;Slawomir;Afganski;Uniwersytet Muzyczny;Rabka;I;1583
+984;Jolanta;Marcz;Politechnika Krolewska;Rabka;I;573
+985;Tomasz;Kania;Uniwersytet Krolewski;Rabka;I;2458
+986;Barbara;Krzeczkowska;Politechnika Informatyczno-Elektroniczna;Rabka;I;1418
+987;Zuzanna;Walczynska;Politechnika Krolewska;Rabka;I;1035
+988;Gabriela;Zajac;Politechnika Krolewska;Raciborz;V;1757
+989;Henryk;Walczak;Uniwersytet Krolewski;Raciborz;I;923
+990;Kuba;Kaminska;Uniwersytet Krolewski;Raciborz;II;1274
+991;Wieslaw;Bananowski;Politechnika Informatyczno-Elektroniczna;Raciborz;I;2930
+992;Roman;Szumylowicz;Politechnika Informatyczno-Elektroniczna;Raciborz;I;1176
+993;Bronislaw;Hubertus;Uniwersytet Pedagogiczny;Raciborz;I;2912
+994;Roman;Buszek;Uniwersytet Krolewski;Raciborz;I;771
+995;Ewa;Szepelak;Politechnika Informatyczno-Elektroniczna;Raciborz;I;2284
+996;Szymon;Wcislowski;Uniwersytet Rolniczy;Raciborz;I;1444
+997;Aleksandra;Pietak;Uniwersytet Krolewski;Raciborz;I;2499
+998;Kacper;Berkowski;Uniwersytet Muzyczny;Raciborz;I;1127
+999;Jagoda;Szmaglinska;Politechnika Krolewska;Raciborz;I;605
+1000;Mariusz;Morawski;Politechnika Krolewska;Raciborz;I;467
+1001;Natalia;Kochman;Akademia Sztuk Pieknych;Raciborz;I;2854
+1002;Zofia;Bartczak;Politechnika Informatyczno-Elektroniczna;Radom;IV;1551
+1003;Celina;Kubera;Uniwersytet Krolewski;Radom;III;729
+1004;Faustyn;Katana;Politechnika Krolewska;Radom;I;3318
+1005;Amelia;Awast;Politechnika Krolewska;Radom;I;3321
+1006;Paulina;Michalak;Politechnika Krolewska;Radom;III;1204
+1007;Frydryk;Wenc;Politechnika Informatyczno-Elektroniczna;Radom;I;1452
+1008;Aleksander;Bolkowski;Politechnika Krolewska;Radom;II;3247
+1009;Celestyna;Ozga;Politechnika Informatyczno-Elektroniczna;Radom;V;1377
+1010;Lucja;Wicinska;Uniwersytet Krolewski;Radom;I;2180
+1011;Jerzy;Gibki;Uniwersytet Krolewski;Radom;I;1770
+1012;Halina;Klimaszewska;Politechnika Informatyczno-Elektroniczna;Radom;I;2138
+1013;Mateusz;Wolny;Uniwersytet Pedagogiczny;Radom;V;1240
+1014;Jadwiga;Tarkowska;Politechnika Informatyczno-Elektroniczna;Radom;I;558
+1015;Tomasz;Bansik;Uniwersytet Krolewski;Radom;II;2355
+1016;Zofia;Staniec;Politechnika Krolewska;Rajcza;IV;610
+1017;Jerzy;Barankiewicz;Politechnika Krolewska;Rajcza;I;869
+1018;Anna;Ludwin;Uniwersytet Krolewski;Rajcza;I;2514
+1019;Jaroslaw;Nowik;Politechnika Krolewska;Rajcza;V;3069
+1020;Kamil;Kozlowski;Uniwersytet Pedagogiczny;Rajcza;I;843
+1021;Anna;Klubicka;Politechnika Informatyczno-Elektroniczna;Rajcza;I;2039
+1022;Paulina;Barcik;Uniwersytet Krolewski;Rajcza;II;821
+1023;Edyta;Wojcik;Politechnika Informatyczno-Elektroniczna;Rajcza;III;2649
+1024;Karol;Brodowicz;Politechnika Krolewska;Rajcza;I;1519
+1025;Kamil;Malek;Uniwersytet Ekonomiczny;Rajcza;I;2719
+1026;Ewa;Holda;Politechnika Informatyczno-Elektroniczna;Rajcza;V;628
+1027;Anna;Krakowska;Politechnika Informatyczno-Elektroniczna;Rajcza;I;3035
+1028;Honorata;Jasinska;Politechnika Informatyczno-Elektroniczna;Rajcza;IV;530
+1029;Roman;Badurzewski;Politechnika Informatyczno-Elektroniczna;Rajcza;I;2135
+1030;Mateusz;Switaj;Politechnika Krolewska;Rajcza;I;1947
+1031;Franciszek;Piaty;Politechnika Informatyczno-Elektroniczna;Rajcza;II;1202
+1032;Mikolaj;Pietras;Politechnika Krolewska;Rajcza;I;2686
+1033;Urszula;Misiak;Politechnika Krolewska;Rajcza;I;590
+1034;Anna;Halinowska;Politechnika Informatyczno-Elektroniczna;Rogoznik;I;1934
+1035;Antoni;Borowicz;Uniwersytet Krolewski;Rogoznik;I;2699
+1036;Jozef;Maj;Politechnika Informatyczno-Elektroniczna;Rogoznik;I;1191
+1037;Zofia;Miejska;Akademia Sztuk Pieknych;Rogoznik;II;3283
+1038;Andrzej;Dubala;Politechnika Informatyczno-Elektroniczna;Rogoznik;I;2519
+1039;Wincenty;Klimkiewicz;Uniwersytet Krolewski;Rogoznik;I;1416
+1040;Zdzislawa;Hejak;Politechnika Informatyczno-Elektroniczna;Rogoznik;I;2233
+1041;Franciszek;Leszczynski;Uniwersytet Krolewski;Rogoznik;I;2676
+1042;Maksym;Majewski;Politechnika Informatyczno-Elektroniczna;Rogoznik;IV;1309
+1043;Kamil;Kucharski;Politechnika Informatyczno-Elektroniczna;Rogoznik;V;923
+1044;Elwira;Banowicz;Politechnika Krolewska;Rogoznik;IV;1397
+1045;Zofia;Skrzydlewska;Politechnika Informatyczno-Elektroniczna;Rogoznik;V;1545
+1046;Miloslaw;Kozik;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;I;2367
+1047;Danuta;Kowalczyk;Wyzsza Szko�a Techniczna;Ruda Slaska;II;2844
+1048;Hanna;Aleksy;Uniwersytet Sportu i Turystyki;Ruda Slaska;III;3031
+1049;Alina;Literacka;Uniwersytet Krolewski;Ruda Slaska;I;576
+1050;Karol;Medrzec;Uniwersytet Krolewski;Ruda Slaska;I;1603
+1051;Anastazja;Grabowska;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;II;2706
+1052;Malgorzata;Katowska;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;I;3076
+1053;Adam;Wolski;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;II;3241
+1054;Dorota;Roos;Uniwersytet Sportu i Turystyki;Ruda Slaska;I;852
+1055;Ewa;Baranicz;Politechnika Krolewska;Ruda Slaska;I;2580
+1056;Serafin;Symanski;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;II;683
+1057;Wioletta;Maciejewska;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;I;668
+1058;Julita;Ciecierska;Uniwersytet Krolewski;Ruda Slaska;II;1273
+1059;Natalia;Kosciuszko;Uniwersytet Krolewski;Ruda Slaska;I;1628
+1060;Karina;Siwczynska;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;I;1035
+1061;Katarzyna;Augustynik;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;II;3052
+1062;Danuta;Bialecka;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;II;685
+1063;Damian;Wanad;Uniwersytet Krolewski;Ruda Slaska;I;1651
+1064;Michalina;Busz;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;II;639
+1065;Mateusz;Mrusz;Politechnika Informatyczno-Elektroniczna;Ruda Slaska;I;1808
+1066;Artur;Wolicz;Uniwersytet Krolewski;Rybnik;V;2893
+1067;Zygmunt;Czajkowski;Politechnika Krolewska;Rybnik;IV;2861
+1068;Adam;Babecki;Uniwersytet Rolniczy;Rybnik;I;2536
+1069;Patryk;Sowa;Uniwersytet Krolewski;Rybnik;I;2922
+1070;Barbara;Czarnecka;Politechnika Informatyczno-Elektroniczna;Rybnik;V;2940
+1071;Karolina;Biegajczyk;Politechnika Informatyczno-Elektroniczna;Rybnik;I;2054
+1072;Kajetan;Kuzon;Politechnika Informatyczno-Elektroniczna;Rybnik;IV;1249
+1073;Kamil;Bajer;Akademia Sztuk Pieknych;Rybnik;I;3074
+1074;Jakub;Kucharczyk;Politechnika Krolewska;Rybnik;I;2404
+1075;Rafal;Turowski;Uniwersytet Krolewski;Rybnik;IV;1908
+1076;Witold;Muraszkowski;Politechnika Informatyczno-Elektroniczna;Rybnik;II;1357
+1077;Waclawa;Henka;Politechnika Informatyczno-Elektroniczna;Rybnik;IV;799
+1078;Janusz;Sekula;Politechnika Informatyczno-Elektroniczna;Rybnik;I;850
+1079;Dariusz;Barcinski;Uniwersytet Krolewski;Rybnik;I;1115
+1080;Jerzy;Obornicki;Politechnika Informatyczno-Elektroniczna;Rybnik;II;2015
+1081;Katarzyna;Hohenberg;Politechnika Informatyczno-Elektroniczna;Rybnik;I;1653
+1082;Grzegorz;Wroclawski;Uniwersytet Krolewski;Rybnik;V;1899
+1083;Anna;Kubiak;Politechnika Informatyczno-Elektroniczna;Rybnik;I;3222
+1084;Adam;Kalka;Politechnika Informatyczno-Elektroniczna;Rzeszow;I;427
+1085;Andrzej;Blasik;Politechnika Informatyczno-Elektroniczna;Rzeszow;IV;2289
+1086;Kuba;Sonarska;Politechnika Informatyczno-Elektroniczna;Rzeszow;III;966
+1087;Henryk;Macutkiewicz;Uniwersytet Sportu i Turystyki;Rzeszow;I;2086
+1088;Irmina;Kilen;Politechnika Krolewska;Rzeszow;IV;1985
+1089;Malgorzata;Pietrzyk;Politechnika Krolewska;Rzeszow;III;3243
+1090;Kazimiera;Sobiecka;Politechnika Informatyczno-Elektroniczna;Rzeszow;I;1402
+1091;Rafal;Wierzbicki;Akademia Sztuk Pieknych;Rzeszow;I;2823
+1092;Anna;Witek;Uniwersytet Rolniczy;Rzeszow;V;2729
+1093;Martyna;Lamorska;Uniwersytet Pedagogiczny;Rzeszow;I;740
+1094;Elzbieta;Matczak;Politechnika Informatyczno-Elektroniczna;Rzeszow;I;1528
+1095;Lucyna;Wojciechowska;Politechnika Krolewska;Rzeszow;IV;2806
+1096;Dorota;Chenowska;Politechnika Krolewska;Rzeszow;I;2956
+1097;Juliusz;Piechocki;Uniwersytet Krolewski;Rzeszow;I;3134
+1098;Zbigniew;Stypula;Uniwersytet Krolewski;Rzeszow;II;1878
+1099;Maciej;Rojkiewicz;Politechnika Krolewska;Sanok;IV;2143
+1100;Agnieszka;Kaczmarczyk;Uniwersytet Sportu i Turystyki;Sanok;III;2348
+1101;Barbara;Swiegoda;Uniwersytet Krolewski;Sanok;I;2919
+1102;Natasza;Duda;Uniwersytet Sportu i Turystyki;Sanok;I;2125
+1103;Elzbieta;Matuszewska;Politechnika Informatyczno-Elektroniczna;Sanok;II;1140
+1104;Anna;Stefanska;Politechnika Informatyczno-Elektroniczna;Sanok;I;2185
+1105;Franciszek;Bartoszek;Politechnika Krolewska;Sanok;I;1232
+1106;Marta;Arast;Uniwersytet Krolewski;Sanok;I;1470
+1107;Maria;Chojnacka;Uniwersytet Ekonomiczny;Sanok;V;1239
+1108;Wojciech;Gorski;Politechnika Informatyczno-Elektroniczna;Sanok;I;2548
+1109;Lucyna;Sokolowska;Akademia Sztuk Pieknych;Sanok;V;2832
+1110;Bronislaw;Wozniak;Uniwersytet Krolewski;Sanok;IV;2796
+1111;Angelika;Mrozek;Politechnika Krolewska;Sanok;I;2291
+1112;Edward;Malinowski;Politechnika Krolewska;Sanok;I;3265
+1113;Izabella;Beniowska;Politechnika Krolewska;Siedlce;I;3322
+1114;Aneta;Basista;Uniwersytet Krolewski;Siedlce;I;2579
+1115;Agata;Altman;Uniwersytet Krolewski;Siedlce;I;2584
+1116;Adelajda;Nucinska;Politechnika Informatyczno-Elektroniczna;Siedlce;II;1289
+1117;Witold;Mus;Uniwersytet Krolewski;Siemianowice Slaskie;I;1912
+1118;Przemyslaw;Lipert;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;I;1929
+1119;Adam;Beben;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;I;2162
+1120;Roksana;Kajka;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;I;2036
+1121;Dominika;Pudlowicz;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;II;2824
+1122;Aleksy;Rebacz;Uniwersytet Krolewski;Siemianowice Slaskie;II;2784
+1123;Zygfryd;Klimczyk;Uniwersytet Krolewski;Siemianowice Slaskie;I;1955
+1124;Boguslawa;Ostrowska;Uniwersytet Krolewski;Siemianowice Slaskie;I;2466
+1125;Celina;Bekasiewicz;Uniwersytet Rolniczy;Siemianowice Slaskie;I;1526
+1126;Marcin;Pawlowski;Politechnika Krolewska;Siemianowice Slaskie;I;2438
+1127;Elzbieta;Czwartek;Politechnika Krolewska;Siemianowice Slaskie;II;2846
+1128;Jan;Bialek;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;I;1686
+1129;Robert;Zalesiak;Politechnika Krolewska;Siemianowice Slaskie;I;1115
+1130;Adrianna;Wojtczak;Uniwersytet Ekonomiczny;Siemianowice Slaskie;I;2847
+1131;Aniela;Dymek;Uniwersytet Pedagogiczny;Siemianowice Slaskie;V;2207
+1132;Marek;Zawodnik;Politechnika Krolewska;Siemianowice Slaskie;II;3294
+1133;Antoni;Kaber;Uniwersytet Krolewski;Siemianowice Slaskie;I;2522
+1134;Grzegorz;Serocki;Politechnika Krolewska;Siemianowice Slaskie;V;2664
+1135;Iwona;Kedrak;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;I;3062
+1136;Tomasz;Janowski;Uniwersytet Pedagogiczny;Siemianowice Slaskie;I;2163
+1137;Izabella;Chorzowik;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;I;2409
+1138;Stanislaw;Zelazko;Politechnika Informatyczno-Elektroniczna;Siemianowice Slaskie;II;1363
+1139;Karolina;Wozniakiewicz;Politechnika Informatyczno-Elektroniczna;Sieradz;III;2909
+1140;Wioletta;Zawadzka;Politechnika Informatyczno-Elektroniczna;Sieradz;I;2254
+1141;Danuta;Jachimowicz;Uniwersytet Krolewski;Siewierz;I;705
+1142;Hanna;Bidowska;Politechnika Informatyczno-Elektroniczna;Siewierz;I;2551
+1143;Magdalena;Klekowska;Uniwersytet Krolewski;Siewierz;I;2511
+1144;Anna;Michajlow;Uniwersytet Krolewski;Siewierz;I;2312
+1145;Bartosz;Tomaszewski;Politechnika Krolewska;Siewierz;I;1511
+1146;Filip;Zukowski;Politechnika Informatyczno-Elektroniczna;Siewierz;I;1740
+1147;Jadwiga;Graniecka;Politechnika Informatyczno-Elektroniczna;Siewierz;II;1499
+1148;Dorota;Kozikowska;Politechnika Krolewska;Siewierz;I;2928
+1149;Mariusz;Adamowiczek;Politechnika Informatyczno-Elektroniczna;Siewierz;I;2393
+1150;Marta;Berakowska;Uniwersytet Ekonomiczny;Siewierz;I;1850
+1151;Kacper;Sokolowski;Uniwersytet Krolewski;Siewierz;I;1241
+1152;Janusz;Sapek;Politechnika Krolewska;Siewierz;I;1160
+1153;Zofia;Glapa;Uniwersytet Krolewski;Siewierz;I;600
+1154;Aleksandra;Koszewska;Uniwersytet Krolewski;Skierniewice;II;700
+1155;Jadwiga;Chaberow;Politechnika Informatyczno-Elektroniczna;Skierniewice;V;2396
+1156;Tomasz;Gates;Uniwersytet Rolniczy;Skierniewice;II;1421
+1157;Wiktoria;Wieczorek;Uniwersytet Krolewski;Skorogoszcz;I;2186
+1158;Patrycja;Borna;Uniwersytet Krolewski;Slawkow;I;1500
+1159;Szymon;Brandys;Politechnika Informatyczno-Elektroniczna;Slawkow;I;2119
+1160;Michal;Zwierzynski;Uniwersytet Krolewski;Slawkow;I;1370
+1161;Dyta;Nowakowska;Politechnika Informatyczno-Elektroniczna;Slawkow;II;1435
+1162;Anna;Sabat;Uniwersytet Krolewski;Slawkow;II;1223
+1163;Beata;Gajewska;Uniwersytet Krolewski;Slawkow;V;455
+1164;Michal;Kupiec;Uniwersytet Krolewski;Slawkow;V;936
+1165;Elzbieta;Lubanska;Akademia Sztuk Pieknych;Slawkow;I;2715
+1166;Dariusz;Konczak;Politechnika Informatyczno-Elektroniczna;Slawkow;I;2351
+1167;Stefan;Blazejczyk;Uniwersytet Krolewski;Slawkow;I;1799
+1168;Malgorzata;Zielinska;Uniwersytet Krolewski;Slawkow;I;1345
+1169;Julia;Adamiak;Politechnika Informatyczno-Elektroniczna;Slawkow;I;2254
+1170;Michal;Bujak;Uniwersytet Krolewski;Slawkow;I;1454
+1171;Stefan;Lipski;Uniwersytet Krolewski;Slawkow;III;2529
+1172;Krzysztof;Wachowicz;Politechnika Krolewska;Slawkow;V;1928
+1173;Seweryn;Kubica;Uniwersytet Rolniczy;Slawkow;I;2831
+1174;Kamil;Wojcicki;Uniwersytet Krolewski;Slawkow;I;1354
+1175;Tomasz;Aniol;Uniwersytet Pedagogiczny;Slawkow;III;1824
+1176;Judyta;Krawiec;Uniwersytet Krolewski;Slawkow;I;2911
+1177;Wojciech;Mielczarek;Politechnika Informatyczno-Elektroniczna;Sobotka;II;1485
+1178;Malgorzata;Janiszewska;Politechnika Krolewska;Sopot;II;3127
+1179;Ewa;Pawluk;Akademia Sztuk Pieknych;Sopot;III;3218
+1180;Izabella;Olszewska;Uniwersytet Sportu i Turystyki;Sopot;III;2183
+1181;Wojciech;Bartus;Politechnika Informatyczno-Elektroniczna;Sosnicowice;I;1185
+1182;Borys;Krolikiewicz;Uniwersytet Krolewski;Sosnicowice;II;2506
+1183;Anna;Dziwak;Politechnika Informatyczno-Elektroniczna;Sosnicowice;I;2519
+1184;Monika;Nocun;Politechnika Informatyczno-Elektroniczna;Sosnicowice;II;1744
+1185;Jolanta;Dworek;Uniwersytet Pedagogiczny;Sosnicowice;I;2126
+1186;Marcin;Rusin;Politechnika Krolewska;Sosnicowice;II;2578
+1187;Rafal;Eminowicz;Politechnika Informatyczno-Elektroniczna;Sosnicowice;I;2555
+1188;Wiga;Debska;Politechnika Krolewska;Sosnicowice;II;523
+1189;Zbigniew;Adamczyk;Politechnika Informatyczno-Elektroniczna;Sosnicowice;V;2121
+1190;Stanislaw;Pigulski;Politechnika Krolewska;Sosnicowice;I;1340
+1191;Kinga;Pisarska;Uniwersytet Sportu i Turystyki;Sosnicowice;III;2716
+1192;Wojciech;Jagodzinski;Uniwersytet Krolewski;Sosnicowice;I;818
+1193;Marcin;Cwikowski;Uniwersytet Krolewski;Sosnicowice;I;1144
+1194;Witold;Czarnecki;Akademia Sztuk Pieknych;Sosnicowice;I;3010
+1195;Ewa;Szczublewska;Politechnika Informatyczno-Elektroniczna;Sosnicowice;III;420
+1196;Celina;Tomaszewska;Uniwersytet Krolewski;Sosnicowice;I;872
+1197;Robert;Oleszko;Uniwersytet Krolewski;Sosnicowice;IV;1922
+1198;Alicja;Kwasniak;Politechnika Krolewska;Sosnowiec;I;1860
+1199;Ewa;Wasiak;Politechnika Informatyczno-Elektroniczna;Sosnowiec;V;2653
+1200;Jakub;Szczepanski;Uniwersytet Krolewski;Sosnowiec;II;1120
+1201;Julita;Burza;Uniwersytet Krolewski;Sosnowiec;III;882
+1202;Anna;Szendzielorz;Politechnika Krolewska;Sosnowiec;II;2403
+1203;Grzegorz;Misiek;Uniwersytet Krolewski;Sosnowiec;I;3156
+1204;Rafal;Szkwarek;Politechnika Krolewska;Sosnowiec;II;2859
+1205;Agnieszka;Malicka;Politechnika Informatyczno-Elektroniczna;Sosnowiec;I;644
+1206;Anna;Milewska;Politechnika Krolewska;Sosnowiec;I;1430
+1207;Mikolaj;Hejdysz;Politechnika Krolewska;Sosnowiec;I;1373
+1208;Maciej;Skoczylas;Politechnika Informatyczno-Elektroniczna;Sosnowiec;I;1809
+1209;Tomasz;Szymik;Uniwersytet Krolewski;Sosnowiec;V;2629
+1210;Anastazja;Haszczyc;Uniwersytet Krolewski;Sosnowiec;II;2724
+1211;Klaudiusz;Sokolowski;Uniwersytet Rolniczy;Sosnowiec;I;1207
+1212;Dorota;Szymanek;Uniwersytet Krolewski;Sosnowiec;I;1364
+1213;Maja;Jedrzejczyk;Politechnika Informatyczno-Elektroniczna;Sosnowiec;I;838
+1214;Tomasz;Adamiecki;Akademia Sztuk Pieknych;Sosnowiec;I;661
+1215;Dominik;Rolla;Uniwersytet Krolewski;Sosnowiec;I;3078
+1216;Beata;Podlaska;Politechnika Informatyczno-Elektroniczna;Sosnowiec;I;354
+1217;Boguslaw;Olszewski;Politechnika Informatyczno-Elektroniczna;Sosnowiec;I;1256
+1218;Alicja;Strojna;Politechnika Informatyczno-Elektroniczna;Sosnowiec;III;2838
+1219;Anna;Konieczna;Uniwersytet Pedagogiczny;Sosnowiec;I;992
+1220;Jadwiga;Przybylska;Uniwersytet Krolewski;Sosnowiec;II;2199
+1221;Adrian;Banaszczyk;Uniwersytet Krolewski;Strzelce Opolskie;I;697
+1222;Anna;Mikocka;Politechnika Informatyczno-Elektroniczna;Strzelce Opolskie;I;1680
+1223;Karol;Abramczyk;Politechnika Informatyczno-Elektroniczna;Strzelce Opolskie;I;2638
+1224;Anna;Miecznikowska;Wyzsza Szko�a Techniczna;Strzelce Opolskie;I;955
+1225;Beata;Ciechanowicz;Uniwersytet Ekonomiczny;Strzelce Opolskie;I;1778
+1226;Anna;Kaminska;Politechnika Krolewska;Strzelce Opolskie;II;1960
+1227;Piotr;Jaworski;Politechnika Informatyczno-Elektroniczna;Strzelce Opolskie;I;2303
+1228;Daniel;Felinski;Politechnika Informatyczno-Elektroniczna;Strzelce Opolskie;I;2268
+1229;Natalia;Sobolewska;Politechnika Krolewska;Strzelce Opolskie;I;2408
+1230;Tomasz;Wozniak;Politechnika Informatyczno-Elektroniczna;Strzelce Opolskie;I;1695
+1231;Zofia;Sikora;Uniwersytet Krolewski;Strzelce Opolskie;I;1866
+1232;Helena;Bliszczyk;Politechnika Informatyczno-Elektroniczna;Strzelce Opolskie;IV;2104
+1233;Kacper;Klimka;Uniwersytet Ekonomiczny;Strzelce Opolskie;I;2072
+1234;Ewelia;Basiak;Politechnika Krolewska;Strzelce Opolskie;IV;1994
+1235;Piotr;Nowak ;Politechnika Krolewska;Strzelce Opolskie;I;3039
+1236;Ewa;Biel;Politechnika Krolewska;Strzelce Opolskie;I;2416
+1237;Dominik;Balik;Politechnika Informatyczno-Elektroniczna;Sucha Beskidzka;II;1068
+1238;Marcin;Kowalski;Uniwersytet Krolewski;Sucha Beskidzka;II;3197
+1239;Izaak;Gawron;Uniwersytet Krolewski;Sucha Beskidzka;III;1231
+1240;Michal;Piwonski;Uniwersytet Krolewski;Sucha Beskidzka;I;2417
+1241;Joanna;Nowak;Uniwersytet Rolniczy;Sucha Beskidzka;I;2178
+1242;Ewa;Niewiarowska;Uniwersytet Krolewski;Sucha Beskidzka;I;2722
+1243;Walenty;Rutkowski;Uniwersytet Krolewski;Sucha Beskidzka;I;890
+1244;Roman;Jarosz;Uniwersytet Rolniczy;Sucha Beskidzka;III;2129
+1245;Lukasz;Kotala;Politechnika Krolewska;Sucha Beskidzka;I;653
+1246;Bartlomiej;Konny;Uniwersytet Krolewski;Sucha Beskidzka;V;2964
+1247;Janina;Giza;Politechnika Informatyczno-Elektroniczna;Suraz;I;3335
+1248;Dorota;Chojnacka;Politechnika Informatyczno-Elektroniczna;Suraz;I;2107
+1249;Bogdan;Nowakowski;Politechnika Krolewska;Suwalki;I;1290
+1250;Pawel;Krol;Politechnika Krolewska;Suwalki;I;1109
+1251;Henryk;Walczak;Politechnika Krolewska;Swiecko;V;3035
+1252;Stefan;Tomkow;Uniwersytet Krolewski;Swiecko;I;3197
+1253;Ireneusz;Banaszkiewicz;Uniwersytet Sportu i Turystyki;Swiecko;IV;1251
+1254;Zofia;Gala;Politechnika Krolewska;Swieradow-Zdroj;I;2861
+1255;Juliusz;Linek;Politechnika Informatyczno-Elektroniczna;Swieradow-Zdroj;I;1244
+1256;Franciszek;Kosiorowski;Uniwersytet Krolewski;Swieradow-Zdroj;I;1470
+1257;Anna;Sobol;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;1204
+1258;Dariusz;Reszczynski;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;1048
+1259;Karol;Furmanik;Uniwersytet Rolniczy;Swietochlowice;I;2387
+1260;Krystian;Pieniak;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;1949
+1261;Wladyslaw;Olcha;Uniwersytet Krolewski;Swietochlowice;II;1117
+1262;Aleksandra;Majewska;Politechnika Krolewska;Swietochlowice;IV;2206
+1263;Jan;Kowalewicz;Uniwersytet Krolewski;Swietochlowice;I;2283
+1264;Krystyna;Barszczyk;Politechnika Informatyczno-Elektroniczna;Swietochlowice;II;2407
+1265;Lidia;Juzak;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;1073
+1266;Joanna;Bilska;Politechnika Krolewska;Swietochlowice;II;2807
+1267;Maciej;Cisasny;Politechnika Krolewska;Swietochlowice;II;1739
+1268;Malwina;Manna;Politechnika Krolewska;Swietochlowice;I;3161
+1269;Monika;Antoszewska;Politechnika Informatyczno-Elektroniczna;Swietochlowice;V;2847
+1270;Andrzej;Konik;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;1498
+1271;Rafal;Kucharski;Wyzsza Szko�a Techniczna;Swietochlowice;III;1345
+1272;Natalia;Rybinska;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;2872
+1273;Zygmunt;Jablonski;Politechnika Krolewska;Swietochlowice;I;1185
+1274;Jolanta;Tomczak;Akademia Sztuk Pieknych;Swietochlowice;I;3335
+1275;Andrzej;Kononowicz;Politechnika Krolewska;Swietochlowice;II;2730
+1276;Zygmunt;Szczygielski;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;2500
+1277;Karolina;Michalec;Uniwersytet Krolewski;Swietochlowice;I;2797
+1278;Marcin;Bydgoski;Politechnika Informatyczno-Elektroniczna;Swietochlowice;V;578
+1279;Irena;Banaczek;Politechnika Krolewska;Swietochlowice;II;3085
+1280;Adam;Bodny;Politechnika Informatyczno-Elektroniczna;Swietochlowice;III;1207
+1281;Michal;Krzysztofinski;Uniwersytet Krolewski;Swietochlowice;IV;2642
+1282;Borys;Zimnowoda;Politechnika Informatyczno-Elektroniczna;Swietochlowice;I;1058
+1283;Tadeusz;Sadowski;Uniwersytet Krolewski;Swietochlowice;III;1003
+1284;Paulina;Chaberek;Politechnika Krolewska;Swietochlowice;IV;2806
+1285;Izabella;Wlodarczak;Politechnika Informatyczno-Elektroniczna;Swinoujscie;I;1069
+1286;Anna;Potocka;Uniwersytet Rolniczy;Swinoujscie;I;1593
+1287;Jedrzej;Kurzawinskai;Uniwersytet Krolewski;Swinoujscie;I;3296
+1288;Roksana;Sokolowska;Politechnika Informatyczno-Elektroniczna;Szamotuly;III;2430
+1289;Malgorzata;Albert;Uniwersytet Krolewski;Szamotuly;I;440
+1290;Sabina;Krakowiak;Uniwersytet Krolewski;Szamotuly;I;2800
+1291;Tadeusz;Terlecki;Uniwersytet Krolewski;Szczecin;III;546
+1292;Lech;Smolarz;Uniwersytet Krolewski;Szczecin;I;1255
+1293;Jacek;Huzar;Wyzsza Szko�a Techniczna;Szczecinek;III;1559
+1294;Izabella;Wreczycka;Uniwersytet Rolniczy;Szczecinek;V;1873
+1295;Dariusz;Kratka;Politechnika Krolewska;Szczekociny;V;2509
+1296;Krystyna;Charkow;Politechnika Krolewska;Szczekociny;I;398
+1297;Ewelina;Korczak;Uniwersytet Krolewski;Szczekociny;I;2906
+1298;Mikolaj;Szala;Akademia Sztuk Pieknych;Szczekociny;I;2325
+1299;Dorota;Boszcz;Uniwersytet Krolewski;Szczekociny;I;2162
+1300;Edmund;Malborski;Uniwersytet Rolniczy;Szczekociny;V;681
+1301;Michalina;Mol;Politechnika Informatyczno-Elektroniczna;Szczekociny;I;2081
+1302;Marcin;Wolak;Politechnika Informatyczno-Elektroniczna;Szczekociny;II;775
+1303;Gorzegorz;Turek;Uniwersytet Krolewski;Szczekociny;I;2498
+1304;Alicja;Kwiecinska;Politechnika Informatyczno-Elektroniczna;Szczekociny;III;632
+1305;Alfred;Babalewski;Politechnika Informatyczno-Elektroniczna;Szczekociny;I;2451
+1306;Matylda;Marzec;Uniwersytet Krolewski;Szczekociny;II;2995
+1307;Rafal;Ramotowski;Politechnika Informatyczno-Elektroniczna;Szczyrk;I;861
+1308;Kinga;Pogoda;Politechnika Informatyczno-Elektroniczna;Szczyrk;V;3213
+1309;Kamil;Sokolowski;Uniwersytet Krolewski;Szczyrk;IV;1845
+1310;Andrzej;Barabuk;Uniwersytet Ekonomiczny;Szczyrk;I;1227
+1311;Agnieszka;Kapuscinska;Politechnika Krolewska;Szczyrk;III;2227
+1312;Edmund;Salezy;Uniwersytet Krolewski;Szczyrk;III;990
+1313;Ryszard;Baranek;Uniwersytet Krolewski;Szczyrk;II;1047
+1314;Tomasz;Krolikiewicz;Politechnika Informatyczno-Elektroniczna;Szczyrk;IV;2856
+1315;Wiktor;Holynski;Politechnika Informatyczno-Elektroniczna;Szczyrk;IV;2522
+1316;Kazimierz;Celejewski;Politechnika Informatyczno-Elektroniczna;Szczyrk;I;568
+1317;Jaroslaw;Szturc;Politechnika Krolewska;Szczyrk;I;3131
+1318;Kamil;Klimintowicz;Uniwersytet Krolewski;Szczyrk;V;2101
+1319;Jerzy;Zambrowicz;Politechnika Informatyczno-Elektroniczna;Szczyrk;IV;515
+1320;Jakub;Magielewski;Politechnika Informatyczno-Elektroniczna;Szczyrk;I;3116
+1321;Adrian;Misztal;Uniwersytet Krolewski;Szczyrk;V;3349
+1322;Maciej;Babicz;Uniwersytet Krolewski;Szczyrk;I;1645
+1323;Barbara;Barska;Uniwersytet Krolewski;Szczyrk;I;1047
+1324;Krystyna;Boss;Uniwersytet Krolewski;Tarnobrzeg;IV;3040
+1325;Tomasz;Hubisz;Uniwersytet Krolewski;Tarnobrzeg;I;1470
+1326;Eleonora;Gregoruk;Uniwersytet Krolewski;Tarnobrzeg;II;1150
+1327;Zbigniew;Rodek;Uniwersytet Pedagogiczny;Tarnobrzeg;I;1357
+1328;Wlodzislaw;Wojtowicz;Politechnika Krolewska;Tarnobrzeg;I;807
+1329;Marek;Liderski;Uniwersytet Sportu i Turystyki;Tarnobrzeg;I;2536
+1330;Zofia;Nowak ;Uniwersytet Krolewski;Tarnobrzeg;V;434
+1331;Karol;Banach;Uniwersytet Krolewski;Tarnobrzeg;I;2840
+1332;Franciszek;Dziedzic;Uniwersytet Krolewski;Tarnobrzeg;I;2312
+1333;Mariola;Kucharska;Uniwersytet Krolewski;Tarnobrzeg;III;373
+1334;Michal;Batorowicz;Politechnika Krolewska;Tarnobrzeg;IV;1287
+1335;Aleksandra;Piotrowska;Politechnika Informatyczno-Elektroniczna;Tarnobrzeg;II;1210
+1336;Jaroslaw;Matusz;Wyzsza Szko�a Techniczna;Tarnobrzeg;I;2156
+1337;Krystyna;Zukowska;Politechnika Krolewska;Tarnobrzeg;II;1150
+1338;Witold;Witkowski;Politechnika Informatyczno-Elektroniczna;Tarnobrzeg;II;2162
+1339;Edward;Balowski;Uniwersytet Krolewski;Tarnobrzeg;I;1187
+1340;Jan;Wilczek;Politechnika Informatyczno-Elektroniczna;Tarnobrzeg;I;1387
+1341;Krystian;Szatylowicz;Uniwersytet Pedagogiczny;Tarnobrzeg;II;2564
+1342;Ewelina;Paca;Politechnika Krolewska;Tarnobrzeg;I;350
+1343;Adam;Piotrowski;Uniwersytet Sportu i Turystyki;Tarnobrzeg;III;3121
+1344;Anna;Rolek;Politechnika Informatyczno-Elektroniczna;Tarnobrzeg;I;615
+1345;Grzegorz;Kalamar;Uniwersytet Krolewski;Tarnobrzeg;I;412
+1346;Jan;Witaj;Uniwersytet Krolewski;Tarnow;I;400
+1347;Magdalena;Antos;Politechnika Informatyczno-Elektroniczna;Tarnow;I;430
+1348;Joanna;Wasowicz;Uniwersytet Krolewski;Tarnow;III;757
+1349;Przemyslaw;Dobrzynski;Uniwersytet Pedagogiczny;Tarnow;I;2648
+1350;Piotr;Kisielewicz;Politechnika Krolewska;Tarnow;IV;3026
+1351;Jerzy;Banan;Politechnika Krolewska;Tarnow;I;1463
+1352;Rafal;Blocki;Politechnika Informatyczno-Elektroniczna;Tarnow;I;2425
+1353;Bartosz;Bek;Uniwersytet Krolewski;Tarnow;II;669
+1354;Piotr;Bentkowski;Uniwersytet Krolewski;Tarnow;IV;2587
+1355;Bernard;Kregiel;Politechnika Informatyczno-Elektroniczna;Tarnow;V;2289
+1356;Malgorzata;Cichawa;Uniwersytet Krolewski;Tarnow;I;1949
+1357;Danuta;Pietruszka;Uniwersytet Ekonomiczny;Tarnow;III;918
+1358;Andrzej;Korzeniewski;Politechnika Informatyczno-Elektroniczna;Tarnow;I;3116
+1359;Zofia;Bakus;Uniwersytet Krolewski;Tarnow;II;945
+1360;Miron;Symanski;Uniwersytet Ekonomiczny;Tarnow;I;3075
+1361;Witold;Kornacki;Politechnika Krolewska;Tarnow;II;2770
+1362;Mikolaj;Grochalski;Akademia Sztuk Pieknych;Tarnow;I;1047
+1363;Marcin;Walczak;Uniwersytet Krolewski;Tarnow;II;2063
+1364;Jacek;Rynkiewicz;Politechnika Krolewska;Tarnow;V;1578
+1365;Marcin;Janeczek;Politechnika Informatyczno-Elektroniczna;Tarnowskie Gory;III;628
+1366;Halina;Bajerek;Politechnika Krolewska;Tarnowskie Gory;II;2047
+1367;Dominik;Zelechowski;Uniwersytet Pedagogiczny;Tarnowskie Gory;IV;2926
+1368;Antoni;Buchalterz;Politechnika Informatyczno-Elektroniczna;Tarnowskie Gory;I;1308
+1369;Joanna;Majeczek;Politechnika Informatyczno-Elektroniczna;Tarnowskie Gory;IV;3060
+1370;Patrycja;Majka;Uniwersytet Sportu i Turystyki;Tarnowskie Gory;I;783
+1371;Bronislawa;Zwozniak;Politechnika Informatyczno-Elektroniczna;Tarnowskie Gory;I;2009
+1372;Lukasz;Ostrobramski;Politechnika Informatyczno-Elektroniczna;Tarnowskie Gory;I;2376
+1373;Piotr;Baranski;Politechnika Informatyczno-Elektroniczna;Tarnowskie Gory;III;2861
+1374;Barbara;Kaczmarek;Politechnika Informatyczno-Elektroniczna;Tarnowskie Gory;V;2792
+1375;Adam;Warka;Politechnika Krolewska;Tarnowskie Gory;V;1217
+1376;Ewa;Pustelnik;Akademia Sztuk Pieknych;Terespol;I;1449
+1377;Jerzy;Soplica;Uniwersytet Ekonomiczny;Terespol;I;2472
+1378;Wojciech;Kaminski;Uniwersytet Krolewski;Terespol;III;587
+1379;Boguslawa;Sawicka;Uniwersytet Ekonomiczny;Terespol;IV;2168
+1380;Wincenty;Pohorecki;Uniwersytet Muzyczny;Terespol;V;1619
+1381;Maciej;Proniewicz;Politechnika Informatyczno-Elektroniczna;Tomaszow Lubelski;I;1252
+1382;Wislawa;Slonina;Politechnika Krolewska;Tomaszow Lubelski;I;2012
+1383;Danuta;Krak;Politechnika Informatyczno-Elektroniczna;Tomaszow Lubelski;I;2171
+1384;Janusz;Wrobel;Uniwersytet Krolewski;Tomaszow Lubelski;II;3234
+1385;Marek;Poludniak;Uniwersytet Rolniczy;Tomaszow Lubelski;V;1569
+1386;Hanna;Karska;Uniwersytet Krolewski;Torun;I;1912
+1387;Patrycja;Dona;Politechnika Krolewska;Torun;III;2571
+1388;Szymon;Kulik;Akademia Sztuk Pieknych;Torun;IV;834
+1389;Sonia;Kozubik;Uniwersytet Krolewski;Trzebinia;I;768
+1390;Mikolaj;Mela;Uniwersytet Krolewski;Trzebinia;I;2192
+1391;Ewelina;Rykala;Politechnika Krolewska;Trzebinia;IV;1236
+1392;Jedrzej;Banas;Uniwersytet Krolewski;Trzebinia;II;2002
+1393;Beata;Myrcik;Uniwersytet Krolewski;Trzebinia;I;2330
+1394;Anna;Ostrowska;Uniwersytet Krolewski;Trzebinia;V;622
+1395;Henryka;Blizna;Uniwersytet Pedagogiczny;Trzebinia;V;3006
+1396;Cecylia;Jaskolska;Akademia Sztuk Pieknych;Trzebinia;I;3050
+1397;Piotr;Siudut;Uniwersytet Krolewski;Trzebinia;I;2195
+1398;Arnold;Bandera;Uniwersytet Rolniczy;Trzebinia;I;500
+1399;Janusz;Slomski;Politechnika Krolewska;Tworog;II;2778
+1400;Alicja;Gorniak;Wyzsza Szko�a Techniczna;Tworog;II;658
+1401;Lukasz;Bajor;Politechnika Informatyczno-Elektroniczna;Tworog;I;1527
+1402;Grzegorz;Zaba;Uniwersytet Krolewski;Tworog;III;1006
+1403;Patryk;Zychowicz;Politechnika Informatyczno-Elektroniczna;Tworog;II;2391
+1404;Malgorzata;Bedka;Politechnika Informatyczno-Elektroniczna;Tworog;IV;2494
+1405;Zygmunt;Augustyniak;Uniwersytet Sportu i Turystyki;Tworog;V;2006
+1406;Adam;Grzmot;Politechnika Informatyczno-Elektroniczna;Tworog;I;890
+1407;Jolanta;Guryn;Politechnika Informatyczno-Elektroniczna;Tworog;III;2391
+1408;Joanna;Warzecha;Politechnika Informatyczno-Elektroniczna;Tworog;I;833
+1409;Alina;Nowak;Politechnika Krolewska;Tworog;I;1234
+1410;Piotr;Papier;Politechnika Informatyczno-Elektroniczna;Tworog;I;987
+1411;Patrycja;Fleisch;Uniwersytet Pedagogiczny;Tychy;I;585
+1412;Adam;Cichowas;Uniwersytet Krolewski;Tychy;III;2865
+1413;Dominika;Kierat;Politechnika Informatyczno-Elektroniczna;Tychy;I;1493
+1414;Piotr;Targosz;Politechnika Krolewska;Tychy;I;2597
+1415;Michal;Szmigin;Uniwersytet Krolewski;Tychy;I;3126
+1416;Antoni;Graczyk;Politechnika Informatyczno-Elektroniczna;Tychy;II;2209
+1417;Malgorzata;Balinska;Politechnika Informatyczno-Elektroniczna;Tychy;I;1709
+1418;Justyna;Sliwinska;Politechnika Informatyczno-Elektroniczna;Tychy;II;2818
+1419;Witold;Kowal;Politechnika Krolewska;Tychy;I;2591
+1420;Beata;Rejkowicz;Politechnika Informatyczno-Elektroniczna;Tychy;I;1822
+1421;Marta;Bajerka;Uniwersytet Krolewski;Tychy;II;2757
+1422;Karolina;Krynicka;Uniwersytet Krolewski;Tychy;V;962
+1423;Zofia;Cybulska;Politechnika Krolewska;Tychy;II;2100
+1424;Kacper;Gajdemski;Uniwersytet Krolewski;Tychy;V;2793
+1425;Adam;Prokop;Politechnika Informatyczno-Elektroniczna;Tychy;I;898
+1426;Kleopatra;Janska;Uniwersytet Krolewski;Tychy;I;724
+1427;Jadwiga;Balcerowska;Uniwersytet Krolewski;Tychy;II;1158
+1428;Joanna;Podczasiak;Uniwersytet Ekonomiczny;Tychy;II;921
+1429;Hanna;Cabaj;Uniwersytet Krolewski;Ustron;V;2281
+1430;Katarzyna;Komar;Uniwersytet Krolewski;Ustron;V;2969
+1431;Pawel;Zmelty;Politechnika Informatyczno-Elektroniczna;Ustron;I;397
+1432;Adam;Kral;Politechnika Krolewska;Ustron;I;2164
+1433;Kajetan;Szczepanski;Politechnika Informatyczno-Elektroniczna;Ustron;II;2369
+1434;Adrian;Badera;Uniwersytet Pedagogiczny;Ustron;I;2481
+1435;Adelajda;Czerwinska;Uniwersytet Krolewski;Ustron;II;2940
+1436;Alina;Miekus;Politechnika Informatyczno-Elektroniczna;Ustron;I;896
+1437;Lidia;Sroda;Politechnika Informatyczno-Elektroniczna;Ustron;II;1577
+1438;Alicja;Danek;Uniwersytet Krolewski;Ustron;IV;787
+1439;Danuta;Muniak;Uniwersytet Krolewski;Ustron;I;1924
+1440;Natalia;Zawalinska;Politechnika Informatyczno-Elektroniczna;Ustron;II;1082
+1441;Emila;Florek;Uniwersytet Krolewski;Wadowice;I;2316
+1442;Adam;Lewik;Politechnika Krolewska;Wadowice;I;2728
+1443;Jadwiga;Duzy;Politechnika Informatyczno-Elektroniczna;Wadowice;V;2256
+1444;Kacper;Billa;Uniwersytet Ekonomiczny;Wadowice;I;2354
+1445;Jan;Witaszczyk;Uniwersytet Krolewski;Wadowice;V;973
+1446;Michal;Katon;Uniwersytet Krolewski;Wadowice;V;689
+1447;Janusz;Rys;Politechnika Informatyczno-Elektroniczna;Wadowice;II;1216
+1448;Celina;Bednarska;Politechnika Krolewska;Wadowice;I;1264
+1449;Jan;Majewski;Politechnika Informatyczno-Elektroniczna;Wadowice;I;2899
+1450;Janina;Witarek;Akademia Sztuk Pieknych;Wadowice;I;1863
+1451;Karolina;Rogowska;Uniwersytet Pedagogiczny;Wadowice;I;3050
+1452;Oskar;Ploszaj;Uniwersytet Krolewski;Wadowice;I;1257
+1453;Anna;Marciniak;Uniwersytet Krolewski;Wadowice;II;3038
+1454;Arkadiusz;Pyzikowski;Uniwersytet Krolewski;Wadowice;IV;2036
+1455;Marcin;Szumowski;Politechnika Informatyczno-Elektroniczna;Wadowice;V;1310
+1456;Anastazja;Czarnecka;Uniwersytet Krolewski;Wadowice;I;1700
+1457;Leszek;Bareczek;Akademia Sztuk Pieknych;Wadowice;IV;2922
+1458;Beata;Pogonska;Akademia Sztuk Pieknych;Wadowice;V;2983
+1459;Klaudia;Dziarska;Uniwersytet Ekonomiczny;Wagrowiec;II;1945
+1460;Zofia;Mazowiecka;Uniwersytet Rolniczy;Walbrzych;I;1965
+1461;Rafal;Radwan;Politechnika Informatyczno-Elektroniczna;Walbrzych;II;2914
+1462;Karolina;Dabrowka;Politechnika Krolewska;Walbrzych;I;2145
+1463;Kinga;Winkler;Uniwersytet Krolewski;Walbrzych;III;2655
+1464;Brygida;Molikiewicz;Politechnika Krolewska;Walce;I;725
+1465;Adam;Wojtas;Politechnika Informatyczno-Elektroniczna;Walce;I;1906
+1466;Anna;Balcerek;Akademia Sztuk Pieknych;Walce;I;1624
+1467;Nicola;Oleksza;Politechnika Krolewska;Walce;II;381
+1468;Walery;Susel;Politechnika Informatyczno-Elektroniczna;Warszawa;II;2097
+1469;Janusz;Tkaczyk;Uniwersytet Krolewski;Warszawa;V;633
+1470;Maria;Bujaczka;Politechnika Informatyczno-Elektroniczna;Warszawa;III;1216
+1471;Olgierd;Rokpol;Uniwersytet Ekonomiczny;Warszawa;I;3348
+1472;Adrianna;Wojtas;Politechnika Krolewska;Warszawa;III;2746
+1473;Jan;Orlowski;Politechnika Informatyczno-Elektroniczna;Warszawa;I;1314
+1474;Marcin;Budzisz;Politechnika Informatyczno-Elektroniczna;Warszawa;V;1837
+1475;Adrianna;Tarara;Uniwersytet Ekonomiczny;Wegorzewo;I;3255
+1476;Anna;Marchlewska;Uniwersytet Krolewski;Wegorzewo;I;385
+1477;Kamil;Tusinski;Uniwersytet Krolewski;Wejherowo;I;1663
+1478;Mateusz;Pyla;Uniwersytet Krolewski;Wejherowo;II;2902
+1479;Halina;Fido;Politechnika Informatyczno-Elektroniczna;Wejherowo;II;3069
+1480;Magdalena;Sznyrowska;Politechnika Informatyczno-Elektroniczna;Wisla;I;1096
+1481;Martyn;Milek;Politechnika Krolewska;Wisla;I;1363
+1482;Janina;Ciechanowicz;Uniwersytet Ekonomiczny;Wisla;II;2829
+1483;Alicja;Chrzan;Uniwersytet Rolniczy;Wisla;III;1489
+1484;Andrzej;Bawar;Uniwersytet Krolewski;Wisla;I;1189
+1485;Patryk;Barcikowski;Politechnika Informatyczno-Elektroniczna;Wisla;II;2031
+1486;Ewelina;Marzec;Politechnika Informatyczno-Elektroniczna;Wisla;IV;1993
+1487;Laura;Ochota;Uniwersytet Krolewski;Wisla;III;1622
+1488;Ewelina;Chojna;Uniwersytet Pedagogiczny;Wisla;I;355
+1489;Zbigniew;Fijas;Politechnika Informatyczno-Elektroniczna;Wisla;I;2746
+1490;Grazyna;Sikorowicz;Politechnika Informatyczno-Elektroniczna;Wisla;I;505
+1491;Ireneusz;Szydlak;Politechnika Informatyczno-Elektroniczna;Wisla;II;1971
+1492;Malgorzata;Bronicz;Uniwersytet Krolewski;Wisla;I;2290
+1493;Paulina;Malecka;Wyzsza Szko�a Techniczna;Witonia;I;2037
+1494;Krystian;Dunaj;Politechnika Informatyczno-Elektroniczna;Witonia;IV;2634
+1495;Zbigniew;Milion;Uniwersytet Rolniczy;Witonia;IV;545
+1496;Alan;Nieszporek;Politechnika Informatyczno-Elektroniczna;Wloclawek;I;1921
+1497;Wanda;Barabasz;Politechnika Krolewska;Wlodowice;V;1227
+1498;Dawid;Adamek;Politechnika Informatyczno-Elektroniczna;Wlodowice;I;1512
+1499;Ewa;Malkowska;Politechnika Informatyczno-Elektroniczna;Wlodowice;V;1388
+1500;Paulina;Andruszewska;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;I;766
+1501;Elzbieta;Kosinska;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;I;2455
+1502;Artur;Biankowski;Uniwersytet Krolewski;Wodzislaw Slaski;II;577
+1503;Malgorzata;Podsiadlo;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;III;1164
+1504;Wioletta;Oliwa;Uniwersytet Krolewski;Wodzislaw Slaski;I;762
+1505;Eustachy;Czyrnek;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;II;536
+1506;Boguslawa;Kowalska;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;IV;2453
+1507;Antoni;Rutkowski;Uniwersytet Krolewski;Wodzislaw Slaski;III;3173
+1508;Michal;Kowalski;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;I;2706
+1509;Agnieszka;�miel;Politechnika Krolewska;Wodzislaw Slaski;I;2319
+1510;Wieslaw;Helski;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;V;534
+1511;Aleksy;Domagalik;Uniwersytet Ekonomiczny;Wodzislaw Slaski;I;1749
+1512;Katarzyna;Ogrodniczak;Uniwersytet Pedagogiczny;Wodzislaw Slaski;I;1421
+1513;Maciej;Kaminski;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;V;1509
+1514;Bronislaw;Chwala;Uniwersytet Krolewski;Wodzislaw Slaski;I;1032
+1515;Jozafat;Marcinkiewicz;Politechnika Informatyczno-Elektroniczna;Wodzislaw Slaski;I;3054
+1516;Miron;Mewa;Uniwersytet Krolewski;Wojkowice;III;2311
+1517;Zofia;Piwowarczyk;Akademia Sztuk Pieknych;Wojkowice;IV;1206
+1518;Jakub;Grzybowski;Uniwersytet Pedagogiczny;Wojkowice;II;2915
+1519;Janusz;Kowalonek;Uniwersytet Pedagogiczny;Wojkowice;II;1974
+1520;Teresa;Wrobel;Politechnika Krolewska;Wojkowice;V;2341
+1521;Karolina;Kryniewska;Politechnika Krolewska;Wojkowice;I;795
+1522;Sergiusz;Migdalowski;Uniwersytet Krolewski;Wojkowice;I;2008
+1523;Tomasz;Gwozdziewicz;Politechnika Informatyczno-Elektroniczna;Wojkowice;I;1995
+1524;Ryszard;Lubaszka;Politechnika Informatyczno-Elektroniczna;Wojkowice;I;1399
+1525;Jakub;Wilinski;Politechnika Informatyczno-Elektroniczna;Wojkowice;I;1525
+1526;Tadeusz;Sienkiewicz;Politechnika Informatyczno-Elektroniczna;Wolbrom;III;3207
+1527;Jakub;Hajdukiewicz;Uniwersytet Krolewski;Wolbrom;I;1627
+1528;Ilona;Banasiewicz;Uniwersytet Krolewski;Wolbrom;I;2796
+1529;Slawomir;Balcerowski;Politechnika Informatyczno-Elektroniczna;Wolbrom;I;1236
+1530;Tomasz;Witas;Politechnika Informatyczno-Elektroniczna;Wolbrom;V;2728
+1531;Slawomir;Kominiarz;Uniwersytet Krolewski;Wolbrom;I;1882
+1532;Krystyna;Damska;Politechnika Informatyczno-Elektroniczna;Wolbrom;II;1502
+1533;Jan;Oleksy;Politechnika Krolewska;Wolbrom;I;3180
+1534;Agata;Najowicz;Uniwersytet Krolewski;Wolbrom;V;2951
+1535;Agata;Rakulska;Uniwersytet Krolewski;Wolbrom;II;1824
+1536;Wiktor;Buczkowski;Uniwersytet Krolewski;Wolbrom;II;1267
+1537;Alicja;Kraus;Politechnika Krolewska;Wroclaw;V;3162
+1538;Michal;Polak;Uniwersytet Ekonomiczny;Wroclaw;III;1720
+1539;Henryk;Barylka;Politechnika Informatyczno-Elektroniczna;Wroclaw;I;2909
+1540;Barbara;Wolej;Politechnika Krolewska;Wroclaw;V;1795
+1541;Adelajda;Klimczyk;Uniwersytet Krolewski;Wroclaw;II;1932
+1542;Kamil;Baranowski;Politechnika Informatyczno-Elektroniczna;Wroclaw;I;2743
+1543;Dawid;Kruk;Politechnika Krolewska;Wroclaw;V;810
+1544;Anna;Kowalska;Uniwersytet Krolewski;Wroclaw;III;1612
+1545;Robert;Zalewicz;Politechnika Krolewska;Zabrodzie;I;784
+1546;Rafal;Swiderski;Politechnika Krolewska;Zabrodzie;III;1310
+1547;Edyta;Rebajn;Uniwersytet Pedagogiczny;Zabrodzie;I;801
+1548;Klara;Sokolowska;Politechnika Krolewska;Zabrze;I;557
+1549;Barbara;Josiak;Uniwersytet Krolewski;Zabrze;II;3281
+1550;Beata;Walczak;Uniwersytet Krolewski;Zabrze;I;986
+1551;Beata;Rompalska;Uniwersytet Krolewski;Zabrze;IV;2272
+1552;Krystiana;Wolna;Politechnika Informatyczno-Elektroniczna;Zabrze;V;2215
+1553;Anna;Rozalska;Uniwersytet Krolewski;Zabrze;V;471
+1554;Czeslaw;Kawa;Politechnika Informatyczno-Elektroniczna;Zabrze;II;3138
+1555;Dorota;Lichwa;Politechnika Krolewska;Zabrze;II;1005
+1556;Mateusz;Kozlowski;Akademia Sztuk Pieknych;Zabrze;I;3332
+1557;Mateusz;Ceglarz;Uniwersytet Ekonomiczny;Zakopane;IV;771
+1558;Andrzej;Balicki;Politechnika Informatyczno-Elektroniczna;Zakopane;I;2463
+1559;Halina;Malewska;Uniwersytet Krolewski;Zakopane;III;2999
+1560;Bartosz;Pawlik;Akademia Sztuk Pieknych;Zakopane;III;2115
+1561;Marek;Majcher;Politechnika Informatyczno-Elektroniczna;Zakopane;I;3128
+1562;Rafal;Wozny;Uniwersytet Krolewski;Zakopane;I;1187
+1563;Mieczyslaw;Zuchowski;Politechnika Informatyczno-Elektroniczna;Zakopane;I;1745
+1564;Ziemowit;Szczepanski;Akademia Sztuk Pieknych;Zakopane;II;1834
+1565;Anna;Pankiewicz;Uniwersytet Krolewski;Zakopane;I;2463
+1566;Zbigniew;Ostrowski;Politechnika Informatyczno-Elektroniczna;Zakopane;II;2095
+1567;Daria;Antonkiewicz;Uniwersytet Krolewski;Zakopane;I;848
+1568;Renata;Chyla;Politechnika Krolewska;Zambrow;I;3318
+1569;Karina;Urban;Uniwersytet Krolewski;Zambrow;I;1392
+1570;Anna;Dudek;Akademia Sztuk Pieknych;Zambrow;II;3196
+1571;Piotr;Chwalek;Uniwersytet Sportu i Turystyki;Zamosc;IV;982
+1572;Zygfryd;Lechowski;Politechnika Informatyczno-Elektroniczna;Zamosc;I;2032
+1573;Irena;Calka;Uniwersytet Krolewski;Zamosc;I;3103
+1574;Karol;Wiercioch;Politechnika Informatyczno-Elektroniczna;Zamosc;I;1875
+1575;Tomasz;Cwierz;Uniwersytet Krolewski;Zamosc;I;666
+1576;Adam;Kanarek;Uniwersytet Ekonomiczny;Zamosc;I;1134
+1577;Beata;Tyliba;Uniwersytet Krolewski;Zamosc;I;3223
+1578;Ewa;Bartosz;Akademia Sztuk Pieknych;Zamosc;I;2717
+1579;Piotr;Smietanski;Politechnika Informatyczno-Elektroniczna;Zamosc;I;3233
+1580;Slawomir;Malcharek;Politechnika Informatyczno-Elektroniczna;Zawiercie;III;607
+1581;Lechoslaw;Bitwa;Akademia Sztuk Pieknych;Zawiercie;I;1641
+1582;Aleksander;Polak;Politechnika Informatyczno-Elektroniczna;Zawiercie;III;1516
+1583;Janusz;Kmicic;Politechnika Informatyczno-Elektroniczna;Zawiercie;I;1121
+1584;Cezar;Pawlak;Politechnika Krolewska;Zawiercie;I;1693
+1585;Mateusz;Symanski;Politechnika Informatyczno-Elektroniczna;Zawiercie;I;955
+1586;Maria;Kazmierowska;Politechnika Informatyczno-Elektroniczna;Zawiercie;I;859
+1587;Mateusz;Szwaja;Uniwersytet Sportu i Turystyki;Zawiercie;II;649
+1588;Ewa;Laczna;Politechnika Krolewska;Zawiercie;I;2539
+1589;Irena;Magiera;Politechnika Informatyczno-Elektroniczna;Zawiercie;I;1898
+1590;Pawel;Jakubowski;Uniwersytet Ekonomiczny;Zawiercie;I;1145
+1591;Karol;Szymanski;Politechnika Informatyczno-Elektroniczna;Zawiercie;II;2706
+1592;Adam;Nieweglowski;Uniwersytet Krolewski;Zgorzelec;IV;2497
+1593;Leszek;Kieslowski;Uniwersytet Krolewski;Zgorzelec;II;1190
+1594;Piotr;Bielawa;Politechnika Krolewska;Zgorzelec;I;3047
+1595;Konstantyn;Sokolowski;Politechnika Krolewska;Zgorzelec;I;1293
+1596;Lech;Balickiewicz;Uniwersytet Krolewski;Zielona Gora;I;2987
+1597;Marek;Kwolek;Politechnika Informatyczno-Elektroniczna;Zielona Gora;I;2982
+1598;Anna;Galaszewska;Politechnika Informatyczno-Elektroniczna;Zory;I;3016
+1599;Agnieszka;Garbaczyk;Politechnika Informatyczno-Elektroniczna;Zory;II;2910
+1600;Laura;Cedro;Uniwersytet Krolewski;Zory;III;2764
+1601;Rita;Pieczenczyk;Politechnika Informatyczno-Elektroniczna;Zory;I;2229
+1602;Waclawa;Borkowska;Politechnika Krolewska;Zory;II;1683
+1603;Adrian;Melnik;Politechnika Informatyczno-Elektroniczna;Zory;III;424
+1604;Anna;Czernicka;Politechnika Informatyczno-Elektroniczna;Zory;I;2437
+1605;Czeslaw;Balonski;Akademia Sztuk Pieknych;Zory;I;629
+1606;Agnieszka;Banczak;Politechnika Krolewska;Zory;V;2368
+1607;Oskar;Piekarski;Politechnika Krolewska;Zyrardow;V;401
+1608;Wieslaw;Mazurek;Politechnika Krolewska;Zyrardow;II;2574
+1609;Walenty;Mondkiewicz;Politechnika Krolewska;Zywiec;I;1793
+1610;Mateusz;Felerski;Uniwersytet Krolewski;Zywiec;I;2355
+1611;Roza;Zawodna;Uniwersytet Pedagogiczny;Zywiec;II;2291
+1612;Wladyslawa;Bijak;Politechnika Informatyczno-Elektroniczna;Zywiec;I;1271
+1613;Bozena;Chechelska;Uniwersytet Krolewski;Zywiec;III;870
+1614;Adam;Sasimski;Uniwersytet Pedagogiczny;Zywiec;III;2957
+1615;Julianna;Abacka;Politechnika Krolewska;Zywiec;II;2583
+1616;Krzysztof;Chojnacki;Uniwersytet Krolewski;Zywiec;II;2422

@@ -1,0 +1,1618 @@
+Miasto	Kod_pocztowy
+Aleksandrow Kujawski	53-614
+Aleksandrow Kujawski	53-614
+Aleksandrow Kujawski	53-614
+Alwernia	27-938
+Alwernia	27-938
+Alwernia	27-938
+Alwernia	27-938
+Alwernia	27-938
+Alwernia	27-938
+Alwernia	27-938
+Alwernia	27-938
+Baborów	48-364
+Baborów	48-364
+Baborów	48-364
+Barlinek	83-236
+Barwinek	09-428
+Barwinek	09-428
+Bezledy	75-057
+Bezledy	75-057
+Bezledy	75-057
+Bezledy	75-057
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bêdzin	69-501
+Bia³a Podlaska	00-425
+Bia³a Podlaska	00-425
+Bia³a Podlaska	00-425
+Bia³aszewo	56-545
+Bia³aszewo	56-545
+Bia³aszewo	56-545
+Bia³ystok	54-632
+Bia³ystok	54-632
+Bia³ystok	54-632
+Bia³ystok	54-632
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bielsk Podlaski	96-087
+Bochnia	89-362
+Bochnia	89-362
+Bochnia	89-362
+Bochnia	89-362
+Bochnia	89-362
+Bochnia	89-362
+Bochnia	89-362
+Bo¿ewo	94-896
+Bo¿ewo	94-896
+Bo¿ewo	94-896
+Brañsk	29-325
+Brañsk	29-325
+Brañsk	29-325
+Brañsk	29-325
+Brzeg Dolny	14-287
+Brzeg Dolny	14-287
+Brzesko	96-703
+Brzesko	96-703
+Brzesko	96-703
+Brzesko	96-703
+Brzesko	96-703
+Brzesko	96-703
+Bydgoszcz	29-199
+Bydgoszcz	29-199
+Bydgoszcz	29-199
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Bytom	80-339
+Chalupki	70-071
+Chalupki	70-071
+Chalupki	70-071
+Chalupki	70-071
+Chalupki	70-071
+Chalupki	70-071
+Che³m	37-997
+Che³m	37-997
+Che³m	37-997
+Che³m	37-997
+Che³m	37-997
+Che³m	37-997
+Che³m	37-997
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chorzów	97-545
+Chy¿ne	76-235
+Chy¿ne	76-235
+Chy¿ne	76-235
+Chy¿ne	76-235
+Chy¿ne	76-235
+Ciechanów	37-640
+Ciechanów	37-640
+Ciechanów	37-640
+Ciechanów	37-640
+Ciechanów	37-640
+Ciechocinek	98-839
+Ciechocinek	98-839
+Ciechocinek	98-839
+Ciechocinek	98-839
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Cieszyn	68-101
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Czêstochowa	86-116
+Daszyna	43-141
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+D¹browa Górnicza	75-727
+Debrzno	03-065
+Debrzno	03-065
+Debrzno	03-065
+Dêbica	53-306
+Dêbica	53-306
+Dêbica	53-306
+Dêbica	53-306
+Dêblin	53-807
+Dêblin	53-807
+Dêblin	53-807
+Dêblin	53-807
+Dêblin	53-807
+Dêblin	53-807
+Dêblin	53-807
+Dêblin	53-807
+Dêblin	53-807
+Dêbowiec	36-478
+Dêbowiec	36-478
+Dêbowiec	36-478
+Dêbowiec	36-478
+D³ugopole-Zdrój	07-772
+D³ugopole-Zdrój	07-772
+D³ugopole-Zdrój	07-772
+D³ugopole-Zdrój	07-772
+Dobieszowice	34-734
+Dobieszowice	34-734
+Dobre Miasto	52-964
+Dobre Miasto	52-964
+Dobre Miasto	52-964
+Dobre Miasto	52-964
+Dobre Miasto	52-964
+Dzier¿oniów	87-324
+Dzier¿oniów	87-324
+Elbl¹g	10-656
+Elbl¹g	10-656
+Elbl¹g	10-656
+E³k	05-563
+E³k	05-563
+E³k	05-563
+E³k	05-563
+E³k	05-563
+Gdañsk	83-271
+Gdañsk	83-271
+Gdañsk	83-271
+Gdañsk	83-271
+Gdynia	13-179
+Gdynia	13-179
+Gieb³o	76-179
+Gieb³o	76-179
+Gieb³o	76-179
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Giera³towice	04-834
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+Gliwice	11-608
+G³ubczyce	65-458
+G³ubczyce	65-458
+G³ubczyce	65-458
+G³ubczyce	65-458
+G³ubczyce	65-458
+G³ubczyce	65-458
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+G³ucho³azy	30-136
+Gorki Male	36-984
+Gorki Male	36-984
+Gorki Male	36-984
+Gorki Male	36-984
+Gorki Male	36-984
+Gorzów Wielkopolski	78-003
+Gorzów Wielkopolski	78-003
+Gorzów Wielkopolski	78-003
+Gorzów Wielkopolski	78-003
+Gostyñ	97-023
+Gostyñ	97-023
+Gostyñ	97-023
+Gostyñ	97-023
+Grudzi¹dz	43-210
+Grudzi¹dz	43-210
+Grudzi¹dz	43-210
+Grudzi¹dz	43-210
+Gryfice	51-783
+Gryfice	51-783
+Gryfice	51-783
+Gryfice	51-783
+Gryfice	51-783
+Gubin	94-706
+Gubin	94-706
+Gubin	94-706
+Halinów	33-056
+Halinów	33-056
+Halinów	33-056
+Hrebenne	37-873
+Hrebenne	37-873
+Hrebenne	37-873
+I³awa	70-459
+I³awa	70-459
+Inowroc³aw	21-327
+Istebna	22-654
+Istebna	22-654
+Istebna	22-654
+Istebna	22-654
+Istebna	22-654
+Istebna	22-654
+Istebna	22-654
+Istebna	22-654
+Izbica Kujawska	02-756
+Izbica Kujawska	02-756
+Jakuszyce	89-300
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jas³o	92-050
+Jastrzêbie-Zdrój	51-394
+Jastrzêbie-Zdrój	51-394
+Jastrzêbie-Zdrój	51-394
+Jastrzêbie-Zdrój	51-394
+Jastrzêbie-Zdrój	51-394
+Jastrzêbie-Zdrój	51-394
+Jastrzêbie-Zdrój	51-394
+Jaworzno	98-650
+Jaworzno	98-650
+Jaworzno	98-650
+Jaworzno	98-650
+Jaworzno	98-650
+Jaworzno	98-650
+Jaworzno	98-650
+Jaworzynka	56-921
+Jaworzynka	56-921
+Jaworzynka	56-921
+Jaworzynka	56-921
+Jaworzynka	56-921
+Jaworzynka	56-921
+Jaworzynka	56-921
+Jaworzynka	56-921
+Jejkowice	67-738
+Jejkowice	67-738
+Jejkowice	67-738
+Jejkowice	67-738
+Jejkowice	67-738
+Jejkowice	67-738
+Jejkowice	67-738
+Jejkowice	67-738
+Jejkowice	67-738
+Jelenia Góra	14-742
+Jelenia Góra	14-742
+Je¿ewo	53-780
+Je¿ewo	53-780
+Je¿ewo	53-780
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Jêdrzejów	62-049
+Józefów	40-643
+Józefów	40-643
+Julianka	95-306
+Julianka	95-306
+Julianka	95-306
+Julianka	95-306
+Kalisz	29-379
+Kalisz	29-379
+Karniewo	21-405
+Karniewo	21-405
+Karniewo	21-405
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Katowice	72-241
+Kety	36-844
+Kety	36-844
+Kety	36-844
+Kety	36-844
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêdzierzyn-KoŸle	81-133
+Kêpice	66-251
+Kêpice	66-251
+Kêpice	66-251
+Kêpice	66-251
+Kêpice	66-251
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kielce	04-274
+Kleszczów	18-459
+Kleszczów	18-459
+Kleszczów	18-459
+Kleszczów	18-459
+Kleszczów	18-459
+Kleszczów	18-459
+K³omnice	43-045
+K³omnice	43-045
+K³omnice	43-045
+K³omnice	43-045
+K³omnice	43-045
+K³omnice	43-045
+K³omnice	43-045
+Kobylin	02-635
+Kobylin-Borzymy	21-258
+Kobylin-Borzymy	21-258
+Kobylin-Borzymy	21-258
+Kogutek	99-754
+Kogutek	99-754
+Kogutek	99-754
+Kogutek	99-754
+Kogutek	99-754
+Ko³baskowo	95-186
+Ko³baskowo	95-186
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Koniaków	34-607
+Konin	39-551
+Konin	39-551
+Konin	39-551
+Kostrzyn	22-864
+Koszalin	36-759
+Koszalin	36-759
+Koœcian	26-594
+Koœcian	26-594
+Koœcian	26-594
+Koœcian	26-594
+Krapkowice	94-560
+Krapkowice	94-560
+Krapkowice	94-560
+Krapkowice	94-560
+Krapkowice	94-560
+Kraœnik	90-749
+Kraœnik	90-749
+Krosno	80-338
+Krosno	80-338
+Krosno	80-338
+Krosno	80-338
+Krosno	80-338
+Krosno	80-338
+Kruszwica	33-294
+Kruszwica	33-294
+Kruszwica	33-294
+Kruszwica	33-294
+Krzeszowice	91-488
+Krzeszowice	91-488
+Krzeszowice	91-488
+Krzeszowice	91-488
+Krzeszowice	91-488
+Krzy¿ Wielkopolski	09-310
+Kudowa-S³one	83-829
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnia Raciborska	78-122
+KuŸnica Bia³ostocka	81-042
+KuŸnica Bia³ostocka	81-042
+Legionowo	36-889
+Legionowo	36-889
+Legionowo	36-889
+Legnica	58-930
+Legnica	58-930
+Legnica	58-930
+Legnica	58-930
+Leszno	90-272
+Leszno	90-272
+Leszno	90-272
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Lêdziny	27-535
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+Limanowa	65-385
+LódŸ	92-577
+Lubaczów	60-915
+Lubaczów	60-915
+Lubaczów	60-915
+Lubaczów	60-915
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lublin	79-726
+Lubliniec	14-322
+Lubliniec	14-322
+Lubliniec	14-322
+Lubliniec	14-322
+Lubliniec	14-322
+Lubliniec	14-322
+Lubliniec	14-322
+Lubliniec	14-322
+Lubliniec	14-322
+Lwówek Sl¹ski	11-782
+Lwówek Sl¹ski	11-782
+Lwówek Sl¹ski	11-782
+£azy	63-587
+£azy	63-587
+£êczyca	16-385
+£êczyca	16-385
+£om¿a	22-623
+£om¿a	22-623
+Malbork	70-239
+Medyka	67-566
+Medyka	67-566
+Medyka	67-566
+Miasto	Kod_pocztowy
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miechów	47-553
+Miêdzyrzecz	64-542
+Miêdzyrzecze	28-079
+Miêdzyrzecze	28-079
+Miko³ajki	83-977
+Miko³ajki	83-977
+Miko³ajki	83-977
+Miko³ajki	83-977
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Miko³ów	96-497
+Mirów	69-389
+M³ynarze	72-438
+M³ynarze	72-438
+M³ynarze	72-438
+M³ynarze	72-438
+Monki	32-544
+Monki	32-544
+Mordy	07-754
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Mys³owice	13-220
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Myszków	91-786
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Na³êczów	83-630
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy S¹cz	62-813
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nowy Targ	84-043
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Nysa	72-297
+Oborniki	33-160
+Oborniki	33-160
+Oborniki	33-160
+Ogrodniki	14-095
+Ogrodniki	14-095
+Ogrodniki	14-095
+Ogrodniki	14-095
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Ogrodzieniec	82-082
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olkusz	19-255
+Olsztyn	44-718
+Olszyna	69-786
+Olszyna	69-786
+Opole	16-549
+Opole	16-549
+Ostro³êka	60-815
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Oœwiêcim	27-702
+Otmuchów	69-204
+Otmuchów	69-204
+Otmuchów	69-204
+Piechowice	57-943
+Piechowice	57-943
+Piechowice	57-943
+Pila	06-355
+Pila	06-355
+Pilica	15-308
+Pilica	15-308
+Pilica	15-308
+Pilica	15-308
+Pilica	15-308
+Piotrków Trybunalski	04-419
+Piotrków Trybunalski	04-419
+Piotrków Trybunalski	04-419
+Piotrków Trybunalski	04-419
+Piwniczna-Zdrój	09-592
+Piwniczna-Zdrój	09-592
+Piwniczna-Zdrój	09-592
+Piwniczna-Zdrój	09-592
+Piwniczna-Zdrój	09-592
+P³ock	04-688
+P³ock	04-688
+P³ock	04-688
+Poraj	80-436
+Poraj	80-436
+Poraj	80-436
+Poznañ	40-853
+Poznañ	40-853
+Poznañ	40-853
+Prudnik	09-823
+Prudnik	09-823
+Prudnik	09-823
+Prudnik	09-823
+Prudnik	09-823
+Prudnik	09-823
+Prudnik	09-823
+Prudnik	09-823
+Przasnysz	81-084
+Przasnysz	81-084
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Przemyœl	38-959
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pszczyna	53-858
+Pu³awy	66-219
+Pu³awy	66-219
+Pu³awy	66-219
+Pu³awy	66-219
+Pu³awy	66-219
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzowice	49-345
+Pyrzyce	76-362
+Pyrzyce	76-362
+Pyrzyce	76-362
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Rabka	30-698
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Racibórz	00-355
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Radom	43-586
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+Rajcza	18-286
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+RogoŸnik	74-768
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Ruda Sl¹ska	12-684
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rybnik	24-983
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Rzeszów	89-735
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Sanok	71-890
+Siedlce	14-461
+Siedlce	14-461
+Siedlce	14-461
+Siedlce	14-461
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Siemianowice Sl¹skie	09-006
+Sieradz	62-407
+Sieradz	62-407
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Siewierz	65-885
+Skierniewice	18-665
+Skierniewice	18-665
+Skierniewice	18-665
+Skorogoszcz	57-633
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+S³awków	42-081
+Sobotka	16-386
+Sopot	77-187
+Sopot	77-187
+Sopot	77-187
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Sosnowiec	14-721
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Soœnicowice	15-658
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Strzelce Opolskie	60-596
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sucha Beskidzka	98-902
+Sura¿	76-117
+Sura¿	76-117
+Suwa³ki	91-271
+Suwa³ki	91-271
+Szamotu³y	64-698
+Szamotu³y	64-698
+Szamotu³y	64-698
+Szczecin	22-544
+Szczecin	22-544
+Szczecinek	48-418
+Szczecinek	48-418
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczekociny	66-008
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Szczyrk	75-361
+Œwiecko	47-842
+Œwiecko	47-842
+Œwiecko	47-842
+Œwieradów-Zdrój	01-685
+Œwieradów-Zdrój	01-685
+Œwieradów-Zdrój	01-685
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwiêtoch³owice	38-932
+Œwinoujskie	13-345
+Œwinoujskie	13-345
+Œwinoujskie	13-345
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnobrzeg	85-266
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnowskie Góry	24-243
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Tarnów	87-348
+Terespol	22-593
+Terespol	22-593
+Terespol	22-593
+Terespol	22-593
+Terespol	22-593
+Tomaszów Lubelski	95-084
+Tomaszów Lubelski	95-084
+Tomaszów Lubelski	95-084
+Tomaszów Lubelski	95-084
+Tomaszów Lubelski	95-084
+Toruñ	90-535
+Toruñ	90-535
+Toruñ	90-535
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Trzebinia	26-607
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tworóg	62-560
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Tychy	76-939
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Ustroñ	51-637
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Wadowice	47-222
+Walce	28-103
+Walce	28-103
+Walce	28-103
+Walce	28-103
+Wa³brzych	62-834
+Wa³brzych	62-834
+Wa³brzych	62-834
+Wa³brzych	62-834
+Warszawa	83-294
+Warszawa	83-294
+Warszawa	83-294
+Warszawa	83-294
+Warszawa	83-294
+Warszawa	83-294
+Warszawa	83-294
+W¹growiec	87-659
+Wejherowo	68-209
+Wejherowo	68-209
+Wejherowo	68-209
+Wêgorzewo	67-547
+Wêgorzewo	67-547
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Wis³a	99-436
+Witonia	21-857
+Witonia	21-857
+Witonia	21-857
+W³oc³awek	10-408
+W³odowice	37-089
+W³odowice	37-089
+W³odowice	37-089
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wodzis³aw Sl¹ski	83-544
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wojkowice	84-273
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wolbrom	46-174
+Wroc³aw	62-182
+Wroc³aw	62-182
+Wroc³aw	62-182
+Wroc³aw	62-182
+Wroc³aw	62-182
+Wroc³aw	62-182
+Wroc³aw	62-182
+Wroc³aw	62-182
+Zabrodzie	71-608
+Zabrodzie	71-608
+Zabrodzie	71-608
+Zabrze	91-525
+Zabrze	91-525
+Zabrze	91-525
+Zabrze	91-525
+Zabrze	91-525
+Zabrze	91-525
+Zabrze	91-525
+Zabrze	91-525
+Zabrze	91-525
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zakopane	00-995
+Zambrów	53-324
+Zambrów	53-324
+Zambrów	53-324
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zamoœæ	99-773
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zawiercie	58-922
+Zgorzelec	79-972
+Zgorzelec	79-972
+Zgorzelec	79-972
+Zgorzelec	79-972
+Zielona Góra	95-970
+Zielona Góra	95-970
+¯ory	29-724
+¯ory	29-724
+¯ory	29-724
+¯ory	29-724
+¯ory	29-724
+¯ory	29-724
+¯ory	29-724
+¯ory	29-724
+¯ory	29-724
+¯yrardów	51-006
+¯yrardów	51-006
+¯ywiec	00-137
+¯ywiec	00-137
+¯ywiec	00-137
+¯ywiec	00-137
+¯ywiec	00-137
+¯ywiec	00-137
+¯ywiec	00-137
+¯ywiec	00-137
